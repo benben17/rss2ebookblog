@@ -1,0 +1,1190 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 6.3.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"blog.rss2ebook.com","root":"/","scheme":"Mist","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":16,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":null},"back2top":{"enable":true,"sidebar":true,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":"enable","trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备">
+<meta property="og:type" content="website">
+<meta property="og:title" content="RSS2EBOOK">
+<meta property="og:url" content="https://blog.rss2ebook.com/index.html">
+<meta property="og:site_name" content="RSS2EBOOK">
+<meta property="og:description" content="免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备">
+<meta property="og:locale">
+<meta property="article:author" content="benben">
+<meta property="article:tag" content="RSS2EBOOK">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="https://blog.rss2ebook.com/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : true,
+    isPost : false,
+    lang   : 'zh-Hans'
+  };
+</script>
+
+  <title>RSS2EBOOK</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+<link rel="alternate" href="/atom.xml" title="RSS2EBOOK" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">RSS2EBOOK</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">RSS源生成带图电子书或者杂志</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="reading-progress-bar"></div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content index posts-expand">
+            
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="https://blog.rss2ebook.com/2023/04/11/rss2Ebook/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="benben">
+      <meta itemprop="description" content="免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RSS2EBOOK">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2023/04/11/rss2Ebook/" class="post-title-link" itemprop="url">RSS2Ebook</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+              
+
+              <time title="Created: 2023-04-11 19:12:13 / Modified: 18:58:29" itemprop="dateCreated datePublished" datetime="2023-04-11T19:12:13+08:00">2023-04-11</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/rss2Ebook/" itemprop="url" rel="index"><span itemprop="name">rss2Ebook</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>英文RSS生成电子书，自定义订阅源,定时自动发送</p>
+<p><a target="_blank" rel="noopener" href="https://www.rss2ebook.com/">https://www.rss2ebook.com</a></p>
+<ul>
+<li>1、经济学人 (The Economist)</li>
+<li>2、卫报 (The Guardian)</li>
+<li>3、时代周刊 (Time)</li>
+<li>4、大西洋月刊 (The Atlantic)</li>
+<li>5、纽约时报 (The New York Times)</li>
+<li>6、新科学家 (New Scientist)</li>
+<li>7、美国国家地理 (National Geographic)</li>
+<li>8、科学美国人 (Scientific American)</li>
+<li>9、哈佛商业评论 (Harvard Business Review</li>
+<li>10、纽约客 (The New Yorker)</li>
+<li>11、自然 (Nature)</li>
+<li>12、科学 (Science)</li>
+<li>13、彭博商业周刊 (Bloomberg Businessweek)</li>
+<li>14、纽约时报书评 (The New York Times Reviewof Books)</li>
+<li>15、华盛顿邮报 (The Washington Post)</li>
+<li>16、基督教科学箴言报 (The Christian ScienceMonitor</li>
+<li>17、《金融时报》 Financial Times</li>
+<li>18、《华尔街日报》 The Wall Street Journa</li>
+<li>19、《科学家》The Scientist</li>
+<li>20、《时尚》 Vogue</li>
+</ul>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="https://blog.rss2ebook.com/2023/04/08/%E6%88%91%E4%BB%AC%E5%BA%94%E8%AF%A5%E5%B8%8C%E6%9C%9B%E4%BB%80%E4%B9%88/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="benben">
+      <meta itemprop="description" content="免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RSS2EBOOK">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2023/04/08/%E6%88%91%E4%BB%AC%E5%BA%94%E8%AF%A5%E5%B8%8C%E6%9C%9B%E4%BB%80%E4%B9%88/" class="post-title-link" itemprop="url">我们应该希望什么？</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2023-04-08 00:00:00" itemprop="dateCreated datePublished" datetime="2023-04-08T00:00:00+08:00">2023-04-08</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2023-04-11 18:58:24" itemprop="dateModified" datetime="2023-04-11T18:58:24+08:00">2023-04-11</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%BF%83%E7%90%86/" itemprop="url" rel="index"><span itemprop="name">心理</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <blockquote>
+<p>要点</p>
+</blockquote>
+<ul>
+<li>希望是情商的基石，但杰出的人性思想家往往只是顺便注意到它。</li>
+<li>希望不是乐观，它的等式更复杂：希望&#x3D;愿望+好+不确定性+功效。</li>
+<li>希望需要伙伴关系。在人类事务中，“我是希望”永远不够;“我们是希望”是实现梦想的唯一途径。
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/04/08/%E6%88%91%E4%BB%AC%E5%BA%94%E8%AF%A5%E5%B8%8C%E6%9C%9B%E4%BB%80%E4%B9%88/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="https://blog.rss2ebook.com/2023/03/28/%E5%AF%B9%E5%A4%B1%E5%8E%BB%E7%8B%AC%E7%AB%8B%E7%9A%84%E6%81%90%E6%83%A7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="benben">
+      <meta itemprop="description" content="免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RSS2EBOOK">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2023/03/28/%E5%AF%B9%E5%A4%B1%E5%8E%BB%E7%8B%AC%E7%AB%8B%E7%9A%84%E6%81%90%E6%83%A7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB/" class="post-title-link" itemprop="url">对失去独立的恐惧如何影响人际关系</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2023-03-28 00:00:00" itemprop="dateCreated datePublished" datetime="2023-03-28T00:00:00+08:00">2023-03-28</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2023-04-11 18:57:47" itemprop="dateModified" datetime="2023-04-11T18:57:47+08:00">2023-04-11</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%BF%83%E7%90%86/" itemprop="url" rel="index"><span itemprop="name">心理</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <blockquote>
+<p>要点</p>
+</blockquote>
+<ul>
+<li>对失去独立的恐惧可能会在那些在专横的看护人中长大或在童年时期需求没有得到满足的人身上发展起来。</li>
+<li>对独立的强烈需求可能表现为倾向于关注伴侣的缺点或声称“缺少某些东西”。</li>
+<li>在一个人意识到他们害怕失去独立性后，治疗师可以帮助改变这种模式。
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/03/28/%E5%AF%B9%E5%A4%B1%E5%8E%BB%E7%8B%AC%E7%AB%8B%E7%9A%84%E6%81%90%E6%83%A7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="https://blog.rss2ebook.com/2023/03/28/%E7%88%B1%E4%B8%8E%E6%81%A8%E7%9A%84%E5%85%B3%E7%B3%BB/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="benben">
+      <meta itemprop="description" content="免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RSS2EBOOK">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2023/03/28/%E7%88%B1%E4%B8%8E%E6%81%A8%E7%9A%84%E5%85%B3%E7%B3%BB/" class="post-title-link" itemprop="url">爱与恨的关系</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2023-03-28 00:00:00" itemprop="dateCreated datePublished" datetime="2023-03-28T00:00:00+08:00">2023-03-28</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2023-04-10 21:24:19" itemprop="dateModified" datetime="2023-04-10T21:24:19+08:00">2023-04-10</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%BF%83%E7%90%86/" itemprop="url" rel="index"><span itemprop="name">心理</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <blockquote>
+<p>关键点</p>
+</blockquote>
+<ul>
+<li>所有亲密关系都会引起双方强烈的积极和消极情绪。</li>
+<li>自愿建立的关系与天生的关系相比，约束更少，更容易终止。</li>
+<li>涉及爱情的关系可能会非常痛苦；他们也可以提供最多的信息，以更好地了解自己。</li>
+</ul>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/03/28/%E7%88%B1%E4%B8%8E%E6%81%A8%E7%9A%84%E5%85%B3%E7%B3%BB/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="https://blog.rss2ebook.com/2023/03/27/%E8%82%A5%E8%83%96%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E7%A7%8D%E7%97%85%E5%90%97%EF%BC%9F/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="benben">
+      <meta itemprop="description" content="免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RSS2EBOOK">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2023/03/27/%E8%82%A5%E8%83%96%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E7%A7%8D%E7%97%85%E5%90%97%EF%BC%9F/" class="post-title-link" itemprop="url">肥胖真的是一种病吗？</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2023-03-27 15:20:52" itemprop="dateCreated datePublished" datetime="2023-03-27T15:20:52+08:00">2023-03-27</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2023-04-11 18:57:55" itemprop="dateModified" datetime="2023-04-11T18:57:55+08:00">2023-04-11</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%81%A5%E5%BA%B7/" itemprop="url" rel="index"><span itemprop="name">健康</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <blockquote>
+<p>将肥胖称为疾病（或不是疾病）充满了困难。</p>
+</blockquote>
+<p>关键点</p>
+<ul>
+<li>2008 年，肥胖协会没有将肥胖称为疾病。</li>
+<li>关于遗传对肥胖的贡献的发现突出了肥胖的复杂性。</li>
+<li>将肥胖称为疾病会影响态度、治疗、健康保险、政策和教育。</li>
+</ul>
+<hr>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/03/27/%E8%82%A5%E8%83%96%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E7%A7%8D%E7%97%85%E5%90%97%EF%BC%9F/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="https://blog.rss2ebook.com/2023/03/27/%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%B1%E7%9C%A0%EF%BC%9F/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="benben">
+      <meta itemprop="description" content="免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RSS2EBOOK">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2023/03/27/%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%B1%E7%9C%A0%EF%BC%9F/" class="post-title-link" itemprop="url">什么是失眠？</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+              
+
+              <time title="Created: 2023-03-27 00:00:00 / Modified: 14:58:49" itemprop="dateCreated datePublished" datetime="2023-03-27T00:00:00+08:00">2023-03-27</time>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>睡眠障碍是一组影响睡眠时间、质量或数量的睡眠障碍。</p>
+<h2 id="睡眠障碍的类型"><a href="#睡眠障碍的类型" class="headerlink" title="睡眠障碍的类型"></a>睡眠障碍的类型</h2><p>睡眠障碍，也称为睡眠-觉醒障碍，包括 80 多种不同症状的疾病。2 失眠是一组睡眠障碍。要了解哪些类型的病症属于失眠症，了解各种类型的睡眠障碍是如何分类的可能会有所帮助。</p>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/03/27/%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%B1%E7%9C%A0%EF%BC%9F/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="https://blog.rss2ebook.com/2023/03/27/%E5%85%A8%E7%90%8326%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E6%96%B0%E9%97%BB%E8%B4%A2%E7%BB%8F%E5%95%86%E4%B8%9A%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="benben">
+      <meta itemprop="description" content="免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RSS2EBOOK">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2023/03/27/%E5%85%A8%E7%90%8326%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E6%96%B0%E9%97%BB%E8%B4%A2%E7%BB%8F%E5%95%86%E4%B8%9A%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97/" class="post-title-link" itemprop="url">全球26个高质量新闻财经商业报刊杂志</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2023-03-27 00:00:00" itemprop="dateCreated datePublished" datetime="2023-03-27T00:00:00+08:00">2023-03-27</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2023-04-12 21:21:43" itemprop="dateModified" datetime="2023-04-12T21:21:43+08:00">2023-04-12</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/rss2Ebook/" itemprop="url" rel="index"><span itemprop="name">rss2Ebook</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h4 id="1、-经济学人《The-Economist》"><a href="#1、-经济学人《The-Economist》" class="headerlink" title="1、 经济学人《The Economist》"></a>1、 经济学人《The Economist》</h4><p>《经济学人》是分析世界商业和时事的主要来源，提供有关国际新闻、世界政治、商业、金融、科技的权威见解和观点，以及文化趋势的概述和定期的行业和行业特别报道。</p>
+<h4 id="2、-英国卫报《The-Guardian-Weekly》"><a href="#2、-英国卫报《The-Guardian-Weekly》" class="headerlink" title="2、 英国卫报《The Guardian Weekly》"></a>2、 英国卫报《The Guardian Weekly》</h4><p>《卫报周刊》是一份总部位于英国伦敦的国际英语新闻杂志。它是世界上历史最悠久的国际新闻出版物之一，其读者遍及170多个国家&#x2F;地区。</p>
+<h4 id="3、时代《Time》"><a href="#3、时代《Time》" class="headerlink" title="3、时代《Time》"></a>3、时代《Time》</h4><p>《时代》杂志的标志性声音和值得信赖的内容使其成为世界上最受认可的新闻品牌之一。杂志提供精辟的报道、生动的写作和世界知名的摄影作品，被誉为将新闻业以最佳状态带入美国生活的结构。</p>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/03/27/%E5%85%A8%E7%90%8326%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E6%96%B0%E9%97%BB%E8%B4%A2%E7%BB%8F%E5%95%86%E4%B8%9A%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="https://blog.rss2ebook.com/2023/03/24/%E4%BB%80%E4%B9%88%E6%98%AF%E5%AE%B6%E5%BA%AD%E5%8E%8B%E5%8A%9B%E7%90%86%E8%AE%BA%EF%BC%9F/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="benben">
+      <meta itemprop="description" content="免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RSS2EBOOK">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2023/03/24/%E4%BB%80%E4%B9%88%E6%98%AF%E5%AE%B6%E5%BA%AD%E5%8E%8B%E5%8A%9B%E7%90%86%E8%AE%BA%EF%BC%9F/" class="post-title-link" itemprop="url">什么是家庭压力理论？</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2023-03-24 00:00:00" itemprop="dateCreated datePublished" datetime="2023-03-24T00:00:00+08:00">2023-03-24</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2023-04-10 21:26:32" itemprop="dateModified" datetime="2023-04-10T21:26:32+08:00">2023-04-10</time>
+              </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>家庭压力理论探讨了由于压力事件而发生的家庭动态变化。</p>
+<p>该理论由社会学家鲁本·希尔 (Reuben Hill) 于 1949 年提出。他对家庭如何受到第二次世界大战的影响特别感兴趣，并研究战争引起的分离和统一如何改变家庭。</p>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/03/24/%E4%BB%80%E4%B9%88%E6%98%AF%E5%AE%B6%E5%BA%AD%E5%8E%8B%E5%8A%9B%E7%90%86%E8%AE%BA%EF%BC%9F/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="https://blog.rss2ebook.com/2023/03/24/%E4%BB%80%E4%B9%88%E6%98%AF%E6%8A%A5%E5%A4%8D%E6%80%A7%E7%9D%A1%E5%89%8D%E6%8B%96%E5%BB%B6%E7%97%87/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="benben">
+      <meta itemprop="description" content="免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RSS2EBOOK">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2023/03/24/%E4%BB%80%E4%B9%88%E6%98%AF%E6%8A%A5%E5%A4%8D%E6%80%A7%E7%9D%A1%E5%89%8D%E6%8B%96%E5%BB%B6%E7%97%87/" class="post-title-link" itemprop="url">什么是报复性睡前拖延症？</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2023-03-24 00:00:00" itemprop="dateCreated datePublished" datetime="2023-03-24T00:00:00+08:00">2023-03-24</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2023-04-10 21:26:27" itemprop="dateModified" datetime="2023-04-10T21:26:27+08:00">2023-04-10</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%BF%83%E7%90%86/" itemprop="url" rel="index"><span itemprop="name">心理</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p><code>报复性睡前拖延是指人们推迟上床睡觉以从事白天没有时间的活动的现象。1这是一种以牺牲睡眠为代价寻找休闲和娱乐时间的方式。</code><br>2014 年的一篇论文中引入了“睡前拖延”一词。2添加“报复”这个词最初是在中国用来描述经常工作 12 小时的人如何熬夜作为他们收回对时间的控制的唯一方式。 </p>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/03/24/%E4%BB%80%E4%B9%88%E6%98%AF%E6%8A%A5%E5%A4%8D%E6%80%A7%E7%9D%A1%E5%89%8D%E6%8B%96%E5%BB%B6%E7%97%87/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="https://blog.rss2ebook.com/2023/03/23/%E6%9C%89%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%90%97/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="benben">
+      <meta itemprop="description" content="免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RSS2EBOOK">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2023/03/23/%E6%9C%89%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%90%97/" class="post-title-link" itemprop="url">有不同类型的幸福吗？</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2023-03-23 00:00:00" itemprop="dateCreated datePublished" datetime="2023-03-23T00:00:00+08:00">2023-03-23</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2023-04-10 21:27:10" itemprop="dateModified" datetime="2023-04-10T21:27:10+08:00">2023-04-10</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%BF%83%E7%90%86/" itemprop="url" rel="index"><span itemprop="name">心理</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>人类对幸福的追求是人类最常见的追求之一，但它也往往是一个难以实现的目标。对我们来说幸运的是，“幸福”的体验实际上可以有多种形式，并且来自各种行为和生活环境。现在的研究可以为我们指出具体的方法，让我们可以在生活中找到或发展这些不同形式的幸福。</p>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2023/03/23/%E6%9C%89%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%90%97/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+
+  
+  <nav class="pagination">
+    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="extend next" rel="next" href="/page/2/"><i class="fa fa-angle-right" aria-label="Next page"></i></a>
+  </nav>
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="benben"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">benben</p>
+  <div class="site-description" itemprop="description">免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives">
+          <span class="site-state-item-count">19</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+        <span class="site-state-item-count">4</span>
+        <span class="site-state-item-name">categories</span>
+      </div>
+      <div class="site-state-item site-state-tags">
+        <span class="site-state-item-count">25</span>
+        <span class="site-state-item-name">tags</span>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="/atom.xml" title="RSS → &#x2F;atom.xml"><i class="fas fa-rss fa-fw"></i>RSS</a>
+      </span>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      Links
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="http://rss2ebook.com/" title="http:&#x2F;&#x2F;rss2ebook.com" rel="noopener" target="_blank">rss2ebook</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+        <div class="back-to-top motion-element">
+          <i class="fa fa-arrow-up"></i>
+          <span>0%</span>
+        </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 2020 – 
+  <span itemprop="copyrightYear">2023</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">rss2ebook</span>
+</div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>
