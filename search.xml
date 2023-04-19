@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Introduction to RSS2EBOOK</title>
+    <url>/2023/04/18/Introduction%20to%20RSS2EBOOK/</url>
+    <content><![CDATA[<h3 id="Product-Introduction"><a href="#Product-Introduction" class="headerlink" title="Product Introduction"></a>Product Introduction</h3><p>  Welcome to our RSS subscription to e-book generation service! This guide will introduce you to how to use our service and provide detailed information about the features and services we offer.</p>
+<p>  Our service is suitable for any user who wants a customized, personalized content subscription service, including news, blogs, technology, culture, art, and other fields. Whether you are a busy white-collar worker, student, teacher, researcher, or freelancer, we can provide efficient, convenient, and high-quality service.</p>
+<span id="more"></span>
+<h3 id="How-to-Use"><a href="#How-to-Use" class="headerlink" title="How to Use"></a>How to Use</h3><ol>
+<li><p>Register and log in<br>  Register and log in on our website to become our member. With your personal account, you can conveniently manage your subscriptions and e-books.</p>
+</li>
+<li><p>Configure push method and e-book format<br>  In the push settings, you can configure your push method and e-book format. We support two formats: epub and mobi, and you can choose the format you prefer. At the same time, you can also configure your push method, including push time and push frequency.</p>
+</li>
+<li><p>Subscribe to the news sources of interest to start receiving e-books<br>  Subscribe to the news sources of interest on our website, and we will automatically generate e-books for you and push them to your email. If you subscribe to too many news sources, you can categorize them, and each category will generate an e-book.</p>
+</li>
+<li><p>Categories can set article retention time and e-book name<br>  Each category can set the article retention time and e-book name. You can set different retention times and e-book names according to your needs. At the same time, you can choose whether to remove hyperlinks in the articles.</p>
+</li>
+</ol>
+<h3 id="Supported-Services"><a href="#Supported-Services" class="headerlink" title="Supported Services"></a>Supported Services</h3><ul>
+<li>Free version:<br>Includes 10 subscription sources, default book cover, manual push, once a day push, e-book format setting, e-book adaptation type, articles within one day.</li>
+<li>PLUS version:<br>Includes 200 subscription sources, custom book cover, manual push, multiple pushes per day, e-book format setting, e-book adaptation type, retains article images, sets the oldest article (up to 7 days), removes hyperlinks in the article, automatic push, and push cycle setting.</li>
+</ul>
+]]></content>
+      <categories>
+        <category>RSS2EBOOK</category>
+      </categories>
+      <tags>
+        <tag>RSS2EBOOK</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>RSS2EBOOK介绍</title>
+    <url>/2023/04/19/RSS2EBOOK%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<h3 id="产品介绍"><a href="#产品介绍" class="headerlink" title="产品介绍"></a>产品介绍</h3><p>欢迎使用我们的RSS订阅生成电子书服务！本手册将为您介绍如何使用我们的服务，并详细说明我们提供的功能和服务。</p>
+<p>服务适用于任何想要定制化、个性化的内容订阅服务的用户，包括新闻、博客、科技、文化、艺术等领域的内容。无论您是一位忙碌的白领、学生、教师、研究人员还是自由职业者，我们都能够提供高效、便捷、高品质的服务。</p>
+<h3 id="如何使用"><a href="#如何使用" class="headerlink" title="如何使用"></a>如何使用</h3><ol>
+<li><p>注册并登录<br>在我们的网站上注册并登录，成为我们的会员。通过您的个人账户，您可以方便地管理您的订阅和电子书。</p>
+</li>
+<li><p>配置推送方式和电子书格式<br>在推送射中，您可以配置您的推送方式和电子书格式。我们支持epub和mobi两种格式，您可以选择您喜欢的格式。同时，您还可以配置您的推送方式，包括推送时间和推送频率。</p>
+</li>
+<li><p>订阅感兴趣的新闻源，即可开始接收电子书<br>在我们的网站上订阅您感兴趣的新闻源，我们将自动为您生成电子书并推送到您的邮箱中。如果您订阅的新闻源过多，您可以进行分类，每个分类都将自动生成一本电子书。</p>
+</li>
+<li><p>分类可以设置文章保留时间和电子书名称<br>每个分类都可以设置文章保留时间和电子书名称。您可以根据自己的需要，设置不同的保留时间和电子书名称。同时，您还可以选择是否移除文章内的超链接。</p>
+</li>
+</ol>
+<h3 id="支持的服务"><a href="#支持的服务" class="headerlink" title="支持的服务"></a>支持的服务</h3><ul>
+<li>免费版本：<br>包含10个订阅源、默认书籍封面、手工推送、每天推送一次、电子书格式设置、电子书适配类型、一天内的文章。</li>
+<li>PLUS版本：<br>包含200个订阅源、自定义书籍封面、手工推送、每天推送多次、电子书格式设置、电子书适配类型、保留文章图片、设置最旧文章（最多7天）、移除文章内超链接、自动推送、推送周期设置。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>RSS2EBOOK</category>
+      </categories>
+      <tags>
+        <tag>RSS2EBOOK</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>RSS2EBOOK-内容</title>
     <url>/2023/04/11/rss2Ebook/</url>
     <content><![CDATA[<p>英文RSS生成电子书，自定义订阅源,定时自动发送</p>
@@ -328,6 +383,30 @@
       </tags>
   </entry>
   <entry>
+    <title>关于RSS2EBOOK</title>
+    <url>/2023/03/28/%E5%85%B3%E4%BA%8ERSS2EBOOK/</url>
+    <content><![CDATA[<p>本服务为在线RSS订阅生成电子书服务，提供多种媒体的订阅电子书生成并推送到用户邮箱。用户可以选择订阅自己感兴趣的媒体，定时生成电子书并发送至用户邮箱。</p>
+<p>我们提供的媒体包括但不限于：经济学人、卫报、时代周刊、大西洋月刊、纽约时报、新科学家、美国国家地理、科学美国人、哈佛商业评论、纽约客、自然、科学、彭博商业周刊、纽约时报书评、华盛顿邮报、基督教科学箴言报、金融时报、华尔街日报和科学家等知名媒体。</p>
+<p>我们的服务优点包括：</p>
+<ul>
+<li>多种媒体资源可供选择，用户可以根据自己的兴趣和需求进行订阅。</li>
+<li>定时生成电子书并推送至用户邮箱，方便用户查阅和阅读。</li>
+<li>服务完全免费，用户无需支付任何费用即可使用我们的服务。</li>
+<li>电子书支持多种格式，包括epub、mobi，满足用户不同的阅读习惯和设备需求。</li>
+<li>支持多种设备类型kindle、JDReader、汉王等</li>
+</ul>
+<p>我们的服务致力于为用户提供方便快捷的订阅和阅读体验，让用户可以更加轻松地获取自己喜欢的媒体资源。</p>
+]]></content>
+      <categories>
+        <category>RSS2EBOOK</category>
+      </categories>
+      <tags>
+        <tag>RSS2EBOOK</tag>
+        <tag>News</tag>
+        <tag>Ebook</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何有意识地睡觉</title>
     <url>/2022/11/19/%E5%A6%82%E4%BD%95%E6%9C%89%E6%84%8F%E8%AF%86%E5%9C%B0%E7%9D%A1%E8%A7%89/</url>
     <content><![CDATA[<h2 id="关键点-在就寝时间和醒来时增加的焦虑会成为睡眠焦虑的恶性循环。-睡眠是意识的一种改变状态，但因为它很普通，所以我们可以期望它“自然而然地发生”。-我们可以准备和整合睡眠体验的方法包括情感支持、就寝时间准备和醒来后的整合。"><a href="#关键点-在就寝时间和醒来时增加的焦虑会成为睡眠焦虑的恶性循环。-睡眠是意识的一种改变状态，但因为它很普通，所以我们可以期望它“自然而然地发生”。-我们可以准备和整合睡眠体验的方法包括情感支持、就寝时间准备和醒来后的整合。" class="headerlink" title="关键点* 在就寝时间和醒来时增加的焦虑会成为睡眠焦虑的恶性循环。* 睡眠是意识的一种改变状态，但因为它很普通，所以我们可以期望它“自然而然地发生”。* 我们可以准备和整合睡眠体验的方法包括情感支持、就寝时间准备和醒来后的整合。"></a>关键点<br>* 在就寝时间和醒来时增加的焦虑会成为睡眠焦虑的恶性循环。<br>* 睡眠是意识的一种改变状态，但因为它很普通，所以我们可以期望它“自然而然地发生”。<br>* 我们可以准备和整合睡眠体验的方法包括情感支持、就寝时间准备和醒来后的整合。<br><span id="more"></span></h2><p>睡眠焦虑会在就寝时间和起床时间激增。</p>
@@ -631,6 +710,36 @@
       </tags>
   </entry>
   <entry>
+    <title>酒精和 Zoom：抑郁症的良方？</title>
+    <url>/2021/10/20/%E9%85%92%E7%B2%BE%E5%92%8C%20Zoom%EF%BC%9A%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E8%89%AF%E6%96%B9%EF%BC%9F/</url>
+    <content><![CDATA[<ul>
+<li></li>
+</ul>
+<p>&#96;关键点</p>
+<ul>
+<li>研究表明，在视频会议中花更多时间看着自己的人在互动后会产生更多的负面情绪。</li>
+<li>尽管在社交交流中饮酒通常会减少自我关注和消极情绪，但在视频通话中却没有这种效果。</li>
+<li>使用 Zoom 的人可能会考虑隐藏自己的面部图像。&#96;</li>
+</ul>
+<span id="more"></span>
+<p>部分归功于COVID-19大流行，通过 Zoom 和其他视频会议平台进行的虚拟社交互动变得很普遍。大多数视频会议平台默认在通话期间向您显示您自己的视频源。换句话说，我们倾向于在 Zoom 上花费大量时间盯着自己的脸。那种以自我为中心的注意力往往会使人感觉更糟。在《临床心理科学》杂志上发表的一项研究中，研究人员证明，在视频会议中花更多时间看着自己（相对于他们的在线对话伙伴）的人在社交互动后会有更多的负面情绪。此外，尽管在社交交流中饮酒通常会减少自我关注和消极情绪，但酒精并没有它似乎无法“润滑”这些在线社交互动。</p>
+<p>一般来说，你越关注自己，你的情绪就会越消极。自我关注与理解社交互动的情绪结果特别相关。当你与他人互动时，你的自我关注本质上往往是高度评价性的。换句话说，你不仅关注自己，还关注其他人如何评价你。他们觉得你好看吗？他们觉得你有趣吗？有趣的？诡异的？这种以自我为中心的沉思往往会使社交互动不那么令人满意，并让人感到不快乐。事实上，社交互动中的自我关注与 焦虑和抑郁症。</p>
+<p>许多人通过饮酒来应对社交互动中的焦虑。在某些方面，这是有道理的。酒精往往会降低社交互动中以自我为中心的注意力，这可能会导致社交互动，从而改善一个人的情绪。但是在视频会议的背景下，当您看到自己脸部的清晰图像时，您可能会无法抗拒专注于自己的诱惑，从而削弱酒精正常的社交润滑作用。</p>
+<p>这项新研究的作者使用了一种新方法来检查在线社交互动中的自我关注度。他们跟踪了参与者的眼球运动，这使研究人员能够确定参与者是在看自己的面部图像还是在与他们进行视频会议的人的面部图像。使该方法更加有趣的是，一些参与者在任务期间陶醉而其他人则没有。</p>
+<p>集市生产&#x2F;Pexels<br>来源：Mart Production&#x2F;Pexels<br>研究人员招募了 246 名社交饮酒者（大多数年龄在 21 至 30 岁之间），不包括任何有酗酒史或任何物质使用障碍的参与者。每个参与者都被要求带一个同性朋友参加研究。当他们到达研究中心时，参与者被随机分配与他们的朋友或其他参与者的朋友一起完成研究。因此，一半的参与者与他们认识的人互动，另一半与陌生人互动。此外，参与者被随机分配到饮酒或不含酒精的对照饮料。所给予的酒精量旨在达到血液酒精浓度峰值0.08%（美国大多数州的驾驶法定限制）。大约半小时后，参与者完成了一项情绪测量，然后接受了在线社交互动的指导。</p>
+<p>所有参与者都完成了视频通话，他们与坐在另一个房间的合作伙伴进行了互动。视频会议屏幕看起来像是典型的两人通话 Zoom 设置，屏幕的一半显示参与者的脸，另一半显示他们的对话伙伴。的脸。头枕用于确保所有参与者对他们的视频屏幕都有相似的看法。参与者被要求与合作伙伴就两个不同的话题进行对话：音乐偏好和他们喜欢&#x2F;不喜欢他们住的地方。当他们说话时，研究人员跟踪他们的眼球运动，确定他们什么时候看自己的脸，什么时候看他们的伴侣。在这次在线互动之后，参与者完成了第二次情绪测量。</p>
+<p>好消息是，结果表明参与者倾向于花更长的时间看他们的伴侣的脸不如自己的脸。无论在线对话是与朋友还是陌生人，都是如此。然而，证据还表明，参与者在社交互动中越关注自己，之后他们的情绪就越糟糕。而那些在视频互动过程中陶醉的人在互动过程中更有可能专注于自己，而不太可能专注于他们的对话伙伴。结果，酒精未能表现出它通常在社交互动中表现出的情绪增强作用。尽管这项研究只检查了相对较短时间内的情绪变化，但短期情绪状态与抑郁症和焦虑症等长期心理健康结果有关。</p>
+<p>Cottonbro 工作室&#x2F;Pexels<br>资料来源：Cottonbro Studio&#x2F;Pexels<br>仅 Zoom 就有超过3 亿的每日用户。尽管视频会议主要被视为与工作相关的活动，但在 COVID-19 大流行期间，Zoom 鸡尾酒会和其他以酒精为燃料的在线社交聚会变得更加普遍。这项研究表明，那些喝酒并使用 Zoom 的人不太可能获得他们所希望的情绪提升，部分原因是很难将目光从自己的脸上移开。因此，如果您必须进行视频会议，请考虑隐藏您自己的面部图像。如果您希望减轻“变焦疲劳”，不要指望酒精能帮到您。</p>
+]]></content>
+      <categories>
+        <category>心理</category>
+      </categories>
+      <tags>
+        <tag>抑郁</tag>
+        <tag>酒精</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>金钱能买到幸福吗？</title>
     <url>/2018/10/20/%E9%87%91%E9%92%B1%E8%83%BD%E4%B9%B0%E5%88%B0%E5%B9%B8%E7%A6%8F%E5%90%97%EF%BC%9F/</url>
     <content><![CDATA[<p>我们无数次听到金钱买不到幸福。但是又有多少人真的相信呢？</p>
@@ -666,115 +775,6 @@
       <tags>
         <tag>幸福</tag>
         <tag>金钱</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>酒精和 Zoom：抑郁症的良方？</title>
-    <url>/2021/10/20/%E9%85%92%E7%B2%BE%E5%92%8C%20Zoom%EF%BC%9A%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E8%89%AF%E6%96%B9%EF%BC%9F/</url>
-    <content><![CDATA[<ul>
-<li></li>
-</ul>
-<p>&#96;关键点</p>
-<ul>
-<li>研究表明，在视频会议中花更多时间看着自己的人在互动后会产生更多的负面情绪。</li>
-<li>尽管在社交交流中饮酒通常会减少自我关注和消极情绪，但在视频通话中却没有这种效果。</li>
-<li>使用 Zoom 的人可能会考虑隐藏自己的面部图像。&#96;</li>
-</ul>
-<span id="more"></span>
-<p>部分归功于COVID-19大流行，通过 Zoom 和其他视频会议平台进行的虚拟社交互动变得很普遍。大多数视频会议平台默认在通话期间向您显示您自己的视频源。换句话说，我们倾向于在 Zoom 上花费大量时间盯着自己的脸。那种以自我为中心的注意力往往会使人感觉更糟。在《临床心理科学》杂志上发表的一项研究中，研究人员证明，在视频会议中花更多时间看着自己（相对于他们的在线对话伙伴）的人在社交互动后会有更多的负面情绪。此外，尽管在社交交流中饮酒通常会减少自我关注和消极情绪，但酒精并没有它似乎无法“润滑”这些在线社交互动。</p>
-<p>一般来说，你越关注自己，你的情绪就会越消极。自我关注与理解社交互动的情绪结果特别相关。当你与他人互动时，你的自我关注本质上往往是高度评价性的。换句话说，你不仅关注自己，还关注其他人如何评价你。他们觉得你好看吗？他们觉得你有趣吗？有趣的？诡异的？这种以自我为中心的沉思往往会使社交互动不那么令人满意，并让人感到不快乐。事实上，社交互动中的自我关注与 焦虑和抑郁症。</p>
-<p>许多人通过饮酒来应对社交互动中的焦虑。在某些方面，这是有道理的。酒精往往会降低社交互动中以自我为中心的注意力，这可能会导致社交互动，从而改善一个人的情绪。但是在视频会议的背景下，当您看到自己脸部的清晰图像时，您可能会无法抗拒专注于自己的诱惑，从而削弱酒精正常的社交润滑作用。</p>
-<p>这项新研究的作者使用了一种新方法来检查在线社交互动中的自我关注度。他们跟踪了参与者的眼球运动，这使研究人员能够确定参与者是在看自己的面部图像还是在与他们进行视频会议的人的面部图像。使该方法更加有趣的是，一些参与者在任务期间陶醉而其他人则没有。</p>
-<p>集市生产&#x2F;Pexels<br>来源：Mart Production&#x2F;Pexels<br>研究人员招募了 246 名社交饮酒者（大多数年龄在 21 至 30 岁之间），不包括任何有酗酒史或任何物质使用障碍的参与者。每个参与者都被要求带一个同性朋友参加研究。当他们到达研究中心时，参与者被随机分配与他们的朋友或其他参与者的朋友一起完成研究。因此，一半的参与者与他们认识的人互动，另一半与陌生人互动。此外，参与者被随机分配到饮酒或不含酒精的对照饮料。所给予的酒精量旨在达到血液酒精浓度峰值0.08%（美国大多数州的驾驶法定限制）。大约半小时后，参与者完成了一项情绪测量，然后接受了在线社交互动的指导。</p>
-<p>所有参与者都完成了视频通话，他们与坐在另一个房间的合作伙伴进行了互动。视频会议屏幕看起来像是典型的两人通话 Zoom 设置，屏幕的一半显示参与者的脸，另一半显示他们的对话伙伴。的脸。头枕用于确保所有参与者对他们的视频屏幕都有相似的看法。参与者被要求与合作伙伴就两个不同的话题进行对话：音乐偏好和他们喜欢&#x2F;不喜欢他们住的地方。当他们说话时，研究人员跟踪他们的眼球运动，确定他们什么时候看自己的脸，什么时候看他们的伴侣。在这次在线互动之后，参与者完成了第二次情绪测量。</p>
-<p>好消息是，结果表明参与者倾向于花更长的时间看他们的伴侣的脸不如自己的脸。无论在线对话是与朋友还是陌生人，都是如此。然而，证据还表明，参与者在社交互动中越关注自己，之后他们的情绪就越糟糕。而那些在视频互动过程中陶醉的人在互动过程中更有可能专注于自己，而不太可能专注于他们的对话伙伴。结果，酒精未能表现出它通常在社交互动中表现出的情绪增强作用。尽管这项研究只检查了相对较短时间内的情绪变化，但短期情绪状态与抑郁症和焦虑症等长期心理健康结果有关。</p>
-<p>Cottonbro 工作室&#x2F;Pexels<br>资料来源：Cottonbro Studio&#x2F;Pexels<br>仅 Zoom 就有超过3 亿的每日用户。尽管视频会议主要被视为与工作相关的活动，但在 COVID-19 大流行期间，Zoom 鸡尾酒会和其他以酒精为燃料的在线社交聚会变得更加普遍。这项研究表明，那些喝酒并使用 Zoom 的人不太可能获得他们所希望的情绪提升，部分原因是很难将目光从自己的脸上移开。因此，如果您必须进行视频会议，请考虑隐藏您自己的面部图像。如果您希望减轻“变焦疲劳”，不要指望酒精能帮到您。</p>
-]]></content>
-      <categories>
-        <category>心理</category>
-      </categories>
-      <tags>
-        <tag>抑郁</tag>
-        <tag>酒精</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于RSS2EBOOK</title>
-    <url>/2023/03/28/%E5%85%B3%E4%BA%8ERSS2EBOOK/</url>
-    <content><![CDATA[<p>本服务为在线RSS订阅生成电子书服务，提供多种媒体的订阅电子书生成并推送到用户邮箱。用户可以选择订阅自己感兴趣的媒体，定时生成电子书并发送至用户邮箱。</p>
-<p>我们提供的媒体包括但不限于：经济学人、卫报、时代周刊、大西洋月刊、纽约时报、新科学家、美国国家地理、科学美国人、哈佛商业评论、纽约客、自然、科学、彭博商业周刊、纽约时报书评、华盛顿邮报、基督教科学箴言报、金融时报、华尔街日报和科学家等知名媒体。</p>
-<p>我们的服务优点包括：</p>
-<ul>
-<li>多种媒体资源可供选择，用户可以根据自己的兴趣和需求进行订阅。</li>
-<li>定时生成电子书并推送至用户邮箱，方便用户查阅和阅读。</li>
-<li>服务完全免费，用户无需支付任何费用即可使用我们的服务。</li>
-<li>电子书支持多种格式，包括epub、mobi，满足用户不同的阅读习惯和设备需求。</li>
-<li>支持多种设备类型kindle、JDReader、汉王等</li>
-</ul>
-<p>我们的服务致力于为用户提供方便快捷的订阅和阅读体验，让用户可以更加轻松地获取自己喜欢的媒体资源。</p>
-]]></content>
-      <categories>
-        <category>RSS2EBOOK</category>
-      </categories>
-      <tags>
-        <tag>RSS2EBOOK</tag>
-        <tag>News</tag>
-        <tag>Ebook</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Introduction to RSS2EBOOK</title>
-    <url>/2023/04/18/Introduction%20to%20RSS2EBOOK/</url>
-    <content><![CDATA[<h3 id="Product-Introduction"><a href="#Product-Introduction" class="headerlink" title="Product Introduction"></a>Product Introduction</h3><p>  Welcome to our RSS subscription to e-book generation service! This guide will introduce you to how to use our service and provide detailed information about the features and services we offer.</p>
-<p>  Our service is suitable for any user who wants a customized, personalized content subscription service, including news, blogs, technology, culture, art, and other fields. Whether you are a busy white-collar worker, student, teacher, researcher, or freelancer, we can provide efficient, convenient, and high-quality service.</p>
-<span id="more"></span>
-<h3 id="How-to-Use"><a href="#How-to-Use" class="headerlink" title="How to Use"></a>How to Use</h3><ol>
-<li><p>Register and log in<br>  Register and log in on our website to become our member. With your personal account, you can conveniently manage your subscriptions and e-books.</p>
-</li>
-<li><p>Configure push method and e-book format<br>  In the push settings, you can configure your push method and e-book format. We support two formats: epub and mobi, and you can choose the format you prefer. At the same time, you can also configure your push method, including push time and push frequency.</p>
-</li>
-<li><p>Subscribe to the news sources of interest to start receiving e-books<br>  Subscribe to the news sources of interest on our website, and we will automatically generate e-books for you and push them to your email. If you subscribe to too many news sources, you can categorize them, and each category will generate an e-book.</p>
-</li>
-<li><p>Categories can set article retention time and e-book name<br>  Each category can set the article retention time and e-book name. You can set different retention times and e-book names according to your needs. At the same time, you can choose whether to remove hyperlinks in the articles.</p>
-</li>
-</ol>
-<h3 id="Supported-Services"><a href="#Supported-Services" class="headerlink" title="Supported Services"></a>Supported Services</h3><ul>
-<li>Free version:<br>Includes 10 subscription sources, default book cover, manual push, once a day push, e-book format setting, e-book adaptation type, articles within one day.</li>
-<li>PLUS version:<br>Includes 200 subscription sources, custom book cover, manual push, multiple pushes per day, e-book format setting, e-book adaptation type, retains article images, sets the oldest article (up to 7 days), removes hyperlinks in the article, automatic push, and push cycle setting.</li>
-</ul>
-]]></content>
-      <categories>
-        <category>RSS2EBOOK</category>
-      </categories>
-      <tags>
-        <tag>RSS2EBOOK</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>RSS2EBOOK介绍</title>
-    <url>/2023/04/19/RSS2EBOOK%E4%BB%8B%E7%BB%8D/</url>
-    <content><![CDATA[<h3 id="产品介绍"><a href="#产品介绍" class="headerlink" title="产品介绍"></a>产品介绍</h3><p>欢迎使用我们的RSS订阅生成电子书服务！本手册将为您介绍如何使用我们的服务，并详细说明我们提供的功能和服务。</p>
-<p>服务适用于任何想要定制化、个性化的内容订阅服务的用户，包括新闻、博客、科技、文化、艺术等领域的内容。无论您是一位忙碌的白领、学生、教师、研究人员还是自由职业者，我们都能够提供高效、便捷、高品质的服务。</p>
-<h3 id="如何使用"><a href="#如何使用" class="headerlink" title="如何使用"></a>如何使用</h3><ol>
-<li><p>注册并登录<br>在我们的网站上注册并登录，成为我们的会员。通过您的个人账户，您可以方便地管理您的订阅和电子书。</p>
-</li>
-<li><p>配置推送方式和电子书格式<br>在推送射中，您可以配置您的推送方式和电子书格式。我们支持epub和mobi两种格式，您可以选择您喜欢的格式。同时，您还可以配置您的推送方式，包括推送时间和推送频率。</p>
-</li>
-<li><p>订阅感兴趣的新闻源，即可开始接收电子书<br>在我们的网站上订阅您感兴趣的新闻源，我们将自动为您生成电子书并推送到您的邮箱中。如果您订阅的新闻源过多，您可以进行分类，每个分类都将自动生成一本电子书。</p>
-</li>
-<li><p>分类可以设置文章保留时间和电子书名称<br>每个分类都可以设置文章保留时间和电子书名称。您可以根据自己的需要，设置不同的保留时间和电子书名称。同时，您还可以选择是否移除文章内的超链接。</p>
-</li>
-</ol>
-<h3 id="支持的服务"><a href="#支持的服务" class="headerlink" title="支持的服务"></a>支持的服务</h3><ul>
-<li>免费版本：<br>包含10个订阅源、默认书籍封面、手工推送、每天推送一次、电子书格式设置、电子书适配类型、一天内的文章。</li>
-<li>PLUS版本：<br>包含200个订阅源、自定义书籍封面、手工推送、每天推送多次、电子书格式设置、电子书适配类型、保留文章图片、设置最旧文章（最多7天）、移除文章内超链接、自动推送、推送周期设置。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>RSS2EBOOK</category>
-      </categories>
-      <tags>
-        <tag>RSS2EBOOK</tag>
       </tags>
   </entry>
 </search>
