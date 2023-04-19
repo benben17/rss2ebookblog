@@ -6,7 +6,7 @@
   <link href="https://blog.rss2ebook.com/atom.xml" rel="self"/>
   
   <link href="https://blog.rss2ebook.com/"/>
-  <updated>2023-04-11T10:58:29.000Z</updated>
+  <updated>2023-04-19T07:45:09.089Z</updated>
   <id>https://blog.rss2ebook.com/</id>
   
   <author>
@@ -17,11 +17,58 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>RSS2Ebook</title>
+    <title>RSS2EBOOK介绍</title>
+    <link href="https://blog.rss2ebook.com/2023/04/19/RSS2EBOOK%E4%BB%8B%E7%BB%8D/"/>
+    <id>https://blog.rss2ebook.com/2023/04/19/RSS2EBOOK%E4%BB%8B%E7%BB%8D/</id>
+    <published>2023-04-18T16:00:00.000Z</published>
+    <updated>2023-04-19T07:45:09.089Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="产品介绍"><a href="#产品介绍" class="headerlink" title="产品介绍"></a>产品介绍</h3><p>欢迎使用我们的RSS订阅生成电子书服务！本手册将为您介绍如何使用我们的服务，并详细说明我们提供的功能和服务。</p><p>服务适用于任何想要定制化、个性化的内容订阅服务的用户，包括新闻、博客、科技、文化、艺术等领域的内容。无论您是一位忙碌的白领、学生、教师、研究人员还是自由职业者，我们都能够提供高效、便捷、高品质的服务。</p><h3 id="如何使用"><a href="#如何使用" class="headerlink" title="如何使用"></a>如何使用</h3><ol><li><p>注册并登录<br>在我们的网站上注册并登录，成为我们的会员。通过您的个人账户，您可以方便地管理您的订阅和电子书。</p></li><li><p>配置推送方式和电子书格式<br>在推送射中，您可以配置您的推送方式和电子书格式。我们支持epub和mobi两种格式，您可以选择您喜欢的格式。同时，您还可以配置您的推送方式，包括推送时间和推送频率。</p></li><li><p>订阅感兴趣的新闻源，即可开始接收电子书<br>在我们的网站上订阅您感兴趣的新闻源，我们将自动为您生成电子书并推送到您的邮箱中。如果您订阅的新闻源过多，您可以进行分类，每个分类都将自动生成一本电子书。</p></li><li><p>分类可以设置文章保留时间和电子书名称<br>每个分类都可以设置文章保留时间和电子书名称。您可以根据自己的需要，设置不同的保留时间和电子书名称。同时，您还可以选择是否移除文章内的超链接。</p></li></ol><h3 id="支持的服务"><a href="#支持的服务" class="headerlink" title="支持的服务"></a>支持的服务</h3><ul><li>免费版本：<br>包含10个订阅源、默认书籍封面、手工推送、每天推送一次、电子书格式设置、电子书适配类型、一天内的文章。</li><li>PLUS版本：<br>包含200个订阅源、自定义书籍封面、手工推送、每天推送多次、电子书格式设置、电子书适配类型、保留文章图片、设置最旧文章（最多7天）、移除文章内超链接、自动推送、推送周期设置。</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;产品介绍&quot;&gt;&lt;a href=&quot;#产品介绍&quot; class=&quot;headerlink&quot; title=&quot;产品介绍&quot;&gt;&lt;/a&gt;产品介绍&lt;/h3&gt;&lt;p&gt;欢迎使用我们的RSS订阅生成电子书服务！本手册将为您介绍如何使用我们的服务，并详细说明我们提供的功能和服务。&lt;/p&gt;
+&lt;p&gt;</summary>
+      
+    
+    
+    
+    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/categories/RSS2EBOOK/"/>
+    
+    
+    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/tags/RSS2EBOOK/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Introduction to RSS2EBOOK</title>
+    <link href="https://blog.rss2ebook.com/2023/04/18/Introduction%20to%20RSS2EBOOK/"/>
+    <id>https://blog.rss2ebook.com/2023/04/18/Introduction%20to%20RSS2EBOOK/</id>
+    <published>2023-04-17T16:00:00.000Z</published>
+    <updated>2023-04-19T07:49:33.954Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Product-Introduction"><a href="#Product-Introduction" class="headerlink" title="Product Introduction"></a>Product Introduction</h3><p>  Welcome to our RSS subscription to e-book generation service! This guide will introduce you to how to use our service and provide detailed information about the features and services we offer.</p><p>  Our service is suitable for any user who wants a customized, personalized content subscription service, including news, blogs, technology, culture, art, and other fields. Whether you are a busy white-collar worker, student, teacher, researcher, or freelancer, we can provide efficient, convenient, and high-quality service.</p><span id="more"></span><h3 id="How-to-Use"><a href="#How-to-Use" class="headerlink" title="How to Use"></a>How to Use</h3><ol><li><p>Register and log in<br>  Register and log in on our website to become our member. With your personal account, you can conveniently manage your subscriptions and e-books.</p></li><li><p>Configure push method and e-book format<br>  In the push settings, you can configure your push method and e-book format. We support two formats: epub and mobi, and you can choose the format you prefer. At the same time, you can also configure your push method, including push time and push frequency.</p></li><li><p>Subscribe to the news sources of interest to start receiving e-books<br>  Subscribe to the news sources of interest on our website, and we will automatically generate e-books for you and push them to your email. If you subscribe to too many news sources, you can categorize them, and each category will generate an e-book.</p></li><li><p>Categories can set article retention time and e-book name<br>  Each category can set the article retention time and e-book name. You can set different retention times and e-book names according to your needs. At the same time, you can choose whether to remove hyperlinks in the articles.</p></li></ol><h3 id="Supported-Services"><a href="#Supported-Services" class="headerlink" title="Supported Services"></a>Supported Services</h3><ul><li>Free version:<br>Includes 10 subscription sources, default book cover, manual push, once a day push, e-book format setting, e-book adaptation type, articles within one day.</li><li>PLUS version:<br>Includes 200 subscription sources, custom book cover, manual push, multiple pushes per day, e-book format setting, e-book adaptation type, retains article images, sets the oldest article (up to 7 days), removes hyperlinks in the article, automatic push, and push cycle setting.</li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;Product-Introduction&quot;&gt;&lt;a href=&quot;#Product-Introduction&quot; class=&quot;headerlink&quot; title=&quot;Product Introduction&quot;&gt;&lt;/a&gt;Product Introduction&lt;/h3&gt;&lt;p&gt;  Welcome to our RSS subscription to e-book generation service! This guide will introduce you to how to use our service and provide detailed information about the features and services we offer.&lt;/p&gt;
+&lt;p&gt;  Our service is suitable for any user who wants a customized, personalized content subscription service, including news, blogs, technology, culture, art, and other fields. Whether you are a busy white-collar worker, student, teacher, researcher, or freelancer, we can provide efficient, convenient, and high-quality service.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/categories/RSS2EBOOK/"/>
+    
+    
+    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/tags/RSS2EBOOK/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RSS2EBOOK-内容</title>
     <link href="https://blog.rss2ebook.com/2023/04/11/rss2Ebook/"/>
     <id>https://blog.rss2ebook.com/2023/04/11/rss2Ebook/</id>
     <published>2023-04-11T11:12:13.000Z</published>
-    <updated>2023-04-11T10:58:29.000Z</updated>
+    <updated>2023-04-19T07:47:15.408Z</updated>
     
     <content type="html"><![CDATA[<p>英文RSS生成电子书，自定义订阅源,定时自动发送</p><p><a href="https://www.rss2ebook.com/">https://www.rss2ebook.com</a></p><ul><li>1、经济学人 (The Economist)</li><li>2、卫报 (The Guardian)</li><li>3、时代周刊 (Time)</li><li>4、大西洋月刊 (The Atlantic)</li><li>5、纽约时报 (The New York Times)</li><li>6、新科学家 (New Scientist)</li><li>7、美国国家地理 (National Geographic)</li><li>8、科学美国人 (Scientific American)</li><li>9、哈佛商业评论 (Harvard Business Review</li><li>10、纽约客 (The New Yorker)</li><li>11、自然 (Nature)</li><li>12、科学 (Science)</li><li>13、彭博商业周刊 (Bloomberg Businessweek)</li><li>14、纽约时报书评 (The New York Times Reviewof Books)</li><li>15、华盛顿邮报 (The Washington Post)</li><li>16、基督教科学箴言报 (The Christian ScienceMonitor</li><li>17、《金融时报》 Financial Times</li><li>18、《华尔街日报》 The Wall Street Journa</li><li>19、《科学家》The Scientist</li><li>20、《时尚》 Vogue</li></ul>]]></content>
     
@@ -36,10 +83,10 @@
     
     
     
-    <category term="rss2Ebook" scheme="https://blog.rss2ebook.com/categories/rss2Ebook/"/>
+    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/categories/RSS2EBOOK/"/>
     
     
-    <category term="RSS2Ebook" scheme="https://blog.rss2ebook.com/tags/RSS2Ebook/"/>
+    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/tags/RSS2EBOOK/"/>
     
   </entry>
   
@@ -267,31 +314,6 @@
   </entry>
   
   <entry>
-    <title>RSS2EBOOK介绍</title>
-    <link href="https://blog.rss2ebook.com/2023/03/23/%E6%9C%89%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%90%97/"/>
-    <id>https://blog.rss2ebook.com/2023/03/23/%E6%9C%89%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%90%97/</id>
-    <published>2023-03-22T16:00:00.000Z</published>
-    <updated>2023-04-19T07:42:30.810Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="产品介绍"><a href="#产品介绍" class="headerlink" title="产品介绍"></a>产品介绍</h3><p>欢迎使用我们的RSS订阅生成电子书服务！本手册将为您介绍如何使用我们的服务，并详细说明我们提供的功能和服务。</p><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><ol><li><p>注册并登录<br>在我们的网站上注册并登录，成为我们的会员。通过您的个人账户，您可以方便地管理您的订阅和电子书。</p></li><li><p>配置推送方式和电子书格式<br>在推送射中，您可以配置您的推送方式和电子书格式。我们支持epub和mobi两种格式，您可以选择您喜欢的格式。同时，您还可以配置您的推送方式，包括推送时间和推送频率。</p></li><li><p>订阅感兴趣的新闻源，即可开始接收电子书<br>在我们的网站上订阅您感兴趣的新闻源，我们将自动为您生成电子书并推送到您的邮箱中。如果您订阅的新闻源过多，您可以进行分类，每个分类都将自动生成一本电子书。</p></li><li><p>分类可以设置文章保留时间和电子书名称<br>每个分类都可以设置文章保留时间和电子书名称。您可以根据自己的需要，设置不同的保留时间和电子书名称。同时，您还可以选择是否移除文章内的超链接。</p></li></ol><h3 id="价格"><a href="#价格" class="headerlink" title="价格"></a>价格</h3><p>我们的产品分为中国版本和海外版本。中国版本的价格是每年99元，海外版本的价格是每年24.9美元。</p><h3 id="支持的服务"><a href="#支持的服务" class="headerlink" title="支持的服务"></a>支持的服务</h3><ul><li>免费版本：<br>包含10个订阅源、默认书籍封面、手工推送、每天推送一次、电子书格式设置、电子书适配类型、一天内的文章。</li><li>Plus版本：<br>包含200个订阅源、自定义书籍封面、手工推送、每天推送多次、电子书格式设置、电子书适配类型、保留文章图片、设置最旧文章（最多7天）、移除文章内超链接、自动推送、推送周期设置。</li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;产品介绍&quot;&gt;&lt;a href=&quot;#产品介绍&quot; class=&quot;headerlink&quot; title=&quot;产品介绍&quot;&gt;&lt;/a&gt;产品介绍&lt;/h3&gt;&lt;p&gt;欢迎使用我们的RSS订阅生成电子书服务！本手册将为您介绍如何使用我们的服务，并详细说明我们提供的功能和服务。&lt;/p&gt;
-&lt;h3</summary>
-      
-    
-    
-    
-    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/categories/RSS2EBOOK/"/>
-    
-    
-    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/tags/RSS2EBOOK/"/>
-    
-  </entry>
-  
-  <entry>
     <title>是爱还是性吸引力？</title>
     <link href="https://blog.rss2ebook.com/2022/11/20/%E6%98%AF%E7%88%B1%E8%BF%98%E6%98%AF%E6%80%A7%E5%90%B8%E5%BC%95%E5%8A%9B/"/>
     <id>https://blog.rss2ebook.com/2022/11/20/%E6%98%AF%E7%88%B1%E8%BF%98%E6%98%AF%E6%80%A7%E5%90%B8%E5%BC%95%E5%8A%9B/</id>
@@ -425,34 +447,6 @@
     <category term="抑郁" scheme="https://blog.rss2ebook.com/tags/%E6%8A%91%E9%83%81/"/>
     
     <category term="酒精" scheme="https://blog.rss2ebook.com/tags/%E9%85%92%E7%B2%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>抑郁症不是由大脑中的化学失衡引起的</title>
-    <link href="https://blog.rss2ebook.com/2020/10/20/%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E7%94%B1%E5%A4%A7%E8%84%91%E4%B8%AD%E7%9A%84%E5%8C%96%E5%AD%A6%E5%A4%B1%E8%A1%A1%E5%BC%95%E8%B5%B7%E7%9A%84/"/>
-    <id>https://blog.rss2ebook.com/2020/10/20/%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E7%94%B1%E5%A4%A7%E8%84%91%E4%B8%AD%E7%9A%84%E5%8C%96%E5%AD%A6%E5%A4%B1%E8%A1%A1%E5%BC%95%E8%B5%B7%E7%9A%84/</id>
-    <published>2020-10-19T16:00:00.000Z</published>
-    <updated>2023-04-10T13:27:05.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>&#96;关键点</p><ul><li>没有令人信服的证据表明抑郁症是由血清素异常引起的。</li><li>许多服用抗抑郁药的人认为他们的抑郁症是由生化原因引起的。研究不支持这种信念。</li><li>证据不支持抗抑郁药通过提高血清素水平起作用的观点。&#96;</li></ul><span id="more"></span><p>重度抑郁症是最常见的心理障碍之一，在美国每年影响超过 2300 万成年人和青少年，它带来数千亿美元的经济损失，是自杀的主要危险因素。</p><p>抑郁症的成因一直争论不休，但一个普遍的解释认为罪魁祸首是大脑中的“化学失衡”。这个概念的出现并非巧合，是在 80 年代后期随着百忧解的推出——一种似乎有助于通过增加大脑神经递质血清素水平来治疗抑郁症的药物。</p><p>在制药行业以及美国精神病学协会等知名专业组织的大力推动下，这个故事情节已成为抑郁症的主流叙事，为大多数美国人所接受，并导致越来越多的人走向抑郁症。从化学脑过程的角度考虑他们的心理困难。反过来，抑郁症治疗越来越依赖于抗抑郁药物，这些药物被广泛吹捧为第一个也是最好的干预方法。</p><p>抑郁症是由大脑中的化学失衡引起的——特别是较低的血清素水平——因此可以用恢复这种平衡的药物有效治疗的观点在一段时间内似乎是一个全能的赢家。它为医生和受苦的患者提供了明确的答案——对症状的优雅解释和药丸形式的现成药物；制药公司赚钱了。</p><p>然而，不久之后，关于这个充满希望的故事情节出现了两个重要的问题。首先，事实证明抗抑郁药治疗抑郁症的效果远不如曾经希望和宣传的那么好。大约一半的患者从这些药物中得不到缓解，许多确实受益的患者发现缓解不完全并且伴随着令人痛苦的副作用。</p><p>此外，研究表明，药物的效果通常并不比安慰剂更好，而且从长远来看可能不会带来更好的生活质量。2010 年的一篇文献综述总结道：“FDA 试验的荟萃分析表明，与安慰剂相比，抗抑郁药的疗效微乎其微，并记录了严重的发表偏倚，夸大了它们的表观疗效……结论：审查的结果支持重新评估当前推荐的标准抑郁症的护理。” 抗抑郁药不是灵丹妙药。</p><p>其次，“化学失衡”假说——低血清素导致抑郁症和抗抑郁药通过提高这些水平起作用的观点——未能找到实证支持。在过去的几十年里，对血清素与抑郁症之间联系的研究已经扩展到多个领域。研究旨在比较抑郁症患者与非抑郁症患者的血清素和血清素产物的水平，以及参与血清素转运的基因的变异。其他研究试图人为地降低血清素水平（通过剥夺他们饮食中制造血清素所需的氨基酸），试图在低血清素和抑郁症之间建立联系。</p><p>伦敦大学学院的乔安娜·蒙克里夫 (Joanna Moncrieff) 及其同事最近（2022 年）对这些多样化的文献进行了详尽的“综合审查”（对荟萃分析和其他审查的审查），检查了上述所有调查中积累的证据。结论很明确：“血清素研究的主要领域没有提供一致的证据表明血清素与抑郁症之间存在关联，也不支持抑郁症是由血清素活性或浓度降低引起的假设。”</p><p>主要作者 Joanna Moncrieff说，“我认为我们可以有把握地说，经过几十年的大量研究，没有令人信服的证据表明抑郁症是由血清素异常引起的，特别是血清素水平较低或活性降低……许多人服用抗抑郁药是因为他们被引导相信他们的抑郁症是由生化原因引起的，但这项新研究表明这种信念没有证据支持。”</p><p>该综述确实发现了不良和创伤性生活事件与抑郁症发作之间的密切联系，这表明环境压力可能比大脑内部过程更能影响疾病的出现。蒙克里夫指出：“我们研究的一个有趣的方面是不良生活事件对抑郁症的影响有多强烈，这表明情绪低落是对人们生活的一种反应，不能归结为一个简单的化学方程式。”</p><p>对于外行来说，这一切的结果是双重的。首先，您应该意识到，虽然抗抑郁药可能对您有效，但并非对所有人都有效，而且我们不知道它们是如何起作用的。任何以不同方式告诉你的人都是在撒谎——对你或对他们自己（或两者）。</p><p>其次，如果您听到医学专家使用“化学失衡”一词来解释抑郁症，那么您听到的是虚构的叙述（或推销），而不是科学事实。寻找质量更好的护理。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&amp;#96;关键点&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;没有令人信服的证据表明抑郁症是由血清素异常引起的。&lt;/li&gt;
-&lt;li&gt;许多服用抗抑郁药的人认为他们的抑郁症是由生化原因引起的。研究不支持这种信念。&lt;/li&gt;
-&lt;li&gt;证据不支持抗抑郁药通过提高血清素水平起作用的观点。&amp;#96;&lt;/li&gt;
-&lt;/ul&gt;</summary>
-    
-    
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/categories/%E5%BF%83%E7%90%86/"/>
-    
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/tags/%E5%BF%83%E7%90%86/"/>
-    
-    <category term="抑郁" scheme="https://blog.rss2ebook.com/tags/%E6%8A%91%E9%83%81/"/>
     
   </entry>
   
