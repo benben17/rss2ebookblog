@@ -6,7 +6,7 @@
   <link href="https://blog.rss2ebook.com/atom.xml" rel="self"/>
   
   <link href="https://blog.rss2ebook.com/"/>
-  <updated>2023-04-19T07:45:09.089Z</updated>
+  <updated>2023-04-20T07:08:18.969Z</updated>
   <id>https://blog.rss2ebook.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>RSS2EBOOK介绍</title>
-    <link href="https://blog.rss2ebook.com/2023/04/19/RSS2EBOOK%E4%BB%8B%E7%BB%8D/"/>
-    <id>https://blog.rss2ebook.com/2023/04/19/RSS2EBOOK%E4%BB%8B%E7%BB%8D/</id>
+    <title>RSS2EBOOK 介绍</title>
+    <link href="https://blog.rss2ebook.com/2023/RSS2EBOOK%E4%BB%8B%E7%BB%8D.html"/>
+    <id>https://blog.rss2ebook.com/2023/RSS2EBOOK%E4%BB%8B%E7%BB%8D.html</id>
     <published>2023-04-18T16:00:00.000Z</published>
-    <updated>2023-04-19T07:45:09.089Z</updated>
+    <updated>2023-04-20T07:08:18.969Z</updated>
     
     <content type="html"><![CDATA[<h3 id="产品介绍"><a href="#产品介绍" class="headerlink" title="产品介绍"></a>产品介绍</h3><p>欢迎使用我们的RSS订阅生成电子书服务！本手册将为您介绍如何使用我们的服务，并详细说明我们提供的功能和服务。</p><p>服务适用于任何想要定制化、个性化的内容订阅服务的用户，包括新闻、博客、科技、文化、艺术等领域的内容。无论您是一位忙碌的白领、学生、教师、研究人员还是自由职业者，我们都能够提供高效、便捷、高品质的服务。</p><h3 id="如何使用"><a href="#如何使用" class="headerlink" title="如何使用"></a>如何使用</h3><ol><li><p>注册并登录<br>在我们的网站上注册并登录，成为我们的会员。通过您的个人账户，您可以方便地管理您的订阅和电子书。</p></li><li><p>配置推送方式和电子书格式<br>在推送射中，您可以配置您的推送方式和电子书格式。我们支持epub和mobi两种格式，您可以选择您喜欢的格式。同时，您还可以配置您的推送方式，包括推送时间和推送频率。</p></li><li><p>订阅感兴趣的新闻源，即可开始接收电子书<br>在我们的网站上订阅您感兴趣的新闻源，我们将自动为您生成电子书并推送到您的邮箱中。如果您订阅的新闻源过多，您可以进行分类，每个分类都将自动生成一本电子书。</p></li><li><p>分类可以设置文章保留时间和电子书名称<br>每个分类都可以设置文章保留时间和电子书名称。您可以根据自己的需要，设置不同的保留时间和电子书名称。同时，您还可以选择是否移除文章内的超链接。</p></li></ol><h3 id="支持的服务"><a href="#支持的服务" class="headerlink" title="支持的服务"></a>支持的服务</h3><ul><li>免费版本：<br>包含10个订阅源、默认书籍封面、手工推送、每天推送一次、电子书格式设置、电子书适配类型、一天内的文章。</li><li>PLUS版本：<br>包含200个订阅源、自定义书籍封面、手工推送、每天推送多次、电子书格式设置、电子书适配类型、保留文章图片、设置最旧文章（最多7天）、移除文章内超链接、自动推送、推送周期设置。</li></ul>]]></content>
     
@@ -43,10 +43,10 @@
   
   <entry>
     <title>Introduction to RSS2EBOOK</title>
-    <link href="https://blog.rss2ebook.com/2023/04/18/Introduction%20to%20RSS2EBOOK/"/>
-    <id>https://blog.rss2ebook.com/2023/04/18/Introduction%20to%20RSS2EBOOK/</id>
+    <link href="https://blog.rss2ebook.com/2023/en/Introduction%20to%20RSS2EBOOK.html"/>
+    <id>https://blog.rss2ebook.com/2023/en/Introduction%20to%20RSS2EBOOK.html</id>
     <published>2023-04-17T16:00:00.000Z</published>
-    <updated>2023-04-19T07:49:33.954Z</updated>
+    <updated>2023-04-20T07:08:42.944Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Product-Introduction"><a href="#Product-Introduction" class="headerlink" title="Product Introduction"></a>Product Introduction</h3><p>  Welcome to our RSS subscription to e-book generation service! This guide will introduce you to how to use our service and provide detailed information about the features and services we offer.</p><p>  Our service is suitable for any user who wants a customized, personalized content subscription service, including news, blogs, technology, culture, art, and other fields. Whether you are a busy white-collar worker, student, teacher, researcher, or freelancer, we can provide efficient, convenient, and high-quality service.</p><span id="more"></span><h3 id="How-to-Use"><a href="#How-to-Use" class="headerlink" title="How to Use"></a>How to Use</h3><ol><li><p>Register and log in<br>  Register and log in on our website to become our member. With your personal account, you can conveniently manage your subscriptions and e-books.</p></li><li><p>Configure push method and e-book format<br>  In the push settings, you can configure your push method and e-book format. We support two formats: epub and mobi, and you can choose the format you prefer. At the same time, you can also configure your push method, including push time and push frequency.</p></li><li><p>Subscribe to the news sources of interest to start receiving e-books<br>  Subscribe to the news sources of interest on our website, and we will automatically generate e-books for you and push them to your email. If you subscribe to too many news sources, you can categorize them, and each category will generate an e-book.</p></li><li><p>Categories can set article retention time and e-book name<br>  Each category can set the article retention time and e-book name. You can set different retention times and e-book names according to your needs. At the same time, you can choose whether to remove hyperlinks in the articles.</p></li></ol><h3 id="Supported-Services"><a href="#Supported-Services" class="headerlink" title="Supported Services"></a>Supported Services</h3><ul><li>Free version:<br>Includes 10 subscription sources, default book cover, manual push, once a day push, e-book format setting, e-book adaptation type, articles within one day.</li><li>PLUS version:<br>Includes 200 subscription sources, custom book cover, manual push, multiple pushes per day, e-book format setting, e-book adaptation type, retains article images, sets the oldest article (up to 7 days), removes hyperlinks in the article, automatic push, and push cycle setting.</li></ul>]]></content>
     
@@ -64,11 +64,11 @@
   </entry>
   
   <entry>
-    <title>RSS2EBOOK-内容</title>
-    <link href="https://blog.rss2ebook.com/2023/04/11/rss2Ebook/"/>
-    <id>https://blog.rss2ebook.com/2023/04/11/rss2Ebook/</id>
+    <title>RSS2EBOOK 内容</title>
+    <link href="https://blog.rss2ebook.com/2023/RSS2EBOOK%20%E5%86%85%E5%AE%B9.html"/>
+    <id>https://blog.rss2ebook.com/2023/RSS2EBOOK%20%E5%86%85%E5%AE%B9.html</id>
     <published>2023-04-11T11:12:13.000Z</published>
-    <updated>2023-04-19T07:47:15.408Z</updated>
+    <updated>2023-04-20T07:08:07.924Z</updated>
     
     <content type="html"><![CDATA[<p>英文RSS生成电子书，自定义订阅源,定时自动发送</p><p><a href="https://www.rss2ebook.com/">https://www.rss2ebook.com</a></p><ul><li>1、经济学人 (The Economist)</li><li>2、卫报 (The Guardian)</li><li>3、时代周刊 (Time)</li><li>4、大西洋月刊 (The Atlantic)</li><li>5、纽约时报 (The New York Times)</li><li>6、新科学家 (New Scientist)</li><li>7、美国国家地理 (National Geographic)</li><li>8、科学美国人 (Scientific American)</li><li>9、哈佛商业评论 (Harvard Business Review</li><li>10、纽约客 (The New Yorker)</li><li>11、自然 (Nature)</li><li>12、科学 (Science)</li><li>13、彭博商业周刊 (Bloomberg Businessweek)</li><li>14、纽约时报书评 (The New York Times Reviewof Books)</li><li>15、华盛顿邮报 (The Washington Post)</li><li>16、基督教科学箴言报 (The Christian ScienceMonitor</li><li>17、《金融时报》 Financial Times</li><li>18、《华尔街日报》 The Wall Street Journa</li><li>19、《科学家》The Scientist</li><li>20、《时尚》 Vogue</li></ul>]]></content>
     
@@ -91,40 +91,38 @@
   </entry>
   
   <entry>
-    <title>我们应该希望什么？</title>
-    <link href="https://blog.rss2ebook.com/2023/04/08/%E6%88%91%E4%BB%AC%E5%BA%94%E8%AF%A5%E5%B8%8C%E6%9C%9B%E4%BB%80%E4%B9%88/"/>
-    <id>https://blog.rss2ebook.com/2023/04/08/%E6%88%91%E4%BB%AC%E5%BA%94%E8%AF%A5%E5%B8%8C%E6%9C%9B%E4%BB%80%E4%B9%88/</id>
-    <published>2023-04-07T16:00:00.000Z</published>
-    <updated>2023-04-11T10:58:24.000Z</updated>
+    <title>RSS2EBOOK content</title>
+    <link href="https://blog.rss2ebook.com/2023/en/rss2Ebook.html"/>
+    <id>https://blog.rss2ebook.com/2023/en/rss2Ebook.html</id>
+    <published>2023-04-11T11:12:13.000Z</published>
+    <updated>2023-04-20T07:08:51.020Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>要点</p></blockquote><ul><li>希望是情商的基石，但杰出的人性思想家往往只是顺便注意到它。</li><li>希望不是乐观，它的等式更复杂：希望&#x3D;愿望+好+不确定性+功效。</li><li>希望需要伙伴关系。在人类事务中，“我是希望”永远不够;“我们是希望”是实现梦想的唯一途径。<span id="more"></span>看着一幅画或一张照片，太阳与地平线相遇的地方，并不总是很容易分辨它是黄昏还是黎明。有时，在现实生活中也很难分辨。在这种不确定的时刻，我们不是看日落或日出来确定方向，而是寻找指南针提供指导——捕捉太阳和地球的意图。</li></ul><p>这是逾越节，一个庆祝从奴隶制中解放出来的时刻——并校准我们的指南针，情感和道德，重新发现希望。我在以色列写这篇文章，那里的自由之光闪烁着，这个国家脆弱的民主在死亡和重生之间徘徊。</p><p>进入一种略带梦幻的心情，我想起了最近流行文化冲击国内的时刻，我认为观看有趣的 Netflix 节目变成了一个场景，个人的，也许太个人化了。</p><p>但即便是桑德曼这个梦想编织者，是不是有些梦想太过分了？我们应该希望什么，希望多少，什么时候停止希望？我们什么时候应该放弃事业，放弃人民，放弃我们的人民？是什么扼杀了希望？是什么让它活着？</p><p>希望不是乐观，而是相信事情会以某种方式好转。希望的等式更为复杂：希望&#x3D;愿望+良好+不确定性+功效。我们希望当我们渴望一个不确定的好处时，我们（相信我们）可以帮助。但是，在我们说出“希望”之前，我们很少考虑所有这些。这个词通常只是一个不经意的评论。“我希望在考试中取得好成绩。”嗯，嘟嘟！我们很少希望失败，除非我们认为失败是好的。</p><p>那么希望是一种有点平庸的情绪，如此普遍，几乎是透明的。这在哲学、心理学和政治学中都很明显。杰出的思想家将希望作为人类生活的基石，但只是顺便指出了这一点。例如，托马斯·霍布斯（Thomas Hobbes）很少在他的政治心理学中讨论希望，但当他这样做时，自然状态下的“希望平等”应该让人们寻求强大的利维坦的保护。斯宾诺莎也很少关注希望，但他认为，与恐惧一起，它是政治权力的基础，也是人们遵循社会契约的原因。</p><p>伊曼努尔·康德更认真地对待希望。在他的《纯粹理性批判》中，“我能知道什么？”和“我应该做什么？”是康德的两个著名问题，哲学的“是”和“应该”支柱。但是，除了这个著名的双胞胎之外，康德还给我们带来了第三个基本难题：“我希望什么？</p><p>在这里，它变得有趣，因为——与康德非典型——情绪开始发挥作用，上帝也是如此。对康德来说，希望的首要好处是个人幸福。但是，作为《好地方》的先驱，康德总是寻求道德上的善（尽管也许不是在夕阳下），康德不仅想快乐，他想快乐，因为他是好人！但是，谁能向我们保证好人会快乐，而坏人会悲惨呢？康德意识到，没有一个人，因为他召唤了“最高的理性”，即上帝，来帮助我们希望道德进步，无论是个人的还是普遍的，这将导致幸福。</p><p>康德失败了。一边问：“我希望什么？康德居然回答说：“我不能没有什么希望呢？尽管如此，上帝充其量只是人类对幸福和美好抱有希望的必要条件，但从来都不是充分条件。毕竟，即使在上帝的统治下，好人也常常得到棍子的短端，在天堂等待他们的胡萝卜。</p><p>也许康德失败是因为他希望不够。与康德不同，索伦·克尔凯郭尔没有诉诸理性来让上帝在他的希望剧场中占据中心舞台。对于丹麦的存在主义者来说，尘世的、自然的希望注定会让我们失望。但是，它们通过为永恒的希望铺平道路来达到更高的目的，这“与希望背道而驰，因为根据这种纯粹自然的希望，没有更多的希望;因此，这种希望与希望背道而驰。</p><p>一个人能“希望与希望”对抗，克服一切可能的可能性，走多远？克尔凯郭尔想尽可能地去找一个牺牲他心爱的儿子的父亲，相信他心爱的上帝会以某种方式拯救这一天。他封忠心的亚伯拉罕为爵士，以表彰这一非凡的“信仰飞跃”。但在这个过程中，克尔凯郭尔没有意识到这一点，他试图从他自己残酷的言行中救赎上帝自己。</p><p>克尔凯郭尔的希望实际上与他所寻求的相反。他没有投下神圣的希望来战胜人类的希望，而是世俗的希望，他自己的希望，赦免了神圣。但是，如果人类如此强大到可以赦免上帝，为什么他们首先需要这种半神呢？他们不妨离开他，没有他。还剩下什么？</p><p>意识到：“希望与希望”是死胡同。是什么扼杀了希望？好吧，希望本身，或者更确切地说是贫瘠的希望。希望“能够在反生命中幸存下来，在一切尽头的黑暗中生存”，只有在它不寂寞的时候。否则，希望只不过是一种一厢情愿的感觉，一种未满足的愿望，离绝望只有一寸之遥，或者更糟的是，毁灭。</p><p>在人类事务中，“我是希望”永远不够;“我们是希望”是实现梦想的唯一途径。希望需要伙伴关系，就像弗朗茨·卡夫卡一样，没有伙伴关系，确实“我们没有希望”。有了它，互相帮助的希望，往往对于不同的事情，一切皆有可能，而“最后的黑暗”可以是一个光明的开始。我们可能希望什么？什么。</p>]]></content>
+    <content type="html"><![CDATA[<p>英文RSS生成电子书，自定义订阅源,定时自动发送</p><p><a href="https://www.rss2ebook.com/">https://www.rss2ebook.com</a></p><ul><li>1、经济学人 (The Economist)</li><li>2、卫报 (The Guardian)</li><li>3、时代周刊 (Time)</li><li>4、大西洋月刊 (The Atlantic)</li><li>5、纽约时报 (The New York Times)</li><li>6、新科学家 (New Scientist)</li><li>7、美国国家地理 (National Geographic)</li><li>8、科学美国人 (Scientific American)</li><li>9、哈佛商业评论 (Harvard Business Review</li><li>10、纽约客 (The New Yorker)</li><li>11、自然 (Nature)</li><li>12、科学 (Science)</li><li>13、彭博商业周刊 (Bloomberg Businessweek)</li><li>14、纽约时报书评 (The New York Times Reviewof Books)</li><li>15、华盛顿邮报 (The Washington Post)</li><li>16、基督教科学箴言报 (The Christian ScienceMonitor</li><li>17、《金融时报》 Financial Times</li><li>18、《华尔街日报》 The Wall Street Journa</li><li>19、《科学家》The Scientist</li><li>20、《时尚》 Vogue</li></ul>]]></content>
     
     
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;要点&lt;/p&gt;
-&lt;/blockquote&gt;
+      
+      
+    <summary type="html">&lt;p&gt;英文RSS生成电子书，自定义订阅源,定时自动发送&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.rss2ebook.com/&quot;&gt;https://www.rss2ebook.com&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;希望是情商的基石，但杰出的人性思想家往往只是顺便注意到它。&lt;/li&gt;
-&lt;li&gt;希望不是乐观，它的等式更复杂：希望&amp;#x3D;愿望+好+不确定性+功效。&lt;/li&gt;
-&lt;li&gt;希望需要伙伴关系。在人类事务中，“我是希望”永远不够;“我们是希望”是实现梦想的唯一途径。</summary>
+&lt;li&gt;1、经济学人 (The Economist)&lt;/l</summary>
+      
     
     
     
-    <category term="心理" scheme="https://blog.rss2ebook.com/categories/%E5%BF%83%E7%90%86/"/>
+    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/categories/RSS2EBOOK/"/>
     
     
-    <category term="快乐" scheme="https://blog.rss2ebook.com/tags/%E5%BF%AB%E4%B9%90/"/>
-    
-    <category term="希望" scheme="https://blog.rss2ebook.com/tags/%E5%B8%8C%E6%9C%9B/"/>
+    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/tags/RSS2EBOOK/"/>
     
   </entry>
   
   <entry>
-    <title>关于RSS2EBOOK</title>
-    <link href="https://blog.rss2ebook.com/2023/03/28/%E5%85%B3%E4%BA%8ERSS2EBOOK/"/>
-    <id>https://blog.rss2ebook.com/2023/03/28/%E5%85%B3%E4%BA%8ERSS2EBOOK/</id>
+    <title>关于 RSS2EBOOK</title>
+    <link href="https://blog.rss2ebook.com/2023/%E5%85%B3%E4%BA%8ERSS2EBOOK.html"/>
+    <id>https://blog.rss2ebook.com/2023/%E5%85%B3%E4%BA%8ERSS2EBOOK.html</id>
     <published>2023-03-27T16:00:00.000Z</published>
-    <updated>2023-04-18T03:31:00.186Z</updated>
+    <updated>2023-04-20T07:08:30.576Z</updated>
     
     <content type="html"><![CDATA[<p>本服务为在线RSS订阅生成电子书服务，提供多种媒体的订阅电子书生成并推送到用户邮箱。用户可以选择订阅自己感兴趣的媒体，定时生成电子书并发送至用户邮箱。</p><p>我们提供的媒体包括但不限于：经济学人、卫报、时代周刊、大西洋月刊、纽约时报、新科学家、美国国家地理、科学美国人、哈佛商业评论、纽约客、自然、科学、彭博商业周刊、纽约时报书评、华盛顿邮报、基督教科学箴言报、金融时报、华尔街日报和科学家等知名媒体。</p><p>我们的服务优点包括：</p><ul><li>多种媒体资源可供选择，用户可以根据自己的兴趣和需求进行订阅。</li><li>定时生成电子书并推送至用户邮箱，方便用户查阅和阅读。</li><li>服务完全免费，用户无需支付任何费用即可使用我们的服务。</li><li>电子书支持多种格式，包括epub、mobi，满足用户不同的阅读习惯和设备需求。</li><li>支持多种设备类型kindle、JDReader、汉王等</li></ul><p>我们的服务致力于为用户提供方便快捷的订阅和阅读体验，让用户可以更加轻松地获取自己喜欢的媒体资源。</p>]]></content>
     
@@ -149,98 +147,62 @@
   </entry>
   
   <entry>
-    <title>对失去独立的恐惧如何影响人际关系</title>
-    <link href="https://blog.rss2ebook.com/2023/03/28/%E5%AF%B9%E5%A4%B1%E5%8E%BB%E7%8B%AC%E7%AB%8B%E7%9A%84%E6%81%90%E6%83%A7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB/"/>
-    <id>https://blog.rss2ebook.com/2023/03/28/%E5%AF%B9%E5%A4%B1%E5%8E%BB%E7%8B%AC%E7%AB%8B%E7%9A%84%E6%81%90%E6%83%A7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB/</id>
+    <title>RSS2EBOOK How to use</title>
+    <link href="https://blog.rss2ebook.com/2023/en/RSS2EBOOK%20How%20to%20use.html"/>
+    <id>https://blog.rss2ebook.com/2023/en/RSS2EBOOK%20How%20to%20use.html</id>
     <published>2023-03-27T16:00:00.000Z</published>
-    <updated>2023-04-11T10:57:47.000Z</updated>
+    <updated>2023-04-20T07:08:46.364Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>要点</p></blockquote><ul><li>对失去独立的恐惧可能会在那些在专横的看护人中长大或在童年时期需求没有得到满足的人身上发展起来。</li><li>对独立的强烈需求可能表现为倾向于关注伴侣的缺点或声称“缺少某些东西”。</li><li>在一个人意识到他们害怕失去独立性后，治疗师可以帮助改变这种模式。<span id="more"></span>如果你有意识地想要一段关系，但继续发现你得到了不同的结果，你可能会惊讶地发现，你可能有一种潜在的恐惧，害怕失去独立性。通常被认为是对承诺的恐惧通常是害怕在一段关系中失去自己。那些高度重视在人际关系中拥有空间并害怕失去独立性的人可能会有一种回避型或恐惧型回避型的依恋风格。</li></ul><p>你的依恋风格是你被吸引的伴侣的蓝图，也是你在人际关系中的联系方式。研究表明，您小时候与主要照顾者的关系有助于塑造您的依恋风格。</p><p>失去独立的恐惧可能是由于在一个你的独立性被扼杀的家庭中长大，你因为专横的看护人而感到失控，或者在一个你的情感需求没有得到满足的家庭中长大，你很早就学会了依靠自己。</p><p>如果你在成长过程中经历过这样的情况，你可能已经形成了一种信念，即相信别人会满足你的需求是不安全的。因此，你可能已经产生了对独立的强烈需求，试图保护自己并应对你无法控制的成长环境。这种应对策略可能帮助你在成长的环境中生存下来，但可能会妨碍你成年后想要的有意义的关系。</p><p>一旦你开始与某人走得更近，并且很难让自己相信他们会满足你的需求，因为过去这样做并不安全，那么失去独立性的恐惧往往会变得更加明显。</p><p>这种恐惧正在影响你的人际关系的迹象<br>如果你已经单身了很长时间，尽管渴望恋爱，请考虑以下迹象，表明这种恐惧可能会影响你的约会模式：</p><h3 id="你找到肤浅的理由来解雇合适的伴侣。"><a href="#你找到肤浅的理由来解雇合适的伴侣。" class="headerlink" title="你找到肤浅的理由来解雇合适的伴侣。"></a>你找到肤浅的理由来解雇合适的伴侣。</h3><p>一旦你开始与某人走得更近，你就会开始疏远自己。因此，您可能会发现自己一直与他人保持距离，并长时间保持单身。</p><ol><li>你可能会发现，你和某人越亲近，你就越专注于想要你的空间和独立性。</li><li>你可能经常被那些你内心深处知道没有未来的伙伴所吸引。你也可能被有相反恐惧（害怕独处）的伴侣所吸引，一旦你开始与他们走得更近，你就会开始疏远他们。</li><li>一旦关系变得更加亲密，对失去独立性的恐惧可能会更加强烈，你可能会发现自己专注于伴侣的缺陷，努力与他们保持距离并支持你的观点，即他们不适合你。</li><li>这种恐惧可能表现在诸如“我感觉不到我正在寻找的化学反应或火花”，“缺少某些东西”之类的想法中，或者包括理想化以前的关系并将您当前的伴侣与前任进行比较的想法。</li><li>克服这种恐惧并学习如何应对它的第一步是意识到失去独立性的恐惧如何影响你的人际关系。如果您需要额外的支持，与治疗师合作，他们可以在此过程中提供有用的指导，可以帮助您改变关系模式。</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to our RSS2EBOOK service! This is a convenient tool that automatically converts your subscribed articles into e-books and sends them to you via email. Recently, we added subscription source categorization and push configuration features to provide you with more personalized service.</p><p>Here are the steps to use our service:</p><h4 id="Step-1-Register-and-login"><a href="#Step-1-Register-and-login" class="headerlink" title="Step 1: Register and login"></a>Step 1: Register and login</h4><p>Register and login on our website to become a member. By creating a personal account, you can easily manage your subscriptions and e-books. We guarantee the security and privacy of your personal information.</p><h4 id="Step-2-Set-push-configuration-and-e-book-format"><a href="#Step-2-Set-push-configuration-and-e-book-format" class="headerlink" title="Step 2: Set push configuration and e-book format"></a>Step 2: Set push configuration and e-book format</h4><p>In “Push Configuration,” you can set the push method, e-book format, push time, and frequency. We support two e-book formats, epub and mobi, and you can choose the format you prefer. At the same time, you can adjust the push time and frequency according to your needs.</p><h4 id="Step-3-Add-and-categorize-subscription-sources"><a href="#Step-3-Add-and-categorize-subscription-sources" class="headerlink" title="Step 3: Add and categorize subscription sources"></a>Step 3: Add and categorize subscription sources</h4><p>You can add the subscription sources you are interested in by entering the source’s RSS source URL. We support categorizing subscription sources, and you can add them to existing categories or create new ones. In each category, you can set the e-book name, the number of days to retain articles, and whether to save images in articles. Through the categorization function, you can better manage your subscription sources and e-books.</p><h4 id="Step-4-Start-receiving-e-books"><a href="#Step-4-Start-receiving-e-books" class="headerlink" title="Step 4: Start receiving e-books"></a>Step 4: Start receiving e-books</h4><p>Once you have added and categorized your subscription sources, our system will automatically convert them into e-books and push them to your email according to your push configuration. If you subscribe to a large number of sources, you can create multiple categories, and each category will generate an e-book. Without manual organization, you can easily read the articles you are interested in.</p><h4 id="Step-5-Manage-your-subscriptions-and-e-books"><a href="#Step-5-Manage-your-subscriptions-and-e-books" class="headerlink" title="Step 5: Manage your subscriptions and e-books"></a>Step 5: Manage your subscriptions and e-books</h4><p>In your personal account, you can view the subscription sources you have added, the e-books you have received, and the categories you have created. You can also edit push configuration and e-book format, as well as the settings of each category. We also provide some tools to help you manage and export your subscription sources and e-books.</p><p>By using our RSS2EBOOK service, you can read the articles you are interested in anytime, anywhere, and never miss any exciting content. If you have any questions or suggestions, please feel free to contact us.</p>]]></content>
     
     
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;要点&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;对失去独立的恐惧可能会在那些在专横的看护人中长大或在童年时期需求没有得到满足的人身上发展起来。&lt;/li&gt;
-&lt;li&gt;对独立的强烈需求可能表现为倾向于关注伴侣的缺点或声称“缺少某些东西”。&lt;/li&gt;
-&lt;li&gt;在一个人意识到他们害怕失去独立性后，治疗师可以帮助改变这种模式。</summary>
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to our RSS2EBOOK service! This is a convenient tool that automatically converts your subscribed articles into e-books and sends t</summary>
+      
     
     
     
-    <category term="心理" scheme="https://blog.rss2ebook.com/categories/%E5%BF%83%E7%90%86/"/>
+    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/categories/RSS2EBOOK/"/>
     
     
-    <category term="心理" scheme="https://blog.rss2ebook.com/tags/%E5%BF%83%E7%90%86/"/>
-    
-    <category term="恐惧" scheme="https://blog.rss2ebook.com/tags/%E6%81%90%E6%83%A7/"/>
-    
-    <category term="社交" scheme="https://blog.rss2ebook.com/tags/%E7%A4%BE%E4%BA%A4/"/>
+    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/tags/RSS2EBOOK/"/>
     
   </entry>
   
   <entry>
-    <title>肥胖真的是一种病吗？</title>
-    <link href="https://blog.rss2ebook.com/2023/03/27/%E8%82%A5%E8%83%96%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E7%A7%8D%E7%97%85%E5%90%97%EF%BC%9F/"/>
-    <id>https://blog.rss2ebook.com/2023/03/27/%E8%82%A5%E8%83%96%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E7%A7%8D%E7%97%85%E5%90%97%EF%BC%9F/</id>
-    <published>2023-03-27T07:20:52.000Z</published>
-    <updated>2023-04-11T10:57:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>将肥胖称为疾病（或不是疾病）充满了困难。</p></blockquote><p>关键点</p><ul><li>2008 年，肥胖协会没有将肥胖称为疾病。</li><li>关于遗传对肥胖的贡献的发现突出了肥胖的复杂性。</li><li>将肥胖称为疾病会影响态度、治疗、健康保险、政策和教育。</li></ul><hr><span id="more"></span><p>最近的新闻发展再次凸显了将肥胖定义为一种疾病的争议。最值得注意的是，已发现目前用于治疗 II 型糖尿病的几种药物在以较高剂量开处方时可促进肥胖个体的体重减轻。不幸的是，这些药物的成本很高，保险公司不愿意支付。</p><p>虽然 II 型糖尿病长期以来一直被认为是一种具有特定病因和特定疾病过程的疾病，但肥胖症并不是那么明确。</p><h2 id="他们有何不同"><a href="#他们有何不同" class="headerlink" title="他们有何不同"></a>他们有何不同</h2><p>2008年，肥胖协会发表了一份关于肥胖是否是一种疾病的白皮书。</p><p>当时，他们关注的是将肥胖定义为一种疾病所固有的困难。显然，导致肥胖的方法太多，可能的结果也太多，以至于无法将其称为一种疾病。此外，他们注意到缺乏明确的、广泛接受的疾病定义。在审查证据并发现它具有争议性和复杂性后，作者承认采取了功利主义的方法。</p><p>他们认为，尽管很复杂，但将其称为疾病对社会和个人都有很多好处。为了规避一些问题，他们修改了问题“肥胖是一种疾病吗？” 到“我们应该将肥胖视为一种疾病吗？”</p><p>区别很微妙但很重要。他们没有尝试使用既定的疾病定义来说明为什么肥胖是一种疾病，而是撒了一张更广的网。对他们来说，肥胖可以被认为是一种疾病，尽管严格意义上并不是真正的疾病。</p><p>值得注意的是，从那时起，美国食品和药物管理局、世界卫生组织、世界肥胖联合会甚至美国国税局等卫生组织都采取了肥胖是一种疾病的立场。</p><h2 id="遗传学的作用"><a href="#遗传学的作用" class="headerlink" title="遗传学的作用"></a>遗传学的作用</h2><p>当时，肥胖协会没有足够的细节来考虑他们的发现，无法将遗传学纳入考虑范围。</p><p>2008 年标志着 FTO 基因（脂肪量和肥胖相关基因）的发现，这被誉为发现导致常见肥胖形式的第一个基因。</p><p>2013 年，美国医学协会发表了一份立场文件，宣布肥胖是一种疾病。2008 年至 2013 年间，大量研究表明发现了许多可能导致肥胖倾向的潜在基因变异。</p><p>人们会认为这些发现会支持肥胖是一种有其独特过程的疾病的论点。但是，实际上，遗传学的发展如此之快，以至于水域已经因过多的潜在肥胖因素而变得浑浊。</p><p>因此，即使肥胖协会的声明得到了基因发现的支持，他们的立场也可能是一样的。</p><h2 id="他们的结论"><a href="#他们的结论" class="headerlink" title="他们的结论"></a>他们的结论</h2><p>正如肥胖协会指出的那样，肥胖可以被认为是一种疾病。</p><p>在他们看来，这样做的积极影响如下：</p><ul><li>它将肥胖描述为一种由多种原因引起的复杂状况，包括许多在很大程度上超出个人控制的因素。</li><li>肥胖会带来很多痛苦。</li><li>肥胖会导致健康不良、功能受损、生活质量下降、严重疾病和更高的死亡率。</li><li>成功的治疗虽然困难，但会带来很多好处。</li><li>对于肥胖者来说，社会上有很多耻辱和歧视。</li><li>肥胖的人应该得到更好的。</li><li>很难不同意这些发现。</li></ul><h2 id="疾病模型的优缺点"><a href="#疾病模型的优缺点" class="headerlink" title="疾病模型的优缺点"></a>疾病模型的优缺点</h2><p>在消极方面：</p><ul><li><p>肥胖的人可能会认输，而不去尝试改善他们的健康。</p></li><li><p>关于疾病的性质和遗传学的影响，争论仍然很激烈。</p></li><li><p>如果肥胖被认为是一种疾病，那么为健康保险付费的公司最终可能不得不支付更多费用，这可能会导致劳动力对肥胖人群的歧视。<br>从积极的一面：</p></li><li><p>获得研究资金可能更容易。（如果肥胖是一种疾病而不仅仅是一个危险因素。）</p></li><li><p>治疗肥胖症的医生可能会获得更多的保险金。</p></li><li><p>可能会有更多的抗肥胖药物保险支付。</p></li><li><p>与肥胖相关的耻辱和歧视可能会减少。</p></li></ul><h2 id="其他需要解决的困难"><a href="#其他需要解决的困难" class="headerlink" title="其他需要解决的困难"></a>其他需要解决的困难</h2><p>如上所述，很难让保险公司为有前途的减肥新药买单。这只是努力获得保险以涵盖肥胖治疗的一个例子。</p><p>需要指出的是，生活方式干预虽​​然复杂且难以提供，但一再被证明对减肥和整体健康有效，即使面对遗传倾向也是如此。不过，需要认识到行为只是图片的一部分。</p><p>环境仍然是一个巨大的因素。有人指出，肥胖的流行与我们“致肥胖”环境的发生率上升密切相关，包括高度加工食品和久坐不动的生活方式。这意味着随着环境的变化，我们携带的基因能够更容易地表达自己。我们需要将这一点放在首位，并尽我们所能向食品制造公司施压，以创造更健康的选择。</p><p>最后，我们似乎需要加倍加强对公众、医生和企业的教育，以便就肥胖的原因以及我们可以做些什么来减轻肥胖给社会造成的痛苦提供明确的信息.</p>]]></content>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;将肥胖称为疾病（或不是疾病）充满了困难。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;关键点&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2008 年，肥胖协会没有将肥胖称为疾病。&lt;/li&gt;
-&lt;li&gt;关于遗传对肥胖的贡献的发现突出了肥胖的复杂性。&lt;/li&gt;
-&lt;li&gt;将肥胖称为疾病会影响态度、治疗、健康保险、政策和教育。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</summary>
-    
-    
-    
-    <category term="健康" scheme="https://blog.rss2ebook.com/categories/%E5%81%A5%E5%BA%B7/"/>
-    
-    
-    <category term="健康" scheme="https://blog.rss2ebook.com/tags/%E5%81%A5%E5%BA%B7/"/>
-    
-    <category term="肥胖" scheme="https://blog.rss2ebook.com/tags/%E8%82%A5%E8%83%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>什么是失眠？</title>
-    <link href="https://blog.rss2ebook.com/2023/03/27/%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%B1%E7%9C%A0%EF%BC%9F/"/>
-    <id>https://blog.rss2ebook.com/2023/03/27/%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%B1%E7%9C%A0%EF%BC%9F/</id>
+    <title>26 high-quality news, financial and business newspapers around the world</title>
+    <link href="https://blog.rss2ebook.com/2023/en/26%20news.html"/>
+    <id>https://blog.rss2ebook.com/2023/en/26%20news.html</id>
     <published>2023-03-26T16:00:00.000Z</published>
-    <updated>2023-03-27T06:58:49.000Z</updated>
+    <updated>2023-04-20T07:08:38.496Z</updated>
     
-    <content type="html"><![CDATA[<p>睡眠障碍是一组影响睡眠时间、质量或数量的睡眠障碍。</p><h2 id="睡眠障碍的类型"><a href="#睡眠障碍的类型" class="headerlink" title="睡眠障碍的类型"></a>睡眠障碍的类型</h2><p>睡眠障碍，也称为睡眠-觉醒障碍，包括 80 多种不同症状的疾病。2 失眠是一组睡眠障碍。要了解哪些类型的病症属于失眠症，了解各种类型的睡眠障碍是如何分类的可能会有所帮助。</p><span id="more"></span><p>睡眠障碍大致分为两类：</p><ul><li>原发性睡眠障碍：这些障碍不是由任何其他健康状况引起的。 </li><li>继发性睡眠障碍：这些障碍是由其他健康状况引起的，例如抑郁症、中风、关节炎、哮喘或甲状腺问题。</li></ul><h4 id="原发性睡眠障碍进一步分为两种情况："><a href="#原发性睡眠障碍进一步分为两种情况：" class="headerlink" title="原发性睡眠障碍进一步分为两种情况："></a>原发性睡眠障碍进一步分为两种情况：</h4><ul><li>异态睡眠： 异态睡眠的特征是睡眠期间的异常活动，例如梦游或睡惊症。</li><li>睡眠障碍：这些疾病的特点是难以入睡或难以入睡。常见症状包括白天感觉不安和极度困倦。<br> 什么是睡眠时相延迟综合症？</li></ul><h2 id="失眠的类型"><a href="#失眠的类型" class="headerlink" title="失眠的类型"></a>失眠的类型</h2><p>失眠症大致可分为三类：</p><ul><li>内在睡眠障碍：这些失眠是由影响睡眠能力的内部功能障碍引起的。</li><li>外在睡眠障碍：这些失眠是由影响睡眠的外部因素引起的，例如环境或您的健康习惯。</li><li>昼夜节律睡眠障碍：这些失眠是由干扰身体内部时钟或昼夜节律的不规则时间或时间表引起的。</li></ul><h2 id="内在睡眠障碍"><a href="#内在睡眠障碍" class="headerlink" title="内在睡眠障碍"></a>内在睡眠障碍</h2><p>内在失眠症包括：4</p><ul><li>失眠：5 失眠会使您难以入睡或难以入睡，导致您夜不能寐、早醒或醒来时感到疲倦。它通常是由压力或情绪困扰引起的。</li><li>发作性睡病：6 发作性睡病是一种神经系统疾病，会干扰大脑控制睡眠-觉醒周期的能力。您醒来时可能会感到休息，但白天会感到非常困倦，这可能会导致您在说话、进食或开车时睡着。有些发作性睡病患者也会在夜间频繁醒来。</li><li>嗜睡症：7 嗜睡症的特点是白天极度嗜睡，这会使您在白天难以保持清醒和警觉，尽管晚上睡眠充足。</li><li>阻塞性睡眠呼吸暂停 (OSA)：8阻塞性睡眠呼吸暂停是由于喉咙气道阻塞或狭窄导致您在睡觉时呼吸暂时停止的一种情况。这种情况的典型特征是打鼾声很大，但打鼾的人不一定都患有睡眠呼吸暂停症。</li><li>不宁腿综合症 (RLS)：9也称为 Willis-Ekbom 病，不宁腿综合症的特征是腿部有不舒服的感觉，并伴有强烈的移动欲望。这些症状通常在下午晚些时候或傍晚开始出现，并且在夜间最为严重，如果您在夜间醒来，则很难入睡或再次入睡。</li><li>周期性肢体运动障碍 (PLMD)：10这种情况的特征是在睡眠期间肢体频繁、不自主地运动，难以获得安宁的睡眠。在您睡觉时，您的手臂和腿可能会每分钟抽动、抽动或弯曲几次，持续几个小时。</li></ul><h2 id="外在睡眠障碍"><a href="#外在睡眠障碍" class="headerlink" title="外在睡眠障碍"></a>外在睡眠障碍</h2><p>外在失眠症包括：4</p><ul><li>睡眠卫生差： 睡眠卫生包括保持健康的睡眠习惯，例如每天在同一时间上床睡觉，睡前避免电子屏幕，并保持房间黑暗、安静和凉爽。11研究表明，睡眠卫生差可能会影响睡眠质量。12</li><li>夜间进食综合症 (NES)：13 夜间进食综合症可与失眠同时发生。它会让你在晚上多次醒来吃东西，让你觉得不吃东西就无法入睡。这种情况与肥胖、糖尿病和高血压的风险增加有关。</li><li>昼夜节律睡眠障碍</li></ul><h2 id="昼夜节律失眠包括：14"><a href="#昼夜节律失眠包括：14" class="headerlink" title="昼夜节律失眠包括：14"></a>昼夜节律失眠包括：14</h2><ul><li>轮班工作睡眠障碍 (SWSD)：15轮班工作睡眠障碍通常会影响工作时间不规律的人，例如夜班或轮班。您身体的内部时钟难以适应不规则的时间，导致您难以入睡、保持睡眠或在所需时间入睡。</li><li>时差障碍：16跨越两个以上时区旅行会扰乱您的昼夜节律，使您感觉不适、头痛，并且难以适应您所在的新地点的昼夜节律。这些症状可能会持续一段时间几天或几周，直到您可以调整您的睡眠时间表。</li><li>延迟睡眠阶段综合症 (DSWPD)：17这种情况通常会影响青少年，导致他们比平时晚几个小时上床睡觉，使他们难以在早上准时起床。患有这种疾病的青少年通常将自己描述为“夜猫子”，他们在深夜或夜间比白天更加警觉。</li><li>晚期睡眠阶段综合症 (ASPS)：18这种情况会导致您比大多数人早睡早起。您可能难以在夜间保持清醒，并且在清晨醒来后难以再次入睡。</li><li>非 24 小时睡眠-觉醒障碍 (N24SWD)：14患有此病症的人每天的睡眠时间相同，但他们的生物钟比 24 小时更短或更长，因此他们的昼夜节律会相差一到两个小时每天。由于光感在调节昼夜节律方面起着重要作用，因此大多数患有非 24 小时睡眠-觉醒障碍的人都是完全失明的。19</li></ul><h2 id="失眠的症状"><a href="#失眠的症状" class="headerlink" title="失眠的症状"></a>失眠的症状</h2><p>如果您有失眠症，您所经历的症状可能因您所患的睡眠障碍类型而异。以下是一些最常见的失眠症状：2</p><ul><li><p>在您应该入睡时难以入睡</p></li><li><p>晚上经常需要 30 分钟以上才能入睡</p></li><li><p>早上起床困难</p></li><li><p>每晚醒来多次并且难以再次入睡</p></li><li><p>早上醒来太早，无法再入睡</p></li><li><p>醒来感觉很累，好像根本没睡</p></li><li><p>白天感觉特别困</p></li><li><p>白天经常小睡</p></li><li><p>白天在不适当的时间入睡，有时是在吃饭、说话或开车时</p></li><li><p>睡觉时大声打鼾，或发出其他声音，例如打鼾、喘息或窒息</p></li><li><p>睡觉时短时间暂停呼吸 </p></li><li><p>傍晚或晚上试图入睡时，四肢有不舒服的刺痛感、蠕动感或蠕动感</p></li><li><p>在睡梦中抽动或抽动手臂或腿</p></li><li><p>晚上醒来吃东西，有时一晚好几次</p></li><li><p>睡眠周期不规律，与大多数人的睡眠周期不一致</p></li><li><p>感到压力和沮丧14</p></li><li><p>感到烦躁、焦虑或不耐烦8</p></li><li><p>第7天出现头痛、脑雾、记忆力问题和注意力不集中<br>在人际关系、工作或学校以及社会义务方面遇到困难14<br> 睡眠不足对心理健康的影响</p></li></ul><h2 id="诊断睡眠障碍"><a href="#诊断睡眠障碍" class="headerlink" title="诊断睡眠障碍"></a>诊断睡眠障碍</h2><p>睡眠专家等医疗保健提供者可以通过以下方式诊断睡眠障碍：2</p><ul><li>采访您并询问您的症状</li><li>回顾您的个人和家族病史</li><li>进行身体检查</li><li>进行睡眠研究（多导睡眠图）以监测您睡眠时的各种生物参数</li></ul><h2 id="治疗失眠"><a href="#治疗失眠" class="headerlink" title="治疗失眠"></a>治疗失眠</h2><p>您的医疗保健提供者推荐的治疗过程可能因您的睡眠障碍类型而异。治疗方案可能包括：2</p><ul><li>认知行为疗法可减少入睡时的焦虑</li><li>放松练习可帮助您控制压力水平</li><li>强光疗法，尤其是在早晨，有助于重置您的生物钟</li><li>如果您有睡眠呼吸暂停，请使用 CPAP（持续气道正压通气）机</li><li>药物，例如安眠药，通常用于短期使用</li><li>补充剂，如褪黑激素，对某些人有帮助，但也仅建议短期使用</li><li>良好的睡眠卫生习惯</li><li>均衡、营养的饮食和积极的生活方式</li></ul>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;睡眠障碍是一组影响睡眠时间、质量或数量的睡眠障碍。&lt;/p&gt;
-&lt;h2 id=&quot;睡眠障碍的类型&quot;&gt;&lt;a href=&quot;#睡眠障碍的类型&quot; class=&quot;headerlink&quot; title=&quot;睡眠障碍的类型&quot;&gt;&lt;/a&gt;睡眠障碍的类型&lt;/h2&gt;&lt;p&gt;睡眠障碍，也称为睡眠-觉醒障碍，包括 80 多种不同症状的疾病。2 失眠是一组睡眠障碍。要了解哪些类型的病症属于失眠症，了解各种类型的睡眠障碍是如何分类的可能会有所帮助。&lt;/p&gt;</summary>
+    <content type="html"><![CDATA[<ol><li><p>The Economist<br>The Economist is the leading source for analysis of world business and current events, providing authoritative insights and views on international news, world politics, business, finance, technology, as well as overviews of cultural trends and regular industry and industry special reports.</p></li><li><p>The Guardian Weekly<br>The Guardian Weekly is an international English-language news magazine headquartered in London, England. It is one of the world’s longest-running international news publications, with readers in more than 170 countries.</p></li><li><p>“Time”<br>TIME magazine’s iconic voice and trusted content make it one of the most recognized news brands in the world. Delivering incisive reporting, lively writing and world-renowned photography, the magazine has been hailed as the fabric that brings journalism at its best into American life.</p></li><li><p>The New Yorker<br>The New Yorker is an American magazine of reportage, review, criticism, essays, fiction, comics, satire, and poetry published by Condé Nast Publishing Company. Published weekly starting in the mid-1920s and now publishing 47 issues a year, The New Yorker has a broad audience both in New York and outside the United States, although its reviews and event listings often focus on New York City’s cultural life. Known for its commentary on popular culture and queer America, it focuses on modern fiction through the inclusion of short stories and literary criticism; rigorous fact-checking and copy editing; its news coverage of world politics and social issues; its famous monographs Comics are interspersed throughout each issue.</p></li><li><p>The Washington Post<br>  The Washington Post, a morning daily newspaper published in Washington, D.C., is the leading newspaper in the nation’s capital and is often considered one of the greatest newspapers in the country.</p></li><li><p>Harvard Business Review, Harvard Business Review<br>Harvard Business Review is the magazine for decision makers and where business leaders go for ideas and inspiration. With cutting-edge articles from industry experts, Harvard Business Review is an unparalleled source of leadership and management tools and techniques that are critical to success and survival in today’s global business landscape. Investing in yourself - driving change, innovating for growth, leading smarter - comes from the best and brightest in business today.</p></li><li><p>The New York Review of Books<br>For 47 years, The New York Review of Books has been the place the world’s leading authors, scientists, educators, artists and political leaders turn to when they wish to engage in vigorous debate about literature, politics, art and ideas. A small but influential audience welcomed the challenge. Each issue discusses some of today’s most bitter political and cultural controversies, and reviews the most fascinating new books and the ideas that inspired them.</p></li><li><p>The Atlantic<br>The Atlantic is an American magazine and multi-platform publisher. It was founded in Boston in 1857 as The Atlantic Monthly, a literary and cultural magazine. The new design complements must-read articles on politics, world affairs, business, science, education, and the arts. Unwind with engaging photography, poetry, food and book reviews.</p></li><li><p>The New York Times Magazine<br>The New York Times Magazine is the Sunday magazine supplement to the Sunday edition of The New York Times. Its articles are longer than those usually published in newspapers, and it attracts many well-known contributors. The magazine is known for its photography, especially as it pertains to fashion and style.</p></li><li><p>American character “people USA”<br>   People is an American weekly magazine dedicated to celebrity news, human stories and gossip. It is published by Meredith Corporation.</p></li><li><p>Bloomberg Businessweek<br>   Each issue of Bloomberg Businessweek offers an in-depth look at financial markets, industries, trends, technology and the people leading the economy. Use Bloomberg Businessweek’s timely and insightful analysis to help you make the most of your career, business and Personal investment to make better decisions.</p></li><li><p>Forbes “Forbes”<br>   A bimonthly publication, in addition to its prestigious lists, Forbes has a unique voice in its coverage of business stories around the world. Whether reporting on the “next Facebook” or reviewing new tax laws, Forbes reports stories that business people in a hurry will appreciate with incredible insight and concise, rigorous, to-the-point business analysis.</p></li><li><p>Newsweek USA<br>   “Newsweek” is a weekly news magazine in the United States, founded in 1933. It was the widely distributed weekly news magazine of the 20th century, with many notable editors over the years. This exciting weekly publication brings together news, culture and thought-provoking ideas with clarity.</p></li><li><p>Fortune “FORTUNE”<br>   Fortune covers the entire spectrum of business, including specific companies and business trends, leading business leaders in technological innovation, and new ideas shaping global markets. Known for its extremely reliable annual company rankings, Fortune magazine furthers understanding of the economy, provides implementable business strategies, and provides the practical knowledge needed to maximize success.</p></li><li><p>Barron’s<br>   Barron’s is an American weekly magazine&#x2F;newspaper published by Dow Jones &amp; Company, a News Corporation subsidiary. Founded in 1921 by Clarence W. Barron, the Wall Street Journal’s sister publication covers U.S. financial information, market developments, and related field statistics.</p></li><li><p>“Business Today”<br>   Business Today is a leading business magazine, led by business leaders to stay ahead and address immediate challenges in a rapidly changing business world.</p></li><li><p>International Finance Review “IFR Magazine”<br>   In global capital markets, impeccable market intelligence is at the heart of success. It informs and encourages great decision-making, which in turn generates great performance. With a history of more than forty years, IFR (International Finance Review) is the world’s leading provider of global capital market intelligence.</p></li><li><p>“Kiplinger’s Personal Finance”<br>   KIPLINGER’S PERSONAL FINANCE provides pragmatic advice on managing money and achieving financial security, providing readers with solid information and practical guidance on saving, investing, retirement planning, paying for college, buying cars, homes, and other major purchases, and Solid advice for every stage of their financial life, actively involved in their personal financial decisions, with the expectation that readers will act on and benefit from what is written.</p></li><li><p>“Entrepreneur USA”<br>   Dedicated to helping small business owners manage, grow and expand their companies. Provides financial and tax advice, advertising and publicity tips, as well as computer and Internet information and guidance on becoming an expert manager. Entrepreneur Magazine also features successful entrepreneurs and inspirational stories.</p></li><li><p>Personal Finance “Personal Finance Magazine”<br>   Advice for small business owners and entrepreneurs on personal finance, venture capital, savings, trusts, foundations, annuities. 21. “IFR Magazine” In the global capital market, impeccable market intelligence is the core of success. It informs and encourages great decision-making, which in turn generates great performance. With a history of more than forty years, IFR (International Finance Review) is the world’s leading provider of global capital market intelligence.</p></li><li><p>British weekly magazine “The Week UK”<br>   Weekly is the best way to catch up on the week’s news and reviews in as little as an hour. But this magazine is not only informative, it’s also entertaining. On its 40+ editorial pages, you’ll find everything from the latest book reviews to this week’s gossip picks. Plus city news, the best properties on the market, arts coverage and more. The Week Magazine’s witty round-up of the week’s international broadsheets. This is an invaluable resource for those who are too busy reading every paper they should.</p></li><li><p>Money Weekly “MoneyWeek”<br>   MoneyWeek is a weekly magazine that empowers you to become an informed, smarter investor and reap the rewards of confidently managing your money. Week after week, we’ll guide you through changes in the financial world, alerting you to all the profitable opportunities that arise and the dangers to avoid. Income strategies, rising star companies, the best funds and trusts, smart ways to protect wealth during market turmoil…you’ll get the best ideas from some of the UK’s sharpest financial minds and investment professionals.</p></li><li><p>Consumer Reports<br>   Ratings, recommendations, reliability reports, safety and price comparisons from the world’s largest consumer testing center. From car to mobile service, helping consumers make better choices. The only magazine of its kind: expert, independent, not-for-profit. 100% unbiased, Consumer Reports does not accept outside advertising.</p></li><li><p>“Finweek”<br>   Finweek is South Africa’s leading financial weekly focused on investing. With agile, creative and authoritative analysis of business and investment issues, it is an essential business tool in the daily battle for competitive advantage. Today’s business decision makers must deal with increasing time pressures and, more than ever, expect to succeed in the face of greater competition. 26. The Financial Times The Financial Times is a large print and digitally published daily newspaper that focuses on business and economic current events. Headquartered in London, England, the newspaper is owned by a Japanese holding company, Nikkei, with core editorial offices spread across the UK, US and continental Europe.</p></li></ol>]]></content>
     
     
+      
+      
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;The Economist&lt;br&gt;The Economist is the leading source for analysis of world business and current events, providing authoritative </summary>
+      
     
     
-    <category term="睡眠" scheme="https://blog.rss2ebook.com/tags/%E7%9D%A1%E7%9C%A0/"/>
     
-    <category term="失眠" scheme="https://blog.rss2ebook.com/tags/%E5%A4%B1%E7%9C%A0/"/>
+    <category term="rss2Ebook" scheme="https://blog.rss2ebook.com/categories/rss2Ebook/"/>
     
-    <category term="心理" scheme="https://blog.rss2ebook.com/tags/%E5%BF%83%E7%90%86/"/>
+    
+    <category term="杂志" scheme="https://blog.rss2ebook.com/tags/%E6%9D%82%E5%BF%97/"/>
+    
+    <category term="商业" scheme="https://blog.rss2ebook.com/tags/%E5%95%86%E4%B8%9A/"/>
     
   </entry>
   
   <entry>
-    <title>全球26个高质量新闻财经商业报刊杂志</title>
-    <link href="https://blog.rss2ebook.com/2023/03/27/%E5%85%A8%E7%90%8326%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E6%96%B0%E9%97%BB%E8%B4%A2%E7%BB%8F%E5%95%86%E4%B8%9A%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97/"/>
-    <id>https://blog.rss2ebook.com/2023/03/27/%E5%85%A8%E7%90%8326%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E6%96%B0%E9%97%BB%E8%B4%A2%E7%BB%8F%E5%95%86%E4%B8%9A%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97/</id>
+    <title>全球26个高质量新闻财经商业报刊</title>
+    <link href="https://blog.rss2ebook.com/2023/%E5%85%A8%E7%90%8326%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E6%96%B0%E9%97%BB%E8%B4%A2%E7%BB%8F%E5%95%86%E4%B8%9A%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97.html"/>
+    <id>https://blog.rss2ebook.com/2023/%E5%85%A8%E7%90%8326%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E6%96%B0%E9%97%BB%E8%B4%A2%E7%BB%8F%E5%95%86%E4%B8%9A%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97.html</id>
     <published>2023-03-26T16:00:00.000Z</published>
-    <updated>2023-04-19T07:56:23.155Z</updated>
+    <updated>2023-04-20T06:44:46.103Z</updated>
     
     <content type="html"><![CDATA[<ol><li><p>经济学人《The Economist》<br>  《经济学人》是分析世界商业和时事的主要来源，提供有关国际新闻、世界政治、商业、金融、科技的权威见解和观点，以及文化趋势的概述和定期的行业和行业特别报道。</p></li><li><p>英国卫报《The Guardian Weekly》<br>  《卫报周刊》是一份总部位于英国伦敦的国际英语新闻杂志。它是世界上历史最悠久的国际新闻出版物之一，其读者遍及170多个国家&#x2F;地区。</p></li><li><p>时代《Time》<br>  《时代》杂志的标志性声音和值得信赖的内容使其成为世界上最受认可的新闻品牌之一。杂志提供精辟的报道、生动的写作和世界知名的摄影作品，被誉为将新闻业以最佳状态带入美国生活的结构。</p><span id="more"></span></li><li><p>纽约客《The New Yorker》<br>  《纽约客》是由康泰纳仕出版公司出版的美国报告文学、评论、批评、散文、小说、漫画、讽刺和诗歌杂志。该杂志从1920年代中期开始每周出版，现在每年出版47期，尽管其评论和活动列表通常侧重于纽约市的文化生活，但《纽约客》在纽约和美国以外拥有广泛的受众。它以对流行文化和古怪的美国的评论而闻名，通过包含短篇小说和文学评论来关注现代小说；严格的事实核查和文案编辑；其关于世界政治和社会问题的新闻报道；其著名的单幅漫画散布在每一期中。</p></li><li><p>华盛顿邮报《The Washington Post》<br>《华盛顿邮报》是在华盛顿特区出版的早间日报，是美国首都的主要报纸，通常被认为是该国最伟大的报纸之一。</p></li><li><p>美国哈佛商业评论《Harvard Business Review》<br>  《哈佛商业评论》是面向决策者的杂志，也是商业领袖寻求创意和灵感的地方。凭借来自行业专家的前沿文章，哈佛商业评论是领导力和管理工具和技术的无与伦比的来源，这些工具和技术对于当今全球商业领域的成功和生存至关重要。投资于自己——推动变革、创新促进增长、更聪明地领导——来自当今企业中最优秀和最聪明的人。</p></li><li><p>纽约书评《The New York Review of Books》<br>  47年来，《纽约书评》一直是世界主要作家、科学家、教育家、艺术家和政治领袖在他们希望就文学、政治、艺术和思想进行激烈辩论时转向的地方。一小部分但有影响力的观众欢迎挑战。每一期都会讨论当今一些最激烈的政治和文化争议，并评论最引人入胜的新书和启发它们的想法。 </p></li><li><p>大西洋月刊《The Atlantic》<br>  The Atlantic是一家美国杂志和多平台出版商。它于1857年在波士顿成立，当时名为《大西洋月刊》，这是一份文学和文化杂志。全新的设计补充了关于政治、世界事务、商业、科学、教育和艺术的必读文章。通过引人入胜的摄影、诗歌、美食和书评放松身心。</p></li><li><p>纽约时报杂志《The New York Times Magazine》<br>  《纽约时报》杂志是《纽约时报》周日版中的周日杂志增刊。它的文章比通常在报纸上发表的文章更长，并吸引了许多著名的撰稿人。该杂志以摄影着称，尤其是与时尚和风格有关的摄影。</p></li><li><p>美国人物《people USA》<br>  《人物》是一本美国周刊，专门刊登名人新闻、人文故事和八卦。它由梅雷迪思公司出版。</p></li><li><p>彭博商业周刊 《Bloomberg Businessweek》<br>  《彭博商业周刊》的每一期都对金融市场、行业、趋势、技术和引导经济的人进行了深入的探讨，利用《彭博商业周刊》及时的精辟分析，帮助您就职业、业务和个人投资做出更好的决策。</p></li><li><p>福布斯《Forbes》<br>  双月刊，除了其著名的榜单之外，福布斯在其全球商业故事的报道中拥有独特的声音。无论是报道“下一个脸书”还是审查新税法，《福布斯》都以不可思议的洞察力和简洁的方式报道了匆忙的商业人士所欣赏的故事，严格、切中要害的业务分析。</p></li><li><p>美国新闻周刊《Newsweek USA》<br>  《Newsweek》是美国的每周新闻杂志，创刊于1933年。它是20世纪广泛发行的新闻周刊，多年来有许多著名的主编。这份激动人心的每周出版物将新闻、文化和发人深省的想法清晰地结合在一起。</p></li><li><p>财富《FORTUNE》<br>  《财富》涵盖整个商业领域，包括特定公司和商业趋势、技术创新杰出商业领袖以及塑造全球市场的新想法。《财富》杂志以其极其可靠的年度公司排名而闻名，进一步加深了对经济的了解，提供了可实施的商业战略，并提供最大限度地取得成功所需的实用知识。</p></li><li><p>巴伦周刊《Barron’s》<br>  《巴伦周刊》是由新闻集团旗下道琼斯公司出版的美国周刊&#x2F;报纸。由克拉伦斯·W·巴伦 (Clarence W. Barron) 于 1921 年创立，是《华尔街日报》的姊妹刊物，涵盖美国金融信息、市场发展和相关领域统计数据。</p></li><li><p>《Business Today》<br>  《Business Today》是一本领先的商业杂志，由商业领袖领导，旨在保持领先地位并应对瞬息万变的商业世界中立即出现的挑战。</p></li><li><p>国际融资评论《IFR Magazine》<br>  在全球资本市场，无可挑剔的市场情报是成功的核心。它告知并鼓励出色的决策制定，而这反过来又会产生出色的绩效。 IFR（国际融资评论）拥有四十多年的历史，是全球领先的全球资本市场情报提供商。</p></li><li><p>《Kiplinger’s Personal Finance》<br>  《KIPLINGER”S PERSONAL FINANCE》就管理资金和实现财务安全提供务实的建议，为读者提供有关储蓄、投资、退休计划、支付大学费用、购买汽车、房屋和其他主要购买的可靠信息和实用指导，以及针对他们财务生活各个阶段的可靠建议，积极参与他们的个人财务决策，期望读者会根据所写的内容采取行动并从中受益。</p></li><li><p>美国企业家《Entrepreneur USA》<br>  致力于帮助小企业主管理、发展和扩展他们的公司。提供财务和税务建议、广告和宣传技巧，以及计算机和互联网信息以及成为专家经理的指导。企业家杂志还包括成功的企业家和鼓舞人心的故事。</p></li><li><p>个人理财《Personal Finance Magazine》<br>  为小企业主和企业家提供有关个人理财、创业投资、储蓄、信托、基金会、年金的建议。21、《IFR Magazine》在全球资本市场，无可挑剔的市场情报是成功的核心。它告知并鼓励出色的决策制定，而这反过来又会产生出色的绩效。 IFR（国际融资评论）拥有四十多年的历史，是全球领先的全球资本市场情报提供商。</p></li><li><p>英国周刊《The Week UK》<br>  一周是在短短一小时内赶上本周新闻和评论的最佳方式。但这本杂志不仅提供信息，而且还很有趣。在其40多个编辑页面中，您可以找到从最新书籍评论到本周八卦精选的所有内容。还有城市新闻、市场上最好的房产、艺术报道等等。The Week Magazine 对本周的国际宽幅报纸进行了诙谐的汇总。对于那些忙于阅读每篇论文但应该阅读的人来说，这是一种宝贵的资源。</p></li><li><p>货币周刊《MoneyWeek》<br>  MoneyWeek 是一本周刊，它使您能够成为一个见多识广、更聪明的投资者，并享受自信管理资金的回报。一周又一周，我们将引导您了解金融世界的变化，提醒您注意所有出现的获利机会和要避免的危险。收入策略、新星公司、最好的基金和信托、在市场动荡期间保护财富的聪明方法……您将从英国最敏锐的金融头脑和投资专业人士那里获得最好的想法。</p></li><li><p>消费者报告《Consumer Reports》<br>  来自世界上最大的消费者测试中心的评级、建议、可靠性报告、安全性和价格比较。从汽车到手机服务，帮助消费者做出更好的选择。同类杂志中唯一的：专家、独立、非营利。100%无偏见，消费者报告不接受外部广告。</p></li><li><p>《Finweek》<br>  Finweek 是南非领先的金融周刊，专注于投资。凭借对商业和投资问题的敏捷、创造性和权威性分析，它是日常竞争优势之战中必不可少的商业工具。当今的业务决策者必须应对越来越多的时间压力，并且比以往任何时候都更期望在面对更激烈的竞争时取得成功。26、金融时报《Financial Times》《金融时报》是一份以大版印刷并以数字方式出版的日报，专注于商业和经济时事。该报总部位于英国伦敦，归一家日本控股公司日经指数所有，其核心编辑部遍布英国、美国和欧洲大陆。</p></li></ol>]]></content>
     
@@ -264,268 +226,29 @@
   </entry>
   
   <entry>
-    <title>什么是家庭压力理论？</title>
-    <link href="https://blog.rss2ebook.com/2023/03/24/%E4%BB%80%E4%B9%88%E6%98%AF%E5%AE%B6%E5%BA%AD%E5%8E%8B%E5%8A%9B%E7%90%86%E8%AE%BA%EF%BC%9F/"/>
-    <id>https://blog.rss2ebook.com/2023/03/24/%E4%BB%80%E4%B9%88%E6%98%AF%E5%AE%B6%E5%BA%AD%E5%8E%8B%E5%8A%9B%E7%90%86%E8%AE%BA%EF%BC%9F/</id>
-    <published>2023-03-23T16:00:00.000Z</published>
-    <updated>2023-04-10T13:26:32.000Z</updated>
+    <title>RSS2EBOOK 使用手册</title>
+    <link href="https://blog.rss2ebook.com/2022/RSS2EBOOK%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.html"/>
+    <id>https://blog.rss2ebook.com/2022/RSS2EBOOK%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.html</id>
+    <published>2022-10-19T16:00:00.000Z</published>
+    <updated>2023-04-20T07:08:26.314Z</updated>
     
-    <content type="html"><![CDATA[<p>家庭压力理论探讨了由于压力事件而发生的家庭动态变化。</p><p>该理论由社会学家鲁本·希尔 (Reuben Hill) 于 1949 年提出。他对家庭如何受到第二次世界大战的影响特别感兴趣，并研究战争引起的分离和统一如何改变家庭。</p><span id="more"></span><p>注意到分离和团聚是家庭系统内部的危机，他发现了一个模式。他指出，激发事件与父母的内部和外部资源相互作用，产生了家庭如何理解激发事件的意义。反过来，这会产生危机的结果。1个</p><h2 id="为什么家庭压力理论很重要？"><a href="#为什么家庭压力理论很重要？" class="headerlink" title="为什么家庭压力理论很重要？"></a>为什么家庭压力理论很重要？</h2><p>每个家庭内部都有一个家庭系统。这个系统可以被认为是相互依存的角色的集合，一组内聚的价值观、期望和对环境的反应。</p><p>例如，父母应该是照顾者，而孩子则依赖他们。然而，大孩子可能需要承担一些照顾责任，比如在父母不在家时照看他们的弟弟妹妹。此外，一个家庭可能具有基于职业或教育标准的价值观。例如，一些家庭可能忌讳不上大学，而另一些家庭可能希望所有成员都在家族企业工作。1个</p><h3 id="当问题出现时，家庭单位会发生什么？"><a href="#当问题出现时，家庭单位会发生什么？" class="headerlink" title="当问题出现时，家庭单位会发生什么？"></a>当问题出现时，家庭单位会发生什么？</h3><p>当问题出现时，回应可能导致强大的育儿技巧或糟糕的待遇。这种反应在很大程度上取决于父母的资源。这些资源可以是内部的或外部的：2</p><ul><li>内部：压力管理、冲突解决、有效沟通。</li><li>外部：财务资源、社会支持和治疗。<br><code>理解这个理论提供了做出关于压力的更有力的决定的机会。 </code></li></ul><h2 id="如何在压力大的时候培养资源"><a href="#如何在压力大的时候培养资源" class="headerlink" title="如何在压力大的时候培养资源"></a>如何在压力大的时候培养资源</h2><p>家庭压力理论指出，资源可能是危机结果的关键。但是，某些资源不在家庭的控制范围内。例如，一个家庭的财务状况或满足我们基本需求的途径无法始终得到控制。在这些情况下，您必须查看可以访问的外部资源。2个  </p><h3 id="示例场景-1：父母失业"><a href="#示例场景-1：父母失业" class="headerlink" title="示例场景 1：父母失业"></a>示例场景 1：父母失业</h3><p>假设您是失去工作的父母。这会使您的家庭陷入危机。即使您正在申请所有可能的工作，您仍然没有运气。您注意到当您为人父母时，您的情绪化程度较低，并且您的孩子的行为开始发生转变。</p><p>这将是一个依靠社会和社区支持的时间的例子。呼吁家庭或社区成员帮助照顾孩子可能有助于为您的孩子提供照顾，同时为您提供所需的空间和时间。</p><p>另一种选择是探索社区资源。例如，您可能会参加一个招聘会。或者，您的孩子可以参加有补贴的课后计划。 </p><h3 id="示例场景-2：一位家长得知他们的孩子在学校扰乱课堂"><a href="#示例场景-2：一位家长得知他们的孩子在学校扰乱课堂" class="headerlink" title="示例场景 2：一位家长得知他们的孩子在学校扰乱课堂"></a>示例场景 2：一位家长得知他们的孩子在学校扰乱课堂</h3><p>如果您是家长，您接到孩子学校的电话，说他们在课堂上表现不佳，您可能会对他们的行为感到非常沮丧，并且为接到这样的电话而感到 尴尬。</p><p>您可以尝试通过严厉的言语和恐吓策略来管教您的孩子。或者，您可以通过与您的孩子一起探索为什么他们觉得有必要采取行动并与他们的老师合作以加强支持性应对工具来利用您的内部和外部资源。 </p><h2 id="应对家庭压力"><a href="#应对家庭压力" class="headerlink" title="应对家庭压力"></a>应对家庭压力</h2><p>在困难中，可能很难想象如何减轻家庭系统中的压力。然而，即使是小动作也能带来大结果。</p><h3 id="计划家庭会议"><a href="#计划家庭会议" class="headerlink" title="计划家庭会议"></a>计划家庭会议</h3><p>首先，考虑举行一次家庭会议，你们每个人都可以花一些时间探讨当前的压力源如何影响你。在深入彼此对话之前，花点时间制定一些共同协议。</p><p>例如，你们每个人都可以同意不互相交谈吗？如果你们中的一个人开始提高声音，大家可以同意休息几分钟吗？这有助于确保每个家庭成员都感到安全和被倾听。</p><h3 id="考虑家庭治疗"><a href="#考虑家庭治疗" class="headerlink" title="考虑家庭治疗"></a>考虑家庭治疗</h3><p>如果家庭会议看起来可能会导致家庭成员之间进一步的痛苦，请考虑参加家庭治疗。在家庭治疗课程中，训练有素的心理健康专家可以帮助你们每个人在解决挑战的同时保持正轨。</p><h3 id="安排独处时间"><a href="#安排独处时间" class="headerlink" title="安排独处时间"></a>安排独处时间</h3><p>制定一个家庭时间表也可能会有帮助，让每个家庭成员都有一个小时的独处时间。在此期间，该家庭成员可以放松并从事他们喜欢的活动，而不受他人打扰。这样做可以提供更大的休息和放松空间。</p><h3 id="创建一个禅角"><a href="#创建一个禅角" class="headerlink" title="创建一个禅角"></a>创建一个禅角</h3><p>要在您的家庭中营造一种精神健康的文化，禅宗角落可能真的很有帮助。禅宗角落是房子的一部分，专门用于冥想。当事情让人感到难以承受时，这里是深呼吸和调节神经系统的好去处。虽然它们通常是在儿童房中制作的，但您可以选择制作一个对儿童和成人都友好的房间。</p>]]></content>
+    <content type="html"><![CDATA[<p>欢迎使用我们的RSS2EBOOK服务！这是一款方便的工具，能够自动将您订阅的文章转换为电子书，并通过电子邮件推送给您。最近，我们增加了订阅源分类功能和推送配置功能，为您提供更加个性化的服务。</p><p>使用步骤如下：</p><ol><li><p>注册并登录<br>在我们的网站上注册并登录，成为我们的会员。通过创建个人账户，您可以轻松管理您的订阅和电子书。我们保证您的个人信息的安全性和隐私性。</p></li><li><p>设置推送配置和电子书格式<br>在“推送配置”中，您可以设置推送方式、电子书格式以及推送时间和频率。我们支持epub和mobi两种电子书格式，您可以选择您喜欢的格式。同时，您可以根据自己的需求调整推送时间和频率。</p></li><li><p>添加和分类订阅源<br>您可以通过输入源的RSS源URL，添加您感兴趣的订阅源。我们支持对订阅源进行分类，您可以将其添加到现有类别中或创建新类别。在每个类别中，您可以设置电子书名称、保留文章的天数以及是否保存文章内的图片。通过分类功能，您可以更好地管理您的订阅源和电子书。</p></li><li><p>开始接收电子书<br>一旦您添加并分类了您的订阅源，我们的系统将自动将其转换为电子书，并按照您的推送配置推送到您的电子邮件。如果您订阅了大量的源，您可以创建多个类别，每个类别都将生成一个电子书。无需手动整理，您就能轻松地阅读您感兴趣的文章。</p></li><li><p>管理您的订阅和电子书<br>在您的个人账户中，您可以查看您已添加的订阅源、您已收到的电子书和您已创建的类别。您还可以编辑推送配置和电子书格式，以及每个类别的设置。我们也提供了一些小工具，方便您管理和导出您的订阅源和电子书。</p></li></ol><p>通过使用我们的RSS2EBOOK服务，您可以随时随地阅读您感兴趣的文章，不再错过任何精彩内容。如果您有任何问题或建议，请随时与我们联系。</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;家庭压力理论探讨了由于压力事件而发生的家庭动态变化。&lt;/p&gt;
-&lt;p&gt;该理论由社会学家鲁本·希尔 (Reuben Hill) 于 1949 年提出。他对家庭如何受到第二次世界大战的影响特别感兴趣，并研究战争引起的分离和统一如何改变家庭。&lt;/p&gt;</summary>
+      
+      
+    <summary type="html">&lt;p&gt;欢迎使用我们的RSS2EBOOK服务！这是一款方便的工具，能够自动将您订阅的文章转换为电子书，并通过电子邮件推送给您。最近，我们增加了订阅源分类功能和推送配置功能，为您提供更加个性化的服务。&lt;/p&gt;
+&lt;p&gt;使用步骤如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;注册并登录&lt;br&gt;在</summary>
+      
     
     
     
+    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/categories/RSS2EBOOK/"/>
     
-    <category term="心理" scheme="https://blog.rss2ebook.com/tags/%E5%BF%83%E7%90%86/"/>
     
-    <category term="家庭" scheme="https://blog.rss2ebook.com/tags/%E5%AE%B6%E5%BA%AD/"/>
-    
-    <category term="压力" scheme="https://blog.rss2ebook.com/tags/%E5%8E%8B%E5%8A%9B/"/>
-    
-    <category term="焦虑" scheme="https://blog.rss2ebook.com/tags/%E7%84%A6%E8%99%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>什么是报复性睡前拖延症？</title>
-    <link href="https://blog.rss2ebook.com/2023/03/24/%E4%BB%80%E4%B9%88%E6%98%AF%E6%8A%A5%E5%A4%8D%E6%80%A7%E7%9D%A1%E5%89%8D%E6%8B%96%E5%BB%B6%E7%97%87/"/>
-    <id>https://blog.rss2ebook.com/2023/03/24/%E4%BB%80%E4%B9%88%E6%98%AF%E6%8A%A5%E5%A4%8D%E6%80%A7%E7%9D%A1%E5%89%8D%E6%8B%96%E5%BB%B6%E7%97%87/</id>
-    <published>2023-03-23T16:00:00.000Z</published>
-    <updated>2023-04-10T13:26:27.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><code>报复性睡前拖延是指人们推迟上床睡觉以从事白天没有时间的活动的现象。1这是一种以牺牲睡眠为代价寻找休闲和娱乐时间的方式。</code><br>2014 年的一篇论文中引入了“睡前拖延”一词。2添加“报复”这个词最初是在中国用来描述经常工作 12 小时的人如何熬夜作为他们收回对时间的控制的唯一方式。 </p><span id="more"></span><p>在记者达芙妮·K·李 (Daphne K. Lee) 的一条病毒式推文之后，这个词变得流行起来。她将其描述为当“对白天生活没有太多控制权的人拒绝早睡以在深夜恢复自由感时发生的事情。” 3个</p><h2 id="报复睡前拖延的迹象"><a href="#报复睡前拖延的迹象" class="headerlink" title="报复睡前拖延的迹象"></a>报复睡前拖延的迹象</h2><p>熬夜并不一定是报复睡前拖延症的表现。研究人员认为三个关键特征定义了睡眠拖延：4</p><ul><li>延迟入睡必然会减少一个人每晚的总睡眠时间。</li><li>这种入睡延迟不是由于任何其他原因，例如厌倦了干扰睡眠的环境源。</li><li>参与该行为的人充分意识到它可能导致负面后果，但他们还是选择参与其中。<br>这可能会对人们产生不同的影响，具体取决于他们的情况以及他们觉得需要熬夜的原因。对于年幼孩子的父母来说，哄孩子入睡后的那几个小时可能是他们唯一可以独自专注于自己想做的事情的时间。对于工作繁忙的人来说，躺在沙发上和狂看电视节目可能是唯一体验无组织放松的时间。</li></ul><p>有些人可能会利用这些深夜和清晨的时间来追赶自己的爱好或从事更耗费精力的活动。对于大多数人来说，这些活动往往集中在不需要大量努力的事情上。</p><p><code>在线购物、浏览社交媒体帖子、阅读和观看流媒体服务是人们在推迟睡眠时喜欢做的简单事情的例子。</code></p><h2 id="报复睡前拖延会影响到谁"><a href="#报复睡前拖延会影响到谁" class="headerlink" title="报复睡前拖延会影响到谁"></a>报复睡前拖延会影响到谁</h2><p>报复性就寝时间拖延是许多人不时发生的事情。从事高压力工作的人、长时间工作的人以及白天很少有时间独处的父母只是经常出现这种行为的一小部分人。 </p><p>它通常从小处着手。您可能会熬夜玩手机或收看您最喜欢的节目。很快 10 或 15 分钟变成一两个小时。在某些情况下，您可能会发现自己在凌晨时分一直在做无关紧要的事情，然后才最终放弃并入睡。</p><p>一项研究发现，女性和学生更有可能出现睡前拖延。5个</p><h2 id="报复性睡前拖延的原因"><a href="#报复性睡前拖延的原因" class="headerlink" title="报复性睡前拖延的原因"></a>报复性睡前拖延的原因</h2><p>白天普遍缺乏空闲时间是报复性就寝时间拖延背后的常见罪魁祸首，但其他因素也起作用。 </p><ul><li>2014 年发表在《心理学前沿》杂志上的一项研究表明，报复性睡前拖延与自我调节呈负相关。虽然从事这种行为的人想要睡觉，但他们的行为与他们的意图不符。2个</li><li>也有可能睡前拖延的人一般更容易拖延。</li><li>您的自然睡眠模式也可能起到一定作用。天生容易成为所谓“夜猫子”的人可能不得不强迫自己早起。6个<br>研究还表明，这种行为可能是各种因素相互作用的结果，包括一个人的自然睡眠时间表和他们的自我控制资源。7<br>最近与世界影响相关的压力，包括 2019 年全球大流行，似乎也加剧了这种行为。报告表明，大约 40% 的成年人在 2020 年的睡眠问题有所增加。8</li></ul><p>随着工作、家庭和学校之间的界限变得越来越模糊，许多人发现很难获得独处的时间。就寝时间拖延成为许多人在深夜时间挤出一些宝贵的独处时间的一种方式。</p><p> 自己做的事</p><h2 id="报复性睡前拖延症的影响"><a href="#报复性睡前拖延症的影响" class="headerlink" title="报复性睡前拖延症的影响"></a>报复性睡前拖延症的影响</h2><p>偶尔熬夜不太可能对您的睡眠时间安排、健康或整体幸福感产生重大影响。问题是当报复睡前拖延成为一种习惯。熬夜又熬早会导致睡眠不足。睡眠不足会损害您第二天的工作能力，并且随着时间的推移会开始影响您的身心健康。</p><p>因报复性就寝时间拖延而导致睡眠不足的负面影响可能包括：</p><ul><li>焦虑9</li><li>抑郁症10</li><li>难以集中注意力11</li><li>高血压12</li><li>增加患心脏病的风险13</li><li>免疫力下降14</li><li>体重增加15</li><li>记忆力更差16<br>身体健康问题通常与睡眠不足有关，但同样重要的是要注意，睡眠在心理健康和幸福方面也起着举足轻重的作用。研究表明，睡眠问题甚至会导致或加重许多心理健康问题，包括抑郁、焦虑和躁郁症。17</li></ul><p>应对报复性睡前拖延症的小贴士<br>如果报复性就寝时间拖延对您来说是个问题，这里有一些方法可以提供帮助。</p><h3 id="优先考虑睡眠"><a href="#优先考虑睡眠" class="headerlink" title="优先考虑睡眠"></a>优先考虑睡眠</h3><p>如果您的目标是获得更好的休息，那么您可以做的第一件事就是将睡眠放在首位。提醒自己为什么按时上床很重要。如果您第二天感觉休息得更好，您就更有可能有精力完成需要完成的任务。 </p><h3 id="养成良好的睡眠习惯"><a href="#养成良好的睡眠习惯" class="headerlink" title="养成良好的睡眠习惯"></a>养成良好的睡眠习惯</h3><p>建立一些高质量的睡眠习惯可以提高整体睡眠质量和睡眠量。您可以努力做到的一些事情包括保持一致的就寝时间和起床时间、在下午和晚上戒酒和戒咖啡因18以及营造舒适的睡眠环境。</p><h3 id="评估你的日程安排"><a href="#评估你的日程安排" class="headerlink" title="评估你的日程安排"></a>评估你的日程安排</h3><p>由于繁忙的日程通常是报复性睡前拖延的根源，因此请认真审视您的日常需求。删掉不重要的或占用你所有时间的事情。如果你白天的活动让你不快乐和没有成就感，如果可以的话，就让它们离开吧。</p><p>如果您不为失去一天中宝贵的时间而感到怨恨，您就不太可能觉得有必要为失去的时间报仇。</p><h3 id="为自己安排时间"><a href="#为自己安排时间" class="headerlink" title="为自己安排时间"></a>为自己安排时间</h3><p>由于您正在将一些事情从您的日程安排中剔除，因此请专注于用时间来代替那些不想要的活动，以沉迷于您喜欢的一些事情。这可能并不总是那么容易，特别是对于无法摆脱义务和责任的父母或专业人士而言。 </p><p>解决这个问题的一种方法是像其他任何事情一样计划和优先考虑“独处时间”。为自己安排那段时间，然后找人——无论是朋友、保姆、伴侣还是家人——在你享受假期的时候可以接手。</p><h3 id="早点开始你的夜间例程"><a href="#早点开始你的夜间例程" class="headerlink" title="早点开始你的夜间例程"></a>早点开始你的夜间例程</h3><p>另一种对抗报复性睡前拖延症的方法是早点开始你的夜间例行活动。在您通常开始准备睡觉之前设置一个小时的闹钟。给自己额外的时间让自己从一天中放松下来，可能会让您感到更困倦，从而帮助您抵制熬夜的冲动。 </p><h3 id="关闭数字设备"><a href="#关闭数字设备" class="headerlink" title="关闭数字设备"></a>关闭数字设备</h3><p>关闭流媒体服务的自动播放功能，躺在床上时不要滚动浏览社交媒体网站。相反，专注于养成促进睡眠的放松习惯，例如做一些温和的伸展运动、冥想或读书。</p><p>报复性睡前拖延是一个很难改掉的习惯。可能只有在几天感到极度疲惫之后，您才会觉得有必要放弃那些深夜的睡眠延迟，以获得优质的睡眠。因为这种行为的最终动机是感觉你无法控制白天的时间，所以重新评估你每天如何度过时间通常是克服睡前拖延症的第一步。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;code&gt;报复性睡前拖延是指人们推迟上床睡觉以从事白天没有时间的活动的现象。1这是一种以牺牲睡眠为代价寻找休闲和娱乐时间的方式。&lt;/code&gt;&lt;br&gt;2014 年的一篇论文中引入了“睡前拖延”一词。2添加“报复”这个词最初是在中国用来描述经常工作 12 小时的人如何熬夜作为他们收回对时间的控制的唯一方式。 &lt;/p&gt;</summary>
-    
-    
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/categories/%E5%BF%83%E7%90%86/"/>
-    
-    
-    <category term="睡眠" scheme="https://blog.rss2ebook.com/tags/%E7%9D%A1%E7%9C%A0/"/>
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/tags/%E5%BF%83%E7%90%86/"/>
-    
-    <category term="做梦" scheme="https://blog.rss2ebook.com/tags/%E5%81%9A%E6%A2%A6/"/>
-    
-    <category term="拖延症" scheme="https://blog.rss2ebook.com/tags/%E6%8B%96%E5%BB%B6%E7%97%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>是爱还是性吸引力？</title>
-    <link href="https://blog.rss2ebook.com/2022/11/20/%E6%98%AF%E7%88%B1%E8%BF%98%E6%98%AF%E6%80%A7%E5%90%B8%E5%BC%95%E5%8A%9B/"/>
-    <id>https://blog.rss2ebook.com/2022/11/20/%E6%98%AF%E7%88%B1%E8%BF%98%E6%98%AF%E6%80%A7%E5%90%B8%E5%BC%95%E5%8A%9B/</id>
-    <published>2022-11-19T16:00:00.000Z</published>
-    <updated>2023-04-17T09:49:55.811Z</updated>
-    
-    <content type="html"><![CDATA[<p>关键点</p><ul><li>爱和性吸引力都是支持关键关系过程的进化机制</li><li>爱促进关系维持，而性吸引促进性</li><li>爱和性吸引力在需求满足以及它们与诚实和牺牲的联系上有所不同</li><li>爱情比性吸引更持久</li></ul><hr><span id="more"></span><p>无论它是强烈地出现还是逐渐展开直至实现，承认爱就是爱并不总是那么容易。你怎么知道你所经历的是否真的是爱？</p><h2 id="爱和性吸引很容易混淆，但目标不同"><a href="#爱和性吸引很容易混淆，但目标不同" class="headerlink" title="爱和性吸引很容易混淆，但目标不同"></a>爱和性吸引很容易混淆，但目标不同</h2><p>爱和性 吸引力都可以是强烈的情感，我们可以体验到对我们所爱的人的性吸引力。但我们也可以感受到对我们不爱的人的性吸引力（例如，名人、随机调酒师）。关键区别在于他们的目标。性吸引的最终目标是性，而爱的目的是维持关系，保持亲密和共同生活所定义的牢固联系。</p><h2 id="爱与性吸引的主要区别"><a href="#爱与性吸引的主要区别" class="headerlink" title="爱与性吸引的主要区别"></a>爱与性吸引的主要区别</h2><ol><li><p>爱满足了我们对支持的需求。在文化上，我们经常将性吸引力和爱情混为一谈，但有充分的理由怀疑实际上存在三种截然不同的激励系统。欲望可能是鼓励我们追求人际关系的驱动力，吸引力可能会帮助我们区分或多或少令人满意的伴侣，而爱可能会让我们接近响应和关心他人。当我们悲伤、害怕或需要支持时，爱尤为重要。</p></li><li><p>爱迫使诚实。当我们在人际关系中感到安全时——我们知道有人爱我们并且他们会在我们身边——我们会表现得更真实。如果我们质疑某人的可信度，担心他们会离开我们，或者认为他们可能不在我们需要的时候，我们就更倾向于撒谎或欺骗。换句话说，在一段关系中感受到安全的爱会增加真实性（Gillath、Sesko、Shaver 和 Chun，2010 年）。单靠性吸引力不太可能迫使这种程度的真实性。</p></li><li><p>爱使我们愿意牺牲。牺牲并不有趣：它涉及放弃一些有价值的东西（例如，时间、金钱），而且代价高昂。在人际关系中，牺牲意愿与更高水平的承诺和关系投资相关（Van Lange 等人，1997）。这种联系更像是爱，而不是性吸引。它显示了对未来的计划和对某人的关心，以及相对于自己的需求优先考虑他们的需求。<br>  4.爱改变了性行为的影响。性可以促进幸福，但这种联系在爱情的背景下最为强烈。研究表明，性生活频率与重要幸福指标（例如，生活满意度、积极情绪&#x2F;情绪）之间的关联部分取决于情感（Debrot 等人，2017 年）。感情是一种积极的以他人为导向的情绪，涉及关心和关心；它比纯粹以欲望为导向更以爱为导向。</p></li><li><p>爱情会持续，而性吸引力往往会减弱。性吸引力的感觉可以很快“关闭”，但爱情是另一回事。从进化的角度来看，浪漫的爱情不是一种情感：它是一种动力，一种强大而顽强的动力（Fisher 等人，2005 年）。浪漫的爱情激发了我们的注意力，并且不会轻易放弃它的控制。科学家们了解浪漫爱情的力量植根于多巴胺能系统，这是大脑中的一种奖励系统。在生物学层面上体验爱是一种深深的满足。相关的多巴胺释放加强了对浪漫爱情的追求，这可能反映了它在繁殖成功中的作用。</p></li></ol><h2 id="性吸引力可以导致爱情"><a href="#性吸引力可以导致爱情" class="headerlink" title="性吸引力可以导致爱情"></a>性吸引力可以导致爱情</h2><p>区分爱情和性吸引的挑战之一是，有时性兴趣是爱情的起点。的确，性吸引力可以让人们准备好开始一段浪漫关系的想法。性思想可以增加人们分享感受、牺牲、渴望亲密和进行关怀交流的开放性（Gillath、Mikulincer、Birnbaum 和 Shaver，2008 年）。</p><p>挑战在于决定你们的动态是否以性吸引结束，或者你们是否都相信你们有相似的目标，渴望开放的交流，并希望将你们的生活融合在一起。这些面向未来的特征表明您已经为长期关系打下了基础。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;关键点&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;爱和性吸引力都是支持关键关系过程的进化机制&lt;/li&gt;
-&lt;li&gt;爱促进关系维持，而性吸引促进性&lt;/li&gt;
-&lt;li&gt;爱和性吸引力在需求满足以及它们与诚实和牺牲的联系上有所不同&lt;/li&gt;
-&lt;li&gt;爱情比性吸引更持久&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</summary>
-    
-    
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/categories/%E5%BF%83%E7%90%86/"/>
-    
-    
-    <category term="爱" scheme="https://blog.rss2ebook.com/tags/%E7%88%B1/"/>
-    
-    <category term="情绪" scheme="https://blog.rss2ebook.com/tags/%E6%83%85%E7%BB%AA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何有意识地睡觉</title>
-    <link href="https://blog.rss2ebook.com/2022/11/19/%E5%A6%82%E4%BD%95%E6%9C%89%E6%84%8F%E8%AF%86%E5%9C%B0%E7%9D%A1%E8%A7%89/"/>
-    <id>https://blog.rss2ebook.com/2022/11/19/%E5%A6%82%E4%BD%95%E6%9C%89%E6%84%8F%E8%AF%86%E5%9C%B0%E7%9D%A1%E8%A7%89/</id>
-    <published>2022-11-18T16:00:00.000Z</published>
-    <updated>2023-04-10T13:26:15.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="关键点-在就寝时间和醒来时增加的焦虑会成为睡眠焦虑的恶性循环。-睡眠是意识的一种改变状态，但因为它很普通，所以我们可以期望它“自然而然地发生”。-我们可以准备和整合睡眠体验的方法包括情感支持、就寝时间准备和醒来后的整合。"><a href="#关键点-在就寝时间和醒来时增加的焦虑会成为睡眠焦虑的恶性循环。-睡眠是意识的一种改变状态，但因为它很普通，所以我们可以期望它“自然而然地发生”。-我们可以准备和整合睡眠体验的方法包括情感支持、就寝时间准备和醒来后的整合。" class="headerlink" title="关键点* 在就寝时间和醒来时增加的焦虑会成为睡眠焦虑的恶性循环。* 睡眠是意识的一种改变状态，但因为它很普通，所以我们可以期望它“自然而然地发生”。* 我们可以准备和整合睡眠体验的方法包括情感支持、就寝时间准备和醒来后的整合。"></a>关键点<br>* 在就寝时间和醒来时增加的焦虑会成为睡眠焦虑的恶性循环。<br>* 睡眠是意识的一种改变状态，但因为它很普通，所以我们可以期望它“自然而然地发生”。<br>* 我们可以准备和整合睡眠体验的方法包括情感支持、就寝时间准备和醒来后的整合。<br><span id="more"></span></h2><p>睡眠焦虑会在就寝时间和起床时间激增。</p><p>焦虑和其他情绪问题可能会在就寝时间激增，并在一夜睡眠不佳后加剧。1睡眠不佳和焦虑常常共同发展，形成一个难以中断的恶性循环。由于睡眠每 24 小时自然循环一次，因此很难从有意识过渡到无意识（入睡）和从无意识过渡回有意识（醒来）。</p><p>我们要求我们的孩子不要大惊小怪或争吵就去睡觉，但我们自己常常很难做到这一点。醒来可能是另一场战斗，尤其是当睡眠惯性的迷失方向和昏昏沉沉持续的时间比预期的要长时。坦率地说，有时要释放白天的压力足以入睡然后再次醒来并过渡到另一天是很多要求。然而，我们可以通过一些方法为睡眠和清醒做准备，从而让这些转变变得不那么费力。</p><p>记住睡眠是一种“意识的改变状态”可能会引导我们更好地进入和退出睡眠。<br>随着对迷幻剂辅助疗法和其他非正常意识状态的兴趣增加，意识的非正常和改变状态最近成为更多的头条新闻，这些意识状态可能来自呼吸或冥想等练习。2睡眠也是意识的一种改变状态，无论多么普通。这似乎是显而易见的，但我们可能会忘记，意识不仅有两种状态——开或关，而是有许多不同的层次。</p><p>意识是一个连续统一体，由不同程度的意识和觉醒来衡量。例如，脑电图显示第 1 阶段睡眠与清醒时的脑电波非常相似，具有高意识和高觉醒。快速眼动 (REM) 睡眠具有高意识但低觉醒。与 REM 睡眠类似，氯胺酮（一种合法的解离药物，用于治疗成瘾和抑郁症等）表现出高意识和低觉醒。相比之下，手术期间使用的典型麻醉显示低觉醒和低意识。3,4</p><p>随着综合迷幻剂辅助疗法的发展，“场景和环境”被认为是提供安全有效护理的关键。这意味着要有意识地关注个人的心理状态（内部环境）和个人周围的环境（外部环境）是支持康复的关键。这也可以应用于睡眠。认识到睡眠和综合疗法之间的这些和其他相似之处可能会改善睡眠并有助于更好地醒来。以下是三种让睡眠更“有意识”的方法——尤其是在过渡时期。</p><h3 id="综合睡眠方法"><a href="#综合睡眠方法" class="headerlink" title="综合睡眠方法"></a>综合睡眠方法</h3><h4 id="1-情感支持（支持“固定”或内部心理状态）。"><a href="#1-情感支持（支持“固定”或内部心理状态）。" class="headerlink" title="1. 情感支持（支持“固定”或内部心理状态）。"></a>1. 情感支持（支持“固定”或内部心理状态）。</h4><ul><li>使对睡眠的恐惧或焦虑感正常化。尊重放手足以入睡对我们的大脑和身体提出的要求很多，并且取决于我们的压力水平。</li><li>对睡眠失败的感觉感到好奇，无论发生什么都为自己提供无条件的支持。</li><li>花时间解决白天的担忧，尤其是对接受、归属感和相关感的社交恐惧。</li></ul><h4 id="2-睡前准备"><a href="#2-睡前准备" class="headerlink" title="2. 睡前准备"></a>2. 睡前准备</h4><ul><li>注意您对睡眠的期望，并了解这如何导致睡眠焦虑和沮丧。</li><li>控制你能控制的。设置成功的环境（床和卧室“设置”）：凉爽、黑暗、安静或放松的声音、舒适且整洁。</li><li>在白天练习放下你无法控制的东西的技巧。将这些命名为“无法控制的”。把它们放在一边能腾出什么空间？</li><li>选择一旦你闭上眼睛，你打算投降完全睡眠。练习静止并相信您可以通过定期练习深入学习放松。</li></ul><h4 id="3-觉醒整合"><a href="#3-觉醒整合" class="headerlink" title="3. 觉醒整合"></a>3. 觉醒整合</h4><ul><li>谈论或写下你的夜间经历：记下挣扎、成功和惊喜。包括梦、你自己的解释、你对发生的事情的感觉，以及这对你的意义。</li><li>让自己处于醒来的过渡期：让前五分钟成为自我护理——伸展或呼吸，或者只是让自己在拿起手机之前不专心。花点时间纪念您刚刚所做的事情以及它可能具有的挑战性。</li><li>为这一天设定一个目标：在你的脚落地之前，说出一个你想要的愿望。不管你睡得怎么样，你今天想感觉如何？</li></ul>]]></content>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;关键点-在就寝时间和醒来时增加的焦虑会成为睡眠焦虑的恶性循环。-睡眠是意识的一种改变状态，但因为它很普通，所以我们可以期望它“自然而然地发生”。-我们可以准备和整合睡眠体验的方法包括情感支持、就寝时间准备和醒来后的整合。&quot;&gt;&lt;a href=&quot;#关键点-在就寝时间和醒来时增加的焦虑会成为睡眠焦虑的恶性循环。-睡眠是意识的一种改变状态，但因为它很普通，所以我们可以期望它“自然而然地发生”。-我们可以准备和整合睡眠体验的方法包括情感支持、就寝时间准备和醒来后的整合。&quot; class=&quot;headerlink&quot; title=&quot;关键点* 在就寝时间和醒来时增加的焦虑会成为睡眠焦虑的恶性循环。* 睡眠是意识的一种改变状态，但因为它很普通，所以我们可以期望它“自然而然地发生”。* 我们可以准备和整合睡眠体验的方法包括情感支持、就寝时间准备和醒来后的整合。&quot;&gt;&lt;/a&gt;关键点&lt;br&gt;* 在就寝时间和醒来时增加的焦虑会成为睡眠焦虑的恶性循环。&lt;br&gt;* 睡眠是意识的一种改变状态，但因为它很普通，所以我们可以期望它“自然而然地发生”。&lt;br&gt;* 我们可以准备和整合睡眠体验的方法包括情感支持、就寝时间准备和醒来后的整合。&lt;br&gt;</summary>
-    
-    
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/categories/%E5%BF%83%E7%90%86/"/>
-    
-    
-    <category term="睡眠" scheme="https://blog.rss2ebook.com/tags/%E7%9D%A1%E7%9C%A0/"/>
-    
-    <category term="失眠" scheme="https://blog.rss2ebook.com/tags/%E5%A4%B1%E7%9C%A0/"/>
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/tags/%E5%BF%83%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>谁最有可能爱上错误的人</title>
-    <link href="https://blog.rss2ebook.com/2022/11/19/%E8%B0%81%E6%9C%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%88%B1%E4%B8%8A%E9%94%99%E8%AF%AF%E7%9A%84%E4%BA%BA/"/>
-    <id>https://blog.rss2ebook.com/2022/11/19/%E8%B0%81%E6%9C%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%88%B1%E4%B8%8A%E9%94%99%E8%AF%AF%E7%9A%84%E4%BA%BA/</id>
-    <published>2022-11-18T16:00:00.000Z</published>
-    <updated>2023-04-11T10:58:14.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>当你太容易坠入爱河时，你可能会更容易被错误的人所吸引。</p></blockquote><p>你有没有想过为什么有些人似乎总是吸引错误的伴侣？也许那个人甚至是你。</p><p>然而，没有人会自愿并故意选择一个糟糕的合作伙伴。找出谁应对糟糕的配对负责有点像保险理算员在发生车祸后如何分配责任：每个相关人员都至少对车祸负有一点责任。</p><span id="more"></span><p>这表明您可能是问题的一部分，即使看起来您做的一切都是对的。举个例子，你如何对待爱情。无可否认，坠入爱河的感觉很好，所以我们寻求这种感觉也就不足为奇了。</p><p>但是，尽管这听起来很浪漫，但如果你有恋情——太快、太容易、太频繁地坠入爱河的倾向怎么办？（琼斯，2015 年）采取过于热情的方式来建立爱情关系会鼓励某人做出错误的选择。</p><p>在选择关系伙伴时，您可能做出的最糟糕的选择之一就是表现出黑暗三人格的人（Paulhus &amp; Williams, 2002）。虽然这听起来很糟糕，但当你第一次遇到具有这些特征的人时，他们通常看起来并不那么消极。实际上，许多“阴暗”的人起初非常有吸引力，因为他们的魅力、魅力、自信、社交能力和彻头彻尾的迷人风度（乔纳森等人，2015 年）。</p><p>听起来不错——但隐藏在其背后的是自恋（即，他们有权利和优越感）、精神病态（即，他们具有敌意和敌意）和&#x2F;或马基雅维利主义（即，他们善于操纵并寻求凌驾于他人之上的权力）。这三个特征不在任何人的理想伴侣特征列表中，这是有充分理由的。研究表明，具有更多黑暗三联征特征的男性和女性伴侣过去更有可能背叛他们的另一半（Jones &amp; Weiser，2014 年）。显然，这些是我们大多数人都想避免的合作伙伴，尤其是当我们正在寻找长期合作伙伴时（乔纳森等人，2015 年）。</p><p>然而，德克萨斯大学埃尔帕索分校的研究人员Jacqueline Lechuga 和内华达大学里诺分校的 Daniel Jones怀疑，当涉及到黑暗三联征时，有些人就是无法控制自己——尤其是那些有恋情的人。</p><p>发现</p><p>在第一项研究中，研究人员对 267 名男性和女性进行了完整的恋情测量（例如，“我倾向于恋爱”、“我很容易坠入爱河”等），并测量了他们在生活中对黑暗三联征特征的渴望程度。一个潜在的合作伙伴。与他们的假设一致，恋情较高的人更有可能被自恋和精神病态较高的潜在伴侣所吸引。伴侣拥有的黑暗三合会特征越多，他们在喜欢坠入爱河的人看来就越理想。</p><p>在研究 2 中，由于之前的研究发现男性往往具有更高的黑暗三联征特征（Jonason 等人，2009 年），研究人员招募了 185 名异性恋女性来审查网上约会资料。为了创建配置文件，研究人员将一些男性创建的配置文件合并在一起，将具有相似特征的配置文件合并在一起，得出四种类型：高度自恋、高度精神病态、高度权谋主义和低度黑暗三联征。参与者阅读了所有四个简介，并指出了他们发现每个潜在合作伙伴的吸引力。再一次，正如预测的那样，那些有更多恋情的人发现自恋和精神病水平高的人更有吸引力。</p><p>外卖</p><p>如果你想让自己为长期的成功关系做好准备，那么处于黑暗三位一体中的伴侣并不是最好的选择。然而，那些过于积极地追求爱情的人似乎更有可能发现这些伴侣很有吸引力。</p><p>显然，想要坠入爱河并不是一件坏事。但是太渴望爱情会导致你优先考虑坠入爱河的行为而不是选择合适的人。更糟糕的是，其他研究表明，更大的爱恋还会鼓励其他消极行为，例如进行无保护的性行为（Jones &amp; Paulhus，2012 年）。归根结底，如果你不想爱上错误的人，最好不要那么容易坠入爱河。</p>]]></content>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;当你太容易坠入爱河时，你可能会更容易被错误的人所吸引。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;你有没有想过为什么有些人似乎总是吸引错误的伴侣？也许那个人甚至是你。&lt;/p&gt;
-&lt;p&gt;然而，没有人会自愿并故意选择一个糟糕的合作伙伴。找出谁应对糟糕的配对负责有点像保险理算员在发生车祸后如何分配责任：每个相关人员都至少对车祸负有一点责任。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/categories/%E5%BF%83%E7%90%86/"/>
-    
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/tags/%E5%BF%83%E7%90%86/"/>
-    
-    <category term="爱" scheme="https://blog.rss2ebook.com/tags/%E7%88%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>为什么早点睡觉会让你更快乐</title>
-    <link href="https://blog.rss2ebook.com/2022/10/11/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A9%E7%82%B9%E7%9D%A1%E8%A7%89%E4%BC%9A%E8%AE%A9%E4%BD%A0%E6%9B%B4%E5%BF%AB%E4%B9%90/"/>
-    <id>https://blog.rss2ebook.com/2022/10/11/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A9%E7%82%B9%E7%9D%A1%E8%A7%89%E4%BC%9A%E8%AE%A9%E4%BD%A0%E6%9B%B4%E5%BF%AB%E4%B9%90/</id>
-    <published>2022-10-10T16:00:00.000Z</published>
-    <updated>2023-04-10T13:26:47.000Z</updated>
-    
-    <content type="html"><![CDATA[<hr><h2 id="关键点-基因以某种难以影响的方式调整我们的生物钟——但对于大多数人来说，还是有一些选择余地的。-研究表明，早睡早起的人患抑郁症的风险似乎较低。-工作日和休息日的时间表不同与心情不好有关。-制定一致的睡眠时间表可能有助于夜猫子避免抑郁。"><a href="#关键点-基因以某种难以影响的方式调整我们的生物钟——但对于大多数人来说，还是有一些选择余地的。-研究表明，早睡早起的人患抑郁症的风险似乎较低。-工作日和休息日的时间表不同与心情不好有关。-制定一致的睡眠时间表可能有助于夜猫子避免抑郁。" class="headerlink" title="关键点- 基因以某种难以影响的方式调整我们的生物钟——但对于大多数人来说，还是有一些选择余地的。- 研究表明，早睡早起的人患抑郁症的风险似乎较低。- 工作日和休息日的时间表不同与心情不好有关。- 制定一致的睡眠时间表可能有助于夜猫子避免抑郁。"></a>关键点<br>- 基因以某种难以影响的方式调整我们的生物钟——但对于大多数人来说，还是有一些选择余地的。<br>- 研究表明，早睡早起的人患抑郁症的风险似乎较低。<br>- 工作日和休息日的时间表不同与心情不好有关。<br>- 制定一致的睡眠时间表可能有助于夜猫子避免抑郁。</h2><span id="more"></span><p>早起的鸟儿以更快乐而著称。对于我们这些天生是夜猫子的人来说，这似乎是不公平的。如果他们被迫在不敬虔的时间起床，谁不会脾气暴躁？两项新的遗传学研究解决了这个古老的争论。</p><h3 id="我们已经知道的关于睡眠时间和心理健康的知识"><a href="#我们已经知道的关于睡眠时间和心理健康的知识" class="headerlink" title="我们已经知道的关于睡眠时间和心理健康的知识"></a>我们已经知道的关于睡眠时间和心理健康的知识</h3><p>早起的人更有可能说他们感觉良好，并且患精神分裂症和抑郁症的风险较低。事实上，无论睡多长时间，夜猫子患抑郁症的可能性是早起者的两倍。但尚不清楚抑郁症是否会导致加班，而不是相反。同样不清楚的是，在早起的鸟儿世界里，夜猫子对坏心情的影响有多大。</p><h3 id="生物钟是硬连线的吗？"><a href="#生物钟是硬连线的吗？" class="headerlink" title="生物钟是硬连线的吗？"></a>生物钟是硬连线的吗？</h3><p>是的，但只是部分。许多基因会影响我们的睡眠偏好，并且根据您的基因分类，它们可以解释12% 到 42%的人们所做的事情。请注意这些数字——即使你拥有所有促使人们熬夜的基因，根据当前的科学，你仍然有比基因拉动更多的选择。</p><p>5 月，在对 840,000 人（这是一个庞大的群体）进行的一项基因研究中，科学家们发现那些具有早起相关基因的人患抑郁症的可能性较小。但是有多少呢？研究人员计算了睡眠中点——就寝时间和醒来时间之间的中间时间。平均而言，人们晚上 11 点上床睡觉，早上 6 点起床，中间点是凌晨 3 点。晚上 10 点睡觉，早上 5 点起床的人患重度抑郁症的风险降低了 23%。反之亦然：如果你在午夜上床睡觉并在早上 7 点起床，那么与普通人相比，你患抑郁症的风险会增加 23%。</p><h3 id="这是否意味着我可以通过早点睡觉变得更快乐？"><a href="#这是否意味着我可以通过早点睡觉变得更快乐？" class="headerlink" title="这是否意味着我可以通过早点睡觉变得更快乐？"></a>这是否意味着我可以通过早点睡觉变得更快乐？</h3><p>如果你已经早睡早起，也许不会。但这项研究表明，如果你打算在凌晨 1 点睡觉，那么在晚上 11 点上床睡觉可能会降低 40% 的抑郁风险。但是，您需要遵守新的时间表。</p><p>早起的鸟儿在白天往往会接触到更多的光线，而阳光会影响情绪。所以一定要看到太阳。如果您起床坐在黑暗的房间里，您可能看不到早起有任何好处。</p><h3 id="“但我已经为工作提早起床了”"><a href="#“但我已经为工作提早起床了”" class="headerlink" title="“但我已经为工作提早起床了”"></a>“但我已经为工作提早起床了”</h3><p>6 月，另一项新研究帮助证明与工作日保持同步有帮助——在晨会上和其他人一样清醒是件好事。</p><p>第二项研究也借鉴了遗传数据，发现早起与较低的抑郁几率有关。但是这个团队发明了一种称为“社交时差”的测量方法——基于休息日和工作日之间的睡眠差异。这个想法很简单。我们被告知即使在周末也应该保持相同的时间表。然而，强迫自己早起工作的夜猫子通常会在可能的情况下进入迟到模式。</p><p>利用 85,000 名全天候佩戴活动监测器的人的数据，记录他们何时入睡，这项研究确定，社交时差反应较多的人更有可能报告幸福感和抑郁感较低。</p><p>嗯——这对夜猫子来说不足为奇！你是一个早起的人，和一个必须在早上 8 点上班的夜猫子住在一起吗？可怜吧。你配偶的脾气暴躁似乎与生俱来。各地的夜猫子都想知道，如果他们能按照自己的节奏工作和睡觉，他们是否会幸福。</p><h3 id="我该如何实际使用它？"><a href="#我该如何实际使用它？" class="headerlink" title="我该如何实际使用它？"></a>我该如何实际使用它？</h3><p>需要进行大型随机试验才能确信早睡可以减少抑郁症。</p><p>这项研究确实为夜猫子​​带来了两个要点：</p><ul><li>如果你的工作时间已经比你想要的早，你可能会更加努力地坚持休假的相同时间。</li><li>如果您可以根据自己的喜好调整工作时间，您可能会让自己陷入迟到的日程。但是，如果您的日程安排迟到了并且还担心自己的心情，那么将您的日程安排提前一个小时可能会有所帮助。</li></ul>]]></content>
-    
-    
-    <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;关键点-基因以某种难以影响的方式调整我们的生物钟——但对于大多数人来说，还是有一些选择余地的。-研究表明，早睡早起的人患抑郁症的风险似乎较低。-工作日和休息日的时间表不同与心情不好有关。-制定一致的睡眠时间表可能有助于夜猫子避免抑郁。&quot;&gt;&lt;a href=&quot;#关键点-基因以某种难以影响的方式调整我们的生物钟——但对于大多数人来说，还是有一些选择余地的。-研究表明，早睡早起的人患抑郁症的风险似乎较低。-工作日和休息日的时间表不同与心情不好有关。-制定一致的睡眠时间表可能有助于夜猫子避免抑郁。&quot; class=&quot;headerlink&quot; title=&quot;关键点- 基因以某种难以影响的方式调整我们的生物钟——但对于大多数人来说，还是有一些选择余地的。- 研究表明，早睡早起的人患抑郁症的风险似乎较低。- 工作日和休息日的时间表不同与心情不好有关。- 制定一致的睡眠时间表可能有助于夜猫子避免抑郁。&quot;&gt;&lt;/a&gt;关键点&lt;br&gt;- 基因以某种难以影响的方式调整我们的生物钟——但对于大多数人来说，还是有一些选择余地的。&lt;br&gt;- 研究表明，早睡早起的人患抑郁症的风险似乎较低。&lt;br&gt;- 工作日和休息日的时间表不同与心情不好有关。&lt;br&gt;- 制定一致的睡眠时间表可能有助于夜猫子避免抑郁。&lt;/h2&gt;</summary>
-    
-    
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/categories/%E5%BF%83%E7%90%86/"/>
-    
-    
-    <category term="睡眠" scheme="https://blog.rss2ebook.com/tags/%E7%9D%A1%E7%9C%A0/"/>
-    
-    <category term="快乐" scheme="https://blog.rss2ebook.com/tags/%E5%BF%AB%E4%B9%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>酒精和 Zoom：抑郁症的良方？</title>
-    <link href="https://blog.rss2ebook.com/2021/10/20/%E9%85%92%E7%B2%BE%E5%92%8C%20Zoom%EF%BC%9A%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E8%89%AF%E6%96%B9%EF%BC%9F/"/>
-    <id>https://blog.rss2ebook.com/2021/10/20/%E9%85%92%E7%B2%BE%E5%92%8C%20Zoom%EF%BC%9A%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E8%89%AF%E6%96%B9%EF%BC%9F/</id>
-    <published>2021-10-19T16:00:00.000Z</published>
-    <updated>2023-04-10T13:25:39.000Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li></li></ul><p>&#96;关键点</p><ul><li>研究表明，在视频会议中花更多时间看着自己的人在互动后会产生更多的负面情绪。</li><li>尽管在社交交流中饮酒通常会减少自我关注和消极情绪，但在视频通话中却没有这种效果。</li><li>使用 Zoom 的人可能会考虑隐藏自己的面部图像。&#96;</li></ul><span id="more"></span><p>部分归功于COVID-19大流行，通过 Zoom 和其他视频会议平台进行的虚拟社交互动变得很普遍。大多数视频会议平台默认在通话期间向您显示您自己的视频源。换句话说，我们倾向于在 Zoom 上花费大量时间盯着自己的脸。那种以自我为中心的注意力往往会使人感觉更糟。在《临床心理科学》杂志上发表的一项研究中，研究人员证明，在视频会议中花更多时间看着自己（相对于他们的在线对话伙伴）的人在社交互动后会有更多的负面情绪。此外，尽管在社交交流中饮酒通常会减少自我关注和消极情绪，但酒精并没有它似乎无法“润滑”这些在线社交互动。</p><p>一般来说，你越关注自己，你的情绪就会越消极。自我关注与理解社交互动的情绪结果特别相关。当你与他人互动时，你的自我关注本质上往往是高度评价性的。换句话说，你不仅关注自己，还关注其他人如何评价你。他们觉得你好看吗？他们觉得你有趣吗？有趣的？诡异的？这种以自我为中心的沉思往往会使社交互动不那么令人满意，并让人感到不快乐。事实上，社交互动中的自我关注与 焦虑和抑郁症。</p><p>许多人通过饮酒来应对社交互动中的焦虑。在某些方面，这是有道理的。酒精往往会降低社交互动中以自我为中心的注意力，这可能会导致社交互动，从而改善一个人的情绪。但是在视频会议的背景下，当您看到自己脸部的清晰图像时，您可能会无法抗拒专注于自己的诱惑，从而削弱酒精正常的社交润滑作用。</p><p>这项新研究的作者使用了一种新方法来检查在线社交互动中的自我关注度。他们跟踪了参与者的眼球运动，这使研究人员能够确定参与者是在看自己的面部图像还是在与他们进行视频会议的人的面部图像。使该方法更加有趣的是，一些参与者在任务期间陶醉而其他人则没有。</p><p>集市生产&#x2F;Pexels<br>来源：Mart Production&#x2F;Pexels<br>研究人员招募了 246 名社交饮酒者（大多数年龄在 21 至 30 岁之间），不包括任何有酗酒史或任何物质使用障碍的参与者。每个参与者都被要求带一个同性朋友参加研究。当他们到达研究中心时，参与者被随机分配与他们的朋友或其他参与者的朋友一起完成研究。因此，一半的参与者与他们认识的人互动，另一半与陌生人互动。此外，参与者被随机分配到饮酒或不含酒精的对照饮料。所给予的酒精量旨在达到血液酒精浓度峰值0.08%（美国大多数州的驾驶法定限制）。大约半小时后，参与者完成了一项情绪测量，然后接受了在线社交互动的指导。</p><p>所有参与者都完成了视频通话，他们与坐在另一个房间的合作伙伴进行了互动。视频会议屏幕看起来像是典型的两人通话 Zoom 设置，屏幕的一半显示参与者的脸，另一半显示他们的对话伙伴。的脸。头枕用于确保所有参与者对他们的视频屏幕都有相似的看法。参与者被要求与合作伙伴就两个不同的话题进行对话：音乐偏好和他们喜欢&#x2F;不喜欢他们住的地方。当他们说话时，研究人员跟踪他们的眼球运动，确定他们什么时候看自己的脸，什么时候看他们的伴侣。在这次在线互动之后，参与者完成了第二次情绪测量。</p><p>好消息是，结果表明参与者倾向于花更长的时间看他们的伴侣的脸不如自己的脸。无论在线对话是与朋友还是陌生人，都是如此。然而，证据还表明，参与者在社交互动中越关注自己，之后他们的情绪就越糟糕。而那些在视频互动过程中陶醉的人在互动过程中更有可能专注于自己，而不太可能专注于他们的对话伙伴。结果，酒精未能表现出它通常在社交互动中表现出的情绪增强作用。尽管这项研究只检查了相对较短时间内的情绪变化，但短期情绪状态与抑郁症和焦虑症等长期心理健康结果有关。</p><p>Cottonbro 工作室&#x2F;Pexels<br>资料来源：Cottonbro Studio&#x2F;Pexels<br>仅 Zoom 就有超过3 亿的每日用户。尽管视频会议主要被视为与工作相关的活动，但在 COVID-19 大流行期间，Zoom 鸡尾酒会和其他以酒精为燃料的在线社交聚会变得更加普遍。这项研究表明，那些喝酒并使用 Zoom 的人不太可能获得他们所希望的情绪提升，部分原因是很难将目光从自己的脸上移开。因此，如果您必须进行视频会议，请考虑隐藏您自己的面部图像。如果您希望减轻“变焦疲劳”，不要指望酒精能帮到您。</p>]]></content>
-    
-    
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;#96;关键点&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;研究表明，在视频会议中花更多时间看着自己的人在互动后会产生更多的负面情绪。&lt;/li&gt;
-&lt;li&gt;尽管在社交交流中饮酒通常会减少自我关注和消极情绪，但在视频通话中却没有这种效果。&lt;/li&gt;
-&lt;li&gt;使用 Zoom 的人可能会考虑隐藏自己的面部图像。&amp;#96;&lt;/li&gt;
-&lt;/ul&gt;</summary>
-    
-    
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/categories/%E5%BF%83%E7%90%86/"/>
-    
-    
-    <category term="抑郁" scheme="https://blog.rss2ebook.com/tags/%E6%8A%91%E9%83%81/"/>
-    
-    <category term="酒精" scheme="https://blog.rss2ebook.com/tags/%E9%85%92%E7%B2%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>定义亲密关系的 7 个要素</title>
-    <link href="https://blog.rss2ebook.com/2019/10/20/%E5%AE%9A%E4%B9%89%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E7%9A%84%207%20%E4%B8%AA%E8%A6%81%E7%B4%A0/"/>
-    <id>https://blog.rss2ebook.com/2019/10/20/%E5%AE%9A%E4%B9%89%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E7%9A%84%207%20%E4%B8%AA%E8%A6%81%E7%B4%A0/</id>
-    <published>2019-10-19T16:00:00.000Z</published>
-    <updated>2023-04-10T13:24:30.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>在过去的三年里，我有幸为渴望了解人际关系本质并希望获得一些科学见解以改善自己的人际关系的热心学生讲授“关系心理学”课程。我发现我的学生最喜欢学习的是，也许考虑到当前可能定义不清的随意关系的气氛，是建立亲密关系的关键因素，即亲密关系。</p><p>根据 Miller (2014) 对 Ben-Ari 和 Lavee (2007) 作品的总结，最幸福的亲密关系与随意的关系有七种不同之处：</p><span id="more"></span><h4 id="1-知识"><a href="#1-知识" class="headerlink" title="1. 知识"></a>1. 知识</h4><p>在建立深厚、亲密的关系时，我们会分享大量的个人信息，而这些信息我们不一定愿意与他人分享。当然，信息量可能因人而异。研究表明，与通常为伴侣保留更多私密话题的男性相比，女性平均倾向于与朋友和伴侣分享更多私密信息。尽管如此，与我们处于健康关系中的亲密伙伴一起，我们感到安全地分享我们最深切的梦想、欲望、恐惧、过去的历史、创伤和未来的目标。一般来说，这是一个相互渐进的过程。</p><h4 id="2-相互依存"><a href="#2-相互依存" class="headerlink" title="2. 相互依存"></a>2. 相互依存</h4><p>亲密关系也往往是高度相互依存的，其中每个伙伴在话题和重要性方面都会对对方产生有意义、频繁和广泛的影响。这可以从选择晚餐吃什么到住在哪里。</p><h4 id="3-关怀"><a href="#3-关怀" class="headerlink" title="3.关怀"></a>3.关怀</h4><p>关心是健康亲密关系的另一个标志。每个伴侣都非常关心对方，这不同于一个人通常对另一个非亲密的人表现出的关心。因此，亲密伴侣会关心彼此的幸福，在痛苦时给予安慰，并保护对方免受伤害。虽然一个人对另一个人的关怀表现可能不同（例如，作为沟通方式或不同情感表现的函数），但亲密伴侣往往会表现出真诚、无私的关怀。</p><h4 id="4-信任"><a href="#4-信任" class="headerlink" title="4.信任"></a>4.信任</h4><p>在我看来，信任是将亲密关系的其他六个组成部分结合在一起的原因。信任是一个很难讨论的概念，因为它很复杂，但即使无法完全定义它，我们也确实能感受到它。据我估计，信任是我们对另一个人的信心，相信他会以对我们有利的荣誉和公平的方式行事，或者至少，我们的合作伙伴不会对我们造成有目的的伤害。</p><h4 id="5-反应能力"><a href="#5-反应能力" class="headerlink" title="5.反应能力"></a>5.反应能力</h4><p>健康的亲密关系涉及相互响应彼此需求的合作伙伴。这意味着在痛苦（例如失去父母或工作）和收获（例如升职、宣布怀孕）时相互认识、理解和支持。当每个伙伴都觉得对方满足了他或她的需求时，这最终会让人感到被欣赏和被爱。</p><h4 id="6-互惠性"><a href="#6-互惠性" class="headerlink" title="6. 互惠性"></a>6. 互惠性</h4><p>在一段健康的亲密关系中达到一定程度后，每个伴侣都会认识到这种亲密关系，并将他或她的观点从“我”转变为“我们”。例如，在一段关系的开始，伴侣可能会说，“马克和我这个周末要去外地，”当关系加深时，双方都会改变对自己的看法，以及他们的词汇：“我们这个周末要出城。”</p><h4 id="七、承诺"><a href="#七、承诺" class="headerlink" title="七、承诺"></a>七、承诺</h4><p>最后，在健康的亲密关系中，双方都有希望这种关系无限期持续下去的意愿，这进一步促进了亲密关系的其他六个组成部分。有了这种关系将持续一段不确定时间的想法，它允许信任继续加深，共同知识进一步共享，相互包容，关怀显示，并不断努力响应和相互依存对于双方合作伙伴。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;在过去的三年里，我有幸为渴望了解人际关系本质并希望获得一些科学见解以改善自己的人际关系的热心学生讲授“关系心理学”课程。我发现我的学生最喜欢学习的是，也许考虑到当前可能定义不清的随意关系的气氛，是建立亲密关系的关键因素，即亲密关系。&lt;/p&gt;
-&lt;p&gt;根据 Miller (2014) 对 Ben-Ari 和 Lavee (2007) 作品的总结，最幸福的亲密关系与随意的关系有七种不同之处：&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/categories/%E5%BF%83%E7%90%86/"/>
-    
-    
-    <category term="焦虑" scheme="https://blog.rss2ebook.com/tags/%E7%84%A6%E8%99%91/"/>
-    
-    <category term="伴侣" scheme="https://blog.rss2ebook.com/tags/%E4%BC%B4%E4%BE%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>改善与回避型伴侣关系的 10 种方法</title>
-    <link href="https://blog.rss2ebook.com/2019/10/20/%E6%94%B9%E5%96%84%E4%B8%8E%E5%9B%9E%E9%81%BF%E5%9E%8B%E4%BC%B4%E4%BE%A3%E5%85%B3%E7%B3%BB%E7%9A%84%2010%20%E7%A7%8D%E6%96%B9%E6%B3%95/"/>
-    <id>https://blog.rss2ebook.com/2019/10/20/%E6%94%B9%E5%96%84%E4%B8%8E%E5%9B%9E%E9%81%BF%E5%9E%8B%E4%BC%B4%E4%BE%A3%E5%85%B3%E7%B3%BB%E7%9A%84%2010%20%E7%A7%8D%E6%96%B9%E6%B3%95/</id>
-    <published>2019-10-19T16:00:00.000Z</published>
-    <updated>2023-04-10T13:25:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>&#96;关键点</p><ul><li>具有轻蔑-回避型依恋风格的人可能显得冷漠、抗拒承诺，并且不适应他们更深层次的感受。</li><li>在人际关系中，回避型依恋的人可能会与伴侣保持一定距离，发送混合信息，并在亲密关系中挣扎。</li><li>回避依恋的人的伴侣可以修改他们的期望，而不是个性化，并努力建立自己的安全依恋。&#96;</li></ul><span id="more"></span><p>这是关于不屑一顾的依恋风格的两部分系列的第二部分。第一部分在这里。</p><p>如果您与具有轻蔑-回避型依恋类型的人建立关系，您可能会感到孤独、沮丧、不受重视或不受欢迎。</p><p>以下是可以提供帮助的 10 种方法：</p><h3 id="1、不要追"><a href="#1、不要追" class="headerlink" title="1、不要追"></a>1、不要追</h3><p>当一个回避型依恋的伴侣抽离时，追求他们可能会让他们更加退缩。尽管困难重重，但请给他们空间，让他们知道他们回来后会受到欢迎。</p><h3 id="2-避免批评"><a href="#2-避免批评" class="headerlink" title="2.避免批评"></a>2.避免批评</h3><p>回避依恋的人对批评很敏感。与其抱怨你不想要的，不如提出你想要的。</p><p>例如，如果您的伴侣已经两天没有打电话，与其抱怨，不如告诉他们每天保持联系对您来说意义重大。询问他们是否愿意尝试一周。</p><h3 id="3-注意你的假设和观点"><a href="#3-注意你的假设和观点" class="headerlink" title="3.注意你的假设和观点"></a>3.注意你的假设和观点</h3><p>我们倾向于创造关于我们合作伙伴的故事，并收集证据来支持我们的观点。例如，如果您认为回避型伴侣漠不关心，您可能会看到您的伴侣的不足之处却忽略了关怀行为。</p><p>为避免负面叙述，请对您的伴侣保持好奇。询问他们在生活中最看重和最珍惜的是什么。找出困扰他们的事情以及他们可能希望您以不同的方式做些什么。不加判断地听。</p><p>您可能会发现，让合作伙伴相互了解的练习或结构化问题可以以回避型合作伙伴更容易接受的方式培养亲密感。</p><h3 id="4-不要提出要求或最后通牒"><a href="#4-不要提出要求或最后通牒" class="headerlink" title="4. 不要提出要求或最后通牒"></a>4. 不要提出要求或最后通牒</h3><p>一些有回避依恋的人可能在成长过程中要求以某种方式行事，并在他们做不到时发出最后通牒。不要复制这个。</p><p>当回避型伴侣似乎顽固地无法接近或不屑一顾时，这可能会很困难，但要求改变或威胁要离开可能只会强化他们的回避型立场。</p><h3 id="5-巧妙处理情绪"><a href="#5-巧妙处理情绪" class="headerlink" title="5. 巧妙处理情绪"></a>5. 巧妙处理情绪</h3><p>在对你们的关系表达强烈的情绪之前，试着让自己集中注意力。对于回避依恋的人来说，强烈的感情是压倒性的。他们可能无法长期参与并可能退出，让你更加受伤或沮丧。</p><p>尝试一个软化的启动，例如，“我感到沮丧，我想和你谈谈，这样我就可以继续前进。你愿意通过听我说的话来帮助我这样做吗？” 让他们放心，他们不需要修复你的感受；简单地倾听你的情绪会有所帮助。这可以模拟他们可以学习的情绪表达。</p><h3 id="6-不要着急"><a href="#6-不要着急" class="headerlink" title="6.不要着急"></a>6.不要着急</h3><p>如果你在这段关系中一直感到敬而远之，而你的回避型伴侣突然靠得更近了，你可能会想在门再次关上之前说出你所有被压抑的愿望和担忧。尽量不要这样做。相反，尽情享受亲密关系，而不是追求更多。这可以让你的回避型伴侣容忍更多的亲密窗口。</p><h3 id="7-给你的伴侣一张路线图"><a href="#7-给你的伴侣一张路线图" class="headerlink" title="7. 给你的伴侣一张路线图"></a>7. 给你的伴侣一张路线图</h3><p>您和伴侣的世界观可能天壤之别。在提出敏感话题时解释您的意图可以让回避型伴侣放心。</p><p>例如，如果你寻求更亲密的关系，可以说：“我真的很珍惜与你的亲密关系。我知道你珍惜并需要独处的时间。当我们感觉不亲近时，有时我会感到孤独或对你不重要。我知道你不是这些感觉的根源，你也不必修复它们。你愿意谈谈我们每个人都可以做些什么，以便我们都能得到更多我们需要的东西吗？”</p><h3 id="8-努力变得更安全"><a href="#8-努力变得更安全" class="headerlink" title="8.努力变得更安全"></a>8.努力变得更安全</h3><p>与回避型依恋的伴侣在一起的一个机会是增加你的自力更生和控制情绪的能力。焦虑会激发我们最坏的一面，引发原始的恐惧和适得其反的应对行为。</p><p>没有一个人或一段关系可以满足您的所有需求。如果您有回避型伴侣，请在关系之外寻求多种安慰和支持来源。</p><p>矛盾的是，当回避型伴侣看到你在没有他们的情况下快乐地做事时，他们可能会变得更亲近，因为这减少了他们对你完全依赖他们的恐惧。</p><h3 id="9-积极强化"><a href="#9-积极强化" class="headerlink" title="9.积极强化"></a>9.积极强化</h3><p>对你来说这只是一小步，但对回避型伴侣来说可能是一个巨大的飞跃。许多回避依恋的伴侣知道他们的伴侣很失望。他们可能对此感到难过，但对改变他们根深蒂固的自我保护风格​​感到矛盾。</p><p>如果他们靠得更近或表现出脆弱，无论多么小，都要庆祝。表达感激之情，让他们知道你的感受。承认你知道这可能很难。验证并鼓励任何亲密或情感表达的尝试。</p><h3 id="10-不要个性化"><a href="#10-不要个性化" class="headerlink" title="10. 不要个性化"></a>10. 不要个性化</h3><p>当回避型伴侣退缩或看起来不投入时，提醒自己这就是他们应对困难情绪的方式。虽然它可能让人觉得是故意针对你的，但它是一种自动的情绪生存机制。</p><p>回避型依恋的人有感情，渴望亲密，并经历情绪动荡。他们只是比其他人更微妙、更间接地体验和表达感受。你可能会因为他们的孤僻或冷漠而感到受伤，但在他们表面上的冷漠背后是恐惧。</p><h4 id="记住：你有选择"><a href="#记住：你有选择" class="headerlink" title="记住：你有选择"></a>记住：你有选择</h4><p>如果您执行上面列出的许多步骤，您可能会成长为一个人并在关系中成长。您应该期望并要求您的合作伙伴对成长做出类似的承诺。</p><p>如果随着时间的推移，尽管你自己的工作和表达了你的需求，但你发现你的伴侣几乎没有付出任何努力，那么你可能会决定继续前进对你来说是最好的。</p><p>如果你留下来，是出于选择，知道挑战和好处，而不是出于错误的希望、内疚、义务，或担心你找不到其他人。</p><p>如果需要，寻求治疗。夫妻和个人治疗可以帮助解决依恋不安全感。夫妻治疗可以成为一个安全的空间，让一个回避型依恋的人可以敞开心扉。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&amp;#96;关键点&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;具有轻蔑-回避型依恋风格的人可能显得冷漠、抗拒承诺，并且不适应他们更深层次的感受。&lt;/li&gt;
-&lt;li&gt;在人际关系中，回避型依恋的人可能会与伴侣保持一定距离，发送混合信息，并在亲密关系中挣扎。&lt;/li&gt;
-&lt;li&gt;回避依恋的人的伴侣可以修改他们的期望，而不是个性化，并努力建立自己的安全依恋。&amp;#96;&lt;/li&gt;
-&lt;/ul&gt;</summary>
-    
-    
-    
-    <category term="心理" scheme="https://blog.rss2ebook.com/categories/%E5%BF%83%E7%90%86/"/>
-    
-    
-    <category term="焦虑" scheme="https://blog.rss2ebook.com/tags/%E7%84%A6%E8%99%91/"/>
-    
-    <category term="伴侣" scheme="https://blog.rss2ebook.com/tags/%E4%BC%B4%E4%BE%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>金钱能买到幸福吗？</title>
-    <link href="https://blog.rss2ebook.com/2018/10/20/%E9%87%91%E9%92%B1%E8%83%BD%E4%B9%B0%E5%88%B0%E5%B9%B8%E7%A6%8F%E5%90%97%EF%BC%9F/"/>
-    <id>https://blog.rss2ebook.com/2018/10/20/%E9%87%91%E9%92%B1%E8%83%BD%E4%B9%B0%E5%88%B0%E5%B9%B8%E7%A6%8F%E5%90%97%EF%BC%9F/</id>
-    <published>2018-10-19T16:00:00.000Z</published>
-    <updated>2023-04-10T13:25:24.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>我们无数次听到金钱买不到幸福。但是又有多少人真的相信呢？</p><p>我们看到有人有一辆好车，我们想，“如果我有那辆车，我会很高兴。” 我们听说有人中了 100,000,000 美元的彩票，我们会想，“如果我赢了，我会很高兴。” 我们在社交媒体上看到我们的一个朋友买了一套漂亮的房子，我们想，“哇！如果我有那个，一切都会好起来的。” 金钱能买到快乐吗？</p><span id="more"></span><p>科学家们研究了这个问题。他们发现，在没有钱的社会中，幸福感仍然存在。2021 年与麦吉尔大学和巴塞罗那大学合作发表了一篇论文。这是发现的内容：</p><p>科学家采访了所罗门群岛和孟加拉国 678 名 25 岁到 50 岁出头的人，特别是那些生活在农村和贫困地区的人。他们了解了情绪、生活方式、捕鱼活动、家庭收入和市场整合情况。在这两个国家，科学家们将较贫穷的社会与生活在大城市、经济状况更好的人进行了比较。</p><h3 id="幸福的真相"><a href="#幸福的真相" class="headerlink" title="幸福的真相"></a>幸福的真相</h3><p>研究人员发现了两个主要问题：生活在城市地区并赚更多钱的人报告说幸福感较低。然而，生活在收入较少的较贫困地区的人们的幸福感更高。此外，农村社会享受与家人在一起的时光和亲近大自然的时光。</p><p>研究人员得出结论，在这些较贫穷的国家，人们很幸福，而在人们领先的城市地区，金钱收益甚至可能不利于他们的幸福。这支持了幸福与经济产出并不主要相关的概念。当人们感到安全时，他们就会感到舒适。</p><p>有趣的是，科学家们发现，尽管世界上大多数人都在社交媒体上将自己与同龄人进行比较，这可能会导致不快乐，但在这些更偏远的农村地区，情况并非如此。</p><h3 id="我们可以从这项研究中学到什么？"><a href="#我们可以从这项研究中学到什么？" class="headerlink" title="我们可以从这项研究中学到什么？"></a>我们可以从这项研究中学到什么？</h3><p>首先，这些农村社区并没有挨饿。他们生活在一个基本需求很容易得到满足的社区。他们拥有的主要东西是社区感和自然感。这两个因素似乎有助于报告总体幸福水平。</p><p>获得更多的东西，想要更多的东西，想要更多的东西——这些在这些农村地区并不普遍。</p><h3 id="财运还不错"><a href="#财运还不错" class="headerlink" title="财运还不错"></a>财运还不错</h3><p>就其本身而言，金钱不会对我们造成伤害。我和很多做得非常出色的人一起工作，他们都很快乐。财富本身并不会使我们不快乐。让我们不快乐的是为财富而牺牲或执着于事物。如果我们相信我们不需要任何东西就能快乐，我们就会在生活中做出不同的选择。你相信吗？</p><p>上大学并找到一份能养活我们和我们家人的好工作也没关系。只是重点不会放在“事物”上，而是放在家人和朋友以及社区意识上。</p><p>如果我们强调这一点，我们就会以较慢的速度做事，而不会等待“总有一天我会到达那里”的想法。我们会联系朋友并与他们共度时光。我们会找时间读书，去公园散步，看日落。</p><p>我们会做我们的工作，因为我们喜欢它。我们会休假，因为它们很棒。我们会花时间与家人和朋友在一起，因为这让我们的心在歌唱。我们会在大自然中做事，花时间做与世界和宇宙和平相处的事情。因为那会给我们带来快乐。</p><h3 id="相反，我们现在专注于过上好日子"><a href="#相反，我们现在专注于过上好日子" class="headerlink" title="相反，我们现在专注于过上好日子"></a>相反，我们现在专注于过上好日子</h3><p>我们的头脑很狡猾。我们经常说，“好吧，我会努力工作一段时间，然后我会开始生活。” 但这就是诀窍，因为我们可以这样做很多年，但我们甚至不知道我们是否会达到可以享受生活的地步。我们可能非常疲惫，并且有健康问题。由于我们一直在工作，我们可能会因失去或伤害的每个人而受到附带损害。</p><p>你看，我们甚至可能达不到我们的目标。我们可能会花费所有这些时间、所有这些精力和所有这些牺牲来实现财务目标，然后它就消失了。</p><h3 id="渔夫"><a href="#渔夫" class="headerlink" title="渔夫"></a>渔夫</h3><p>说明这一点的最好的故事之一是关于一个钓鱼的人。他有一艘小船，他出海打鱼了一会儿。他带着足够的鱼回来吃。他只是坐在沙滩上享受他的鱼，享受他周围美丽的大自然。</p><p>一个富人看见他说：“你在做什么？你知道吗，如果你整天不停地钓鱼，你可以赚更多的钱？你可以回来，不仅可以吃掉你的鱼，还可以卖掉多余的。然后当你从中赚到足够的钱时，你可以购买更多的船并雇人帮助你捕到更多的鱼。然后你就会有很多钱，你会达到一个可以放松和享受一整天的地步。如果你真的努力工作，你可以在 10 年或 20 年后做到这一点。”</p><p>渔夫看着财主说：“我现在就是这么干的！我为什么要做这一切？”</p><h3 id="这里有深厚的智慧"><a href="#这里有深厚的智慧" class="headerlink" title="这里有深厚的智慧"></a>这里有深厚的智慧</h3><p>我们需要领悟，这就是生命。在我们开始生活之前，我们必须停止等待货币事物发生变化。总有一些美好的事物是我们可以享受的。我们真的不需要太多的快乐。我们只需要生活中的人们欢笑、玩耍和玩得开心。我们需要花时间沉浸在生活中，享受周围的美景。这些就是我们需要的东西。</p><h3 id="幸福是属于我们每一个人的"><a href="#幸福是属于我们每一个人的" class="headerlink" title="幸福是属于我们每一个人的"></a>幸福是属于我们每一个人的</h3><p>在我们生命的任何时候，不管怎样，我们都可以快乐。如果我们真的把它作为我们的焦点，那么生活中的事情就真的不重要了。如果我们年纪大了，住在退休社区，那么我们就有朋友可以花时间和他们一起做一些活动。</p><p>如果我们更年轻，经济困难，也许我们可以卖掉所有东西，买一辆面包车，把它改造成一个宜居的地方。然后我们就可以旅行和探索了。我们可以享受身边所有的美好。不，它并不完美，但他们正在做自己喜欢的事情，而不是为了快乐而获取东西。</p><p>“我今天要做什么才能找到生活中的快乐和幸福？”</p><h3 id="快乐是免费的"><a href="#快乐是免费的" class="headerlink" title="快乐是免费的"></a>快乐是免费的</h3><p>现在，你能打电话给朋友，和他们一起去散步吗？你能为你的朋友做晚饭吗？你能出去看看美丽的日落吗？你能生个小火然后看书吗？</p><p>这些东西会给你带来快乐。它们很简单。不要和别人比较，也不要奢求更多。幸福就在此时此地。我们所要做的就是连接当下。如果我们专注于真正让我们快乐的事情并为之投入精力，我们总会找到快乐。</p><p>生活真的是一场美丽的冒险——一天一天，一次呼吸。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;我们无数次听到金钱买不到幸福。但是又有多少人真的相信呢？&lt;/p&gt;
-&lt;p&gt;我们看到有人有一辆好车，我们想，“如果我有那辆车，我会很高兴。” 我们听说有人中了 100,000,000 美元的彩票，我们会想，“如果我赢了，我会很高兴。” 我们在社交媒体上看到我们的一个朋友买了一套漂亮的房子，我们想，“哇！如果我有那个，一切都会好起来的。” 金钱能买到快乐吗？&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="幸福" scheme="https://blog.rss2ebook.com/categories/%E5%B9%B8%E7%A6%8F/"/>
-    
-    
-    <category term="幸福" scheme="https://blog.rss2ebook.com/tags/%E5%B9%B8%E7%A6%8F/"/>
-    
-    <category term="金钱" scheme="https://blog.rss2ebook.com/tags/%E9%87%91%E9%92%B1/"/>
+    <category term="RSS2EBOOK" scheme="https://blog.rss2ebook.com/tags/RSS2EBOOK/"/>
     
   </entry>
   
