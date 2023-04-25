@@ -1,17 +1,9 @@
 ---
-<<<<<<< HEAD
-title: 关于RSS2EBOOK
-tags: [RSS2EBOOK,News,Ebook]
-date: 2023-03-28
-lang: zh-CN
-catalog: true
-=======
 title: 关于 RSS2EBOOK
 tags: [RSS2EBOOK,News,Ebook]
 date: 2023-03-28
 catalog: true
 lang: zh-CN
->>>>>>> d1cecc2 (first commit)
 categories: 
   - RSS2EBOOK
 ---

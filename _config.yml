@@ -1,15 +1,6 @@
 title: RSS2EBOOK
 subtitle: 'RSS源生成带图电子书或者杂志'
 description: '免费RSS源生成带图电子书或者杂志，并使用邮箱推送到电子设备，支持多种Kindle类型，支持口袋阅、小米、JDReader、汉王等多种设备'
-<<<<<<< HEAD
-keywords: RSS2EBOOK
-author: benben
-language:
-  - zh-CN
-  - en
-
-i18n_dir: :lang
-=======
 keywords: RSS2EBOOK,feed,Ebook,News,Comics
 author: RSS2EBOOK
 language:
@@ -19,7 +10,6 @@ i18n_dir: :lang
 i18n:
   type: [page, post]
   generator: [archive, category, tag, index,about]
->>>>>>> d1cecc2 (first commit)
 timezone: ''
 url: https://blog.rss2ebook.com
 permalink: ':year/:title.html'
@@ -94,8 +84,4 @@ deploy:
   type: git
   repository:
     github: git@github.com:benben17/benben17.github.io.git,main
-<<<<<<< HEAD
-    # coding: git@git.coding.net:Alvabill/Alvabill.git,master
-=======
     # coding: git@github.com:benben17/rss2ebookblog.git,main
->>>>>>> d1cecc2 (first commit)

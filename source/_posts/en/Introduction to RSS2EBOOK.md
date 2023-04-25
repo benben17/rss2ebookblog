@@ -6,10 +6,6 @@ lang: en
 categories: 
   - RSS2EBOOK
 ---
-<<<<<<< HEAD
-
-=======
->>>>>>> d1cecc2 (first commit)
 ### Product Introduction
   Welcome to our RSS subscription to e-book generation service! This guide will introduce you to how to use our service and provide detailed information about the features and services we offer.
 
