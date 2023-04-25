@@ -140,7 +140,11 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
+<<<<<<< HEAD
   url: /images/avatar.jpg
+=======
+  url:  #/images/avatar.jpg
+>>>>>>> d1cecc2 (first commit)
   # If true, the avatar will be displayed in circle.
   rounded: false
   # If true, the avatar will be rotated with the cursor.
@@ -155,9 +159,15 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   #GitHub: https://github.com/yourname || fab fa-github
+<<<<<<< HEAD
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Twitter: https://twitter.com/yourname || fab fa-twitter
+=======
+  E-Mail: mailto:librz.link@gmail.com || fa fa-envelope
+  #Weibo: https://weibo.com/yourname || fab fa-weibo
+  Twitter: https://twitter.com/rss2ebook || fab fa-twitter
+>>>>>>> d1cecc2 (first commit)
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
@@ -675,14 +685,23 @@ comments:
 # Disqus
 # For more information: https://disqus.com
 disqus:
+<<<<<<< HEAD
   enable: true
   shortname: blog-rss2ebook-com
+=======
+  enable: false
+  shortname: # blog-rss2ebook-com
+>>>>>>> d1cecc2 (first commit)
   count: true
 
 # DisqusJS
 # For more information: https://disqusjs.skk.moe
 disqusjs:
+<<<<<<< HEAD
   enable: true
+=======
+  enable: false
+>>>>>>> d1cecc2 (first commit)
   # API Endpoint of Disqus API (https://disqus.com/api/docs/).
   # Leave api empty if you are able to connect to Disqus API. Otherwise you need a reverse proxy for it.
   # For example:
@@ -754,14 +773,24 @@ add_this_id:
 # Google Analytics
 # See: https://analytics.google.com
 google_analytics:
+<<<<<<< HEAD
   tracking_id: # <app_id>
+=======
+  tracking_id: G-KZ464V0KMX
+>>>>>>> d1cecc2 (first commit)
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
   only_pageview: false
 
+<<<<<<< HEAD
 # Baidu Analytics
 # See: https://tongji.baidu.com
 baidu_analytics: 650f4341b2a12e2d8ad2fe41503f282c
+=======
+baiduAnalytics:
+  enable: false
+  id: 74dfb013d45a0618e37b66859a58a159 #百度的分析 id
+>>>>>>> d1cecc2 (first commit)
 
 # Growingio Analytics
 # See: https://www.growingio.com
@@ -769,7 +798,11 @@ growingio_analytics: # <project_id>
 
 # Cloudflare Web Analytics
 # See: https://www.cloudflare.com/web-analytics/
+<<<<<<< HEAD
 cloudflare_analytics:
+=======
+cloudflare_analytics: 07cfe131e4094c1ba963bdf8f8a66f60
+>>>>>>> d1cecc2 (first commit)
 
 # Microsoft Clarity Analytics
 # See: https://clarity.microsoft.com/
@@ -923,4 +956,8 @@ images: images
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
   enable: false
+<<<<<<< HEAD
   length: 150
+=======
+  length: 150
+>>>>>>> d1cecc2 (first commit)

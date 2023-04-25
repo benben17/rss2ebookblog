@@ -1,9 +1,17 @@
 ---
+<<<<<<< HEAD
 title: RSS2EBOOK使用手册
+=======
+title: RSS2EBOOK 使用手册
+>>>>>>> d1cecc2 (first commit)
 tags: [RSS2EBOOK]
 date: 2022-10-20
 comments: true
 lang: zh-CN
+<<<<<<< HEAD
+=======
+filename : how-to-use
+>>>>>>> d1cecc2 (first commit)
 categories: 
   - RSS2EBOOK
 ---

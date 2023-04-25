@@ -1,20 +1,8 @@
----
-title: Introduction to RSS2EBOOK
-tags: [RSS2EBOOK]
-date: 2023-04-18
-lang: en
-categories: 
-  - RSS2EBOOK
----
-<<<<<<< HEAD
-
-=======
->>>>>>> d1cecc2 (first commit)
-### Product Introduction
+### Introduction
   Welcome to our RSS subscription to e-book generation service! This guide will introduce you to how to use our service and provide detailed information about the features and services we offer.
 
   Our service is suitable for any user who wants a customized, personalized content subscription service, including news, blogs, technology, culture, art, and other fields. Whether you are a busy white-collar worker, student, teacher, researcher, or freelancer, we can provide efficient, convenient, and high-quality service.
-<!-- more -->
+
 ### How to Use
 1. Register and log in
   Register and log in on our website to become our member. With your personal account, you can conveniently manage your subscriptions and e-books.
@@ -31,5 +19,6 @@ categories:
 ### Supported Services
 - Free version:
   Includes 10 subscription sources, default book cover, manual push, once a day push, e-book format setting, e-book adaptation type, articles within one day.
+
 - PLUS version:
   Includes 200 subscription sources, custom book cover, manual push, multiple pushes per day, e-book format setting, e-book adaptation type, retains article images, sets the oldest article (up to 7 days), removes hyperlinks in the article, automatic push, and push cycle setting.

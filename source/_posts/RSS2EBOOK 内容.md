@@ -1,19 +1,10 @@
 ---
-<<<<<<< HEAD
-title: RSS2EBOOK-内容
-tags: [RSS2EBOOK]
-date: 2023-04-11 19:12:13
-catalog: true
-lang: en
-comments: true
-=======
-title: RSS2EBOOK content
+title: RSS2EBOOK 内容
 tags: [RSS2EBOOK]
 date: 2023-04-11 19:12:13
 catalog: true
 comments: true
-lang: en
->>>>>>> d1cecc2 (first commit)
+lang: zh-CN
 categories: 
   - RSS2EBOOK
 ---
