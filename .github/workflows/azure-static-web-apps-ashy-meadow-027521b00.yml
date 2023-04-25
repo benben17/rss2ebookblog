@@ -4,18 +4,18 @@ on:
   push:
     branches:
       - mater
-  pull_request:
-    types: [opened, synchronize, reopened, closed]
-    branches:
-      - mater
+  # pull_request:
+  #   types: [opened, synchronize, reopened, closed]
+  #   branches:
+  #     - mater
 
 jobs:
   build_and_deploy_job:
-    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
+    if: github.event_name == 'push'
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
         with:
           submodules: true
       - name: Build And Deploy
